@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>我们的19班</title>
+      <link href="2020/%E6%88%91%E4%BB%AC%E7%9A%8419%E7%8F%AD/"/>
+      <url>2020/%E6%88%91%E4%BB%AC%E7%9A%8419%E7%8F%AD/</url>
+      
+        <content type="html"><![CDATA[<p>我们的<code>19</code>班</p><hr><link href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-playlist-ui.min.css" rel="stylesheet" /><link href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video-js.css" rel="stylesheet" /><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-http-streaming.min.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-playlist.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-playlist-ui.min.js'></script><style>.player-container{background:#1a1a1a;overflow:auto;}@media only screen and (min-width: 1000px) {.video-js{float: left;width: 75%;}}@media only screen and (min-width: 1000px) {.vjs-playlist{float: right;width: 25%;max-height:500px;}}@media only screen and (max-width: 1000px) {.video-js{float: left;width: 100%;}}@media only screen and (max-width: 1000px) {.vjs-playlist{float: right;width: 100%;}}.vjs-playlist-item{border: 1px solid #FFFFFF;}.vjs-playlist .vjs-selected{border: 1px solid #00FF00;}.vjs-playlist .vjs-selected img{opacity: .5;}</style><div id="welcomeVideo" class="player-container"><video id="theVideo" class="video-js vjs-default-skin vjs-big-play-centered vjs-v7 vjs-user-active" width="100%" height="100%"></video><div class="vjs-playlist playlist-container" id="videolist"></div></div><script>  var w = document.getElementById("welcomeVideo").offsetWidth;  var myVideo = videojs('theVideo', {    loop: false,    controls: true,    preload: 'auto',    autoplay: false,    width: w,    height: 0.5625*w,    playbackRates: [0.5,1,1.5,2,3]  });  myVideo.playlist([  {name: '19班高一春季学期',sources: [{src: 'https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/videos/life/19班高一春季学期/video.m3u8',type: 'application/x-mpegURL'}]},   {name: '2018.12.19班a人',sources: [{src: 'https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/videos/life/2018.12.19班a人/video.m3u8',type: 'application/x-mpegURL'}]},   {name: 'A栋A人',sources: [{src: 'https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/videos/life/A栋A人.mp4',type: 'video/mp4'}]},  {sources: [{src: 'https://rnwdwsfj-my.sharepoint.com/personal/ccjfun_nide_men/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fccjfun%5Fnide%5Fmen%2FDocuments%2FVideos%2FFilms%2F%E6%98%9F%E6%88%98%2FStar%2EWars%2E9%2EThe%2ERise%2Eof%2ESkywalker%2E2019%2Ewebm',type: 'video/webm'}]}  ]);  myVideo.playlistUi();</script><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 视频 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 高中 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>城市天际线：City of Westdale 系列</title>
+      <link href="2020/%E5%9F%8E%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%EF%BC%9ACity%20of%20Westdale%20%E7%B3%BB%E5%88%97/"/>
+      <url>2020/%E5%9F%8E%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%EF%BC%9ACity%20of%20Westdale%20%E7%B3%BB%E5%88%97/</url>
+      
+        <content type="html"><![CDATA[<p>来自国外大神的 City of Westdale 系列</p><p>我很喜欢的一位油管上的CSL大神，做出来的Westdale城真的超好看(●ˇ∀ˇ●)</p><hr><div style="position:relative;width:100%;height:0;padding-bottom:65%;"><iframe style="position:absolute;width:100%;height:100%;left:0;top:0;" src="https://www.acfun.cn/player/ac15112842" id="welcomeVideo" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe></div><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 视频 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 城市天际线 </tag>
+            
+            <tag> 游戏 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>通吃市面上几乎所有加密格式音乐的解密方法（1）</title>
+      <link href="2020/%E9%80%9A%E5%90%83%E5%B8%82%E9%9D%A2%E4%B8%8A%E5%87%A0%E4%B9%8E%E6%89%80%E6%9C%89%E5%8A%A0%E5%AF%86%E6%A0%BC%E5%BC%8F%E9%9F%B3%E4%B9%90%E7%9A%84%E8%A7%A3%E5%AF%86%E6%96%B9%E6%B3%95/"/>
+      <url>2020/%E9%80%9A%E5%90%83%E5%B8%82%E9%9D%A2%E4%B8%8A%E5%87%A0%E4%B9%8E%E6%89%80%E6%9C%89%E5%8A%A0%E5%AF%86%E6%A0%BC%E5%BC%8F%E9%9F%B3%E4%B9%90%E7%9A%84%E8%A7%A3%E5%AF%86%E6%96%B9%E6%B3%95/</url>
+      
+        <content type="html"><![CDATA[<iframe width="100%" height="50" scrolling="no" border="0" frameborder="no" framespacing="0" src="https://p.ccjfun.cf/bgm/94JGREU2"></iframe><p>unlock-music项目是以学习和技术研究的初衷创建的。Unlock encrypted music file in browser.在浏览器中解锁加密的音乐文件。原链接：<a href="https://github.com/ix64/unlock-music/">https://github.com/ix64/unlock-music/</a></p><link href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video-js.css" rel="stylesheet" /><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-http-streaming.min.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-resolution-switcher.js'></script><video id="welcomeVideo" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">      <source id="source" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/videos/tech/通吃市面上几乎所有加密格式音乐的解密方法/video.m3u8" type="application/x-mpegURL"></video><script>  var w = document.getElementById("welcomeVideo").parentNode.offsetWidth;  var myVideo = videojs('welcomeVideo', {    loop: false,    controls: true,    preload: 'auto',    autoplay: false,    width: w,    height: 0.5625*w,    playbackRates: [0.5,1,1.5,2,3],  })</script><p> <code>QQMusic Format QQ音乐格式</code>  (.qmc0/.qmc2/.qmc3/.qmcflac/.qmcogg/.tkm)</p><p> <code>MooMusic Format Moo音乐格式</code> (.bkcmp3/.bkcflac)</p><p> <code>QQMusic Tm Format QQ音乐Tm格式</code> (.tm0/.tm2/.tm3/.tm6)</p><p> <code>QQMusic New Format QQ音乐新格式</code> (.mflac/.mgg)</p><p> <code>Netease Format 网易云音乐格式</code> (.ncm)</p><ul><li>Drag and Drop 拖放文件</li><li>Play instantly 在线播放</li><li>Batch unlocking 批量解锁</li><li>Progressive Web App 渐进式Web应用</li><li>Complete ID3 for ncm 补全ncm的ID3信息</li><li>Multi-threads 多线程</li></ul><p>在线版：</p><blockquote><p><a href="https://plg.ccjfun.cf/mdx/">新加坡服务器</a> <a href="https://ext.ccjfun.cf/mdx/">美国服务器</a></p></blockquote><p>各版本下载：</p><blockquote><p>1 <a href="/mdx/MDCL.zip">电脑版</a> Windows，macOS通用，解压后执行index.html</p></blockquote><blockquote><p>2 <a href="/mdx/MDCS.zip">服务器版</a> 需部署至服务器上</p></blockquote><blockquote><p>3 <a href="/mdx/MDCA.apk">Android版</a> 调用系统WebView内核，部分旧手机可能无法加载</p></blockquote><blockquote><p>4 <a href="/mdx/MDCX.apk">Android X</a> 调用腾讯X5内核，解决部分兼容性问题</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 网络 </tag>
+            
+            <tag> 程序 </tag>
+            
+            <tag> 破解 </tag>
+            
+            <tag> 音乐 </tag>
+            
+            <tag> 工具 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>城市天际线：GTA5洛圣都快闪</title>
+      <link href="2020/%E5%9F%8E%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%EF%BC%9AGTA5%E6%B4%9B%E5%9C%A3%E9%83%BD%E5%BF%AB%E9%97%AA/"/>
+      <url>2020/%E5%9F%8E%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%EF%BC%9AGTA5%E6%B4%9B%E5%9C%A3%E9%83%BD%E5%BF%AB%E9%97%AA/</url>
+      
+        <content type="html"><![CDATA[<p>来自国外大神的GTA5城市天际线地图，没有滤镜没有mod，感受原生CSL（还是加mod好~）</p><p>BGM: <code>Taylor Swift - Bad Blood</code></p><hr><link href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video-js.css" rel="stylesheet" /><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-http-streaming.min.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-resolution-switcher.js'></script><video id="welcomeVideo" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">      <source id="source" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/videos/game/【城市天际线】GTA5洛圣都快闪/video.m3u8" type="application/x-mpegURL"></video><script>  var w = document.getElementById("welcomeVideo").parentNode.offsetWidth;  var myVideo = videojs('welcomeVideo', {    loop: false,    controls: true,    preload: 'auto',    autoplay: false,    width: w,    height: 0.5625*w,    playbackRates: [0.5,1,1.5,2,3],  })</script><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 视频 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 城市天际线 </tag>
+            
+            <tag> 游戏 </tag>
+            
+            <tag> 侠盗猎车5 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>浴火银河2(GOF2)--3小时全剧情通关</title>
+      <link href="2020/%E6%B5%B4%E7%81%AB%E9%93%B6%E6%B2%B32-GOF2-3%E5%B0%8F%E6%97%B6%E5%85%A8%E5%89%A7%E6%83%85%E9%80%9A%E5%85%B3/"/>
+      <url>2020/%E6%B5%B4%E7%81%AB%E9%93%B6%E6%B2%B32-GOF2-3%E5%B0%8F%E6%97%B6%E5%85%A8%E5%89%A7%E6%83%85%E9%80%9A%E5%85%B3/</url>
+      
+        <content type="html"><![CDATA[<p>拜新冠疫情所赐，宅家一个多月，实在想找点事情干，于是翻出了这款经典。时隔3年，重新在安卓端找到了GOF2可用的汉化高清破解版【汉化：还是不习惯英文；高清：都1080P时代了，那么大的按钮和每页少得可怜的文字有点不爽；破解：国内安卓要付费有点麻烦】，由于这个版本自带了信用点破解和蓝图破解，所以我玩着玩着就不自觉开始开挂作弊。。最后想想干脆重刷一遍，挑战一下自己，看看最快能花多长时间通关，也算是将自己磨砺了数年的GOF2技能再发光发热（笑），如果对我的行为表示鄙视的请勿观看咯。顺带做一遍回忆，毕竟这游戏伴随了我整个童年~</p><hr><p>另外，立个flag：等我拥有一台iOS设备，我会立马安装GOF2然后买下全部DLC，（虽然魔鱼倒闭了可能收不到钱。。。）然后录制一遍精致的通关视频（追求极致的装备、任务效率、获得全金章和全朱章）</p>        <style>.bbplayer{width: 100%; max-width: 850px; margin: auto}</style>        <div class="bbplayer">        <iframe class="bbplayer" id="mmedia-JztPcxsI" src="//player.bilibili.com/player.html?bvid=BV1V7411f7Jz&page=1&high_quality=1&danmaku=true"            allowfullscreen="no"            scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts allow-popups"></iframe>        </div>        <script>            document.getElementById("mmedia-JztPcxsI").style.height=document.getElementById("mmedia-JztPcxsI").scrollWidth*0.76+"px";            window.onresize = function(){              document.getElementById("mmedia-JztPcxsI").style.height=document.getElementById("mmedia-JztPcxsI").scrollWidth*0.76+"px";            };        </script>        <hr><blockquote><p>《浴火银河2》（galaxy on fire 2）是由德国魔鱼娱乐公司（Fishlabs Entertainment GmbH）开发的一款角色扮演/飞行射击类游戏，本作是2006年电子游戏《浴火银河3D》的续作，采用了其独有的游戏引擎ABYSS开发，玩家可以在游戏中扮演基斯·T·麦克斯维尔（Keith T. Maxwell）——一个因事故意外穿越到35年后的太空雇佣兵，在宇宙中往来贸易，并接受来自Deep Science组织的任务，调查与神秘的Void种族有关的信息。</p><p>《浴火银河2》于2009年2月开始发售，先后登陆JAVA（塞班平台）、苹果App Store（iOS平台）、Google Play（Android平台）、黑莓App World（黑莓OS平台）、Nokia Store（MeeGo平台），另有专门为高清晰设备开发的《浴火银河2：高清版》发售。《浴火银河2：全高清版》（Galaxy on Fire 2: Full HD）则于2011年发售，登陆苹果mac OS平台与微软Windows平台。</p><p>简介：</p><p>1.主故事线（Void）<br>公元3598年，雇佣兵Keith T. Maxwell发现了并消灭了三个正被当局通缉的太空盗，准备返回伊甸主星Eden Prime领取赏金，不料超光速引擎在战斗中受损，引发故障使他穿越到了35年后。Mido人Gunant Breh在Var Hastra的小行星带中发现了Maxwell，并帮助他返回了Terran联邦星域。</p><p>在老朋友Brent Snocom的建议下，Maxwell开始为Deep Space组织服务，后者是Terran联邦为应对神秘的Void种族威胁而设立的科研机构——Void掌握了开启虫洞的技术，正在利用虫洞来抢劫Terran、Vossk、Nivelian和Midorian的货船。四个种族不断地受到Void的伤害。</p><p>在此时刻，Keith和Brent Snocom、Deep Science团队一起研制出新的科学成果，摧毁了Void的母舰，四个种族又恢复了和平的生活。</p><p>2.DLC故事线1（瓦尔基里）</p><p>武器贩子Alice决定利用Keith来帮他发财助一臂之力，决定给Keith高额的金钱来为她服务。在一个个任务的秘密目标中，Keith知道了Alice的真正目的——利用Khador驱动器做蓝图发横财。在Deep Science和Keith的联合反攻之下，Alice最终以失败告终，被传送到了Void。</p><p>3.DLC故事线2（超新星）<br>Nivelian一群称为“黑卫士”的组织在Midorian领域引发超新星爆发，从一句句稀奇古怪的话中，我们看出了Nivelian总指挥——Trunt Harval这个人是为了消灭Midorian人的其中一步。最后此计划被Terran人揭穿。在Terran和Midorian人的联合绞杀之下，Nivelian的Trunt军政府倒台，超新星也被抑制住了。</p></blockquote><p>—以上介绍来自百度百科—</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 视频 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 游戏 </tag>
+            
+            <tag> 浴火银河2 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>城市天际线：欢迎来到东勘察加城</title>
+      <link href="2020/%E5%9F%8E%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%EF%BC%9A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E4%B8%9C%E5%8B%98%E5%AF%9F%E5%8A%A0%E5%9F%8E/"/>
+      <url>2020/%E5%9F%8E%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%EF%BC%9A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E4%B8%9C%E5%8B%98%E5%AF%9F%E5%8A%A0%E5%9F%8E/</url>
+      
+        <content type="html"><![CDATA[<p>In the coming 15 years , the EKC will develop industry, aerospace, precision electronics, free trade, new energy, quantum technology, tourism, landmark building, commerce, linkage transportation system, network and information technology, and come to the world’s top level.<br>在未来的15年里，东勘察加城将会发展工业，航空，精密电子，自贸，新能源，高新技术，旅游，地标建筑，金融，联动交通，网络和IT，并发展为世界顶尖水平。</p><p>We have the confidence to build the EKC into one of the world centers of P&amp;F&amp;C&amp;S.<br>我们有信心将东勘察加城建设为一个***的（我也忘了我当时要表达什么，笑）世界中心。</p><hr><link href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video-js.css" rel="stylesheet" /><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-http-streaming.min.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-resolution-switcher.js'></script><video id="welcomeVideo" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">      <source id="source" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/videos/game/【城市天际线】东勘察加城/video.m3u8" type="application/x-mpegURL" /></video><script>  var w = document.getElementById("welcomeVideo").parentNode.offsetWidth;  var myVideo = videojs('welcomeVideo', {    loop: false,    controls: true,    preload: 'auto',    autoplay: false,    width: w,    playbackRates: [0.5,1,1.5,2,3],  })</script><hr><p>If you settle in the EKC now , you will get* : Homing Tax Totally Off，Business Tax Totally Off，Industry Tax 90% Off<br>如果你现在加入东勘察加城，你将可享受：住房税全免，商业税全免，工业税免除90%</p><p>*The tax will return you in 18 months.<br>*这些税收将在征收满18个月之后返还。</p><p>You can help us build the EKC , such as：Economical Operation，Infrastructure Construction，Industrial Production<br>我们需要：金融人才，基建人才，工业人才</p><p>As a reward , these are free** for you : Kids’ Study Up To College，Public Transport，Highway Toll，Basic Medical Treatment<br>作为回报，您将可免费**享有：子女教育（直至大学本科），公共交通，高速通行，基础医疗</p><p>**If you leave the EKC within 2 years , you have to pay the fees off.<br>**如果您在东勘察加城居住时间少于2年内离开，您需偿还以上费用。</p><p>For more information , please visit : devabul.ek (404,????)<br>想获取更多信息请访问：devabul.ek（404，笑）</p><p>当然，以上吹水均为虚构，而且这座城市早已被核弹摧毁。。。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 视频 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 城市天际线 </tag>
+            
+            <tag> 游戏 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>TyanPhone™ 系列</title>
+      <link href="2020/TyanPhone%E2%84%A2-%E7%B3%BB%E5%88%97/"/>
+      <url>2020/TyanPhone%E2%84%A2-%E7%B3%BB%E5%88%97/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Gen-Tyan-新一代PPT手机即将震撼发布"><a href="#Gen-Tyan-新一代PPT手机即将震撼发布" class="headerlink" title="Gen Tyan 新一代PPT手机即将震撼发布!"></a>Gen Tyan 新一代PPT手机即将震撼发布!</h1><h2 id="TyanPhone："><a href="#TyanPhone：" class="headerlink" title="TyanPhone："></a>TyanPhone：</h2><p>零界全面屏/超大弧度边缘/隐藏式三摄像头/全镜面背部可自拍</p><h2 id="TyanPhone-Lite："><a href="#TyanPhone-Lite：" class="headerlink" title="TyanPhone Lite："></a>TyanPhone Lite：</h2><p>零界全面屏/幻彩瀑布边缘/隐藏式双摄像头/全镜面背部可自拍</p><hr><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 视频 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 手机 </tag>
+            
+            <tag> TyanPhone </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>阿西莫夫经典作品合集</title>
+      <link href="2020/%E9%98%BF%E8%A5%BF%E8%8E%AB%E5%A4%AB%E7%BB%8F%E5%85%B8%E4%BD%9C%E5%93%81%E5%90%88%E9%9B%86/"/>
+      <url>2020/%E9%98%BF%E8%A5%BF%E8%8E%AB%E5%A4%AB%E7%BB%8F%E5%85%B8%E4%BD%9C%E5%93%81%E5%90%88%E9%9B%86/</url>
+      
+        <content type="html"><![CDATA[<iframe width="100%" height="50" scrolling="no" border="0" frameborder="no" framespacing="0" src="https://p.ccjfun.cf/bgm/TTBCDTZW"></iframe><h1 id="银河帝国1：基地（Foundation）"><a href="#银河帝国1：基地（Foundation）" class="headerlink" title="银河帝国1：基地（Foundation）"></a>银河帝国1：基地（Foundation）</h1><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/阿西莫夫经典作品合集/01.jpg"></img></p>人类蜗居在银河系的一个小角落——太阳系，在围绕太阳旋转的第三颗行星上，生活了十多万年之久。<p>人类在这个小小的行星（他们称之为“地球”）上，建立了两百多个不同的行政区域（他们称之为“国家”），直到地球上诞生了第一个会思考的机器人。</p><p>在机器人的帮助下，人类迅速掌握了改造外星球的技术，开启了恢弘的星际殖民运动；人类在银河系如蝗虫般繁衍扩张，带着他们永不磨灭的愚昧与智慧、贪婪与良知，登上了一个个荒凉的星球，并将银河系卷入漫长的星际战国时代，直至整个银河被统一，一个统治超过2500万个住人行星、疆域横跨十万光年、总计数兆亿人口的庞大帝国崛起——银河帝国。</p><p>一个微妙的转折发生在银河帝国建国后的12020年。哈里·谢顿，这个刚满32岁的年轻数学家，开创了“心理史学”，这门学科能用数学公式准确推演全人类的未来——“预言”从此成为一门可以信任的科学，人类由此可以看见未来。</p><p>谢顿的第一个预言是：虽然毫无征兆，但已存在一万两千年之久的银河帝国即将灭亡。</p><p>一时间，银河震动，帝国飘摇；皇帝、宰相、夺权者、反叛星球，各方势力立刻剑拔弩张，人类银河时代最伟大的传奇就此开启……</p><p><a href="https://docs.qq.com/doc/DTUtRaGhaSldkeXhq?pub=1">在线阅读</a></p><h1 id="银河帝国2：基地与帝国（Foundation-and-Empire）"><a href="#银河帝国2：基地与帝国（Foundation-and-Empire）" class="headerlink" title="银河帝国2：基地与帝国（Foundation and Empire）"></a>银河帝国2：基地与帝国（Foundation and Empire）</h1><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/阿西莫夫经典作品合集/02.jpg"></img></p>经过近200年的励精图治，基地征服了银河边缘众多王国，势力不断向银河中心蔓延，终于与银河帝国产生正面冲突。<p>帝国虽已江河日下，仍旧拥有银河中最庞大的舰队。帝国最后一位野心勃勃的年轻将军注意到了银河边缘的异动，他率领的星际舰队所向披靡，即将占领基地。只剩下谢顿当年的预言，成为基地最后一线希望……</p><p>然而，纵使是天机算尽的谢顿，也无法预料到整个银河的历史，竟然会因为一个来历不明的人而改变……</p><p>敬请阅读《银河帝国2：基地与帝国》。</p><p><a href="https://docs.qq.com/doc/DTXZiRnBtbGtES1h2?pub=1">在线阅读</a></p><h1 id="银河帝国3：第二基地（Second-Foundation）"><a href="#银河帝国3：第二基地（Second-Foundation）" class="headerlink" title="银河帝国3：第二基地（Second Foundation）"></a>银河帝国3：第二基地（Second Foundation）</h1><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/阿西莫夫经典作品合集/03.jpg"></img></p>未来一千年，人类在银河系的历史，哈里•谢顿已经全盘设计好了。只要一切都按照“谢顿计划”进行，一千年之后，就是永久的太平盛世。<p>计划顺利进行了三百多年，银河某处，突然出现了一个自称“骡”的突变异种，他能轻易操纵人心，竟然在短短几年之内就征服了整个银河。基地也被攻下，“谢顿计划”似乎已经失败……</p><p>不过，古老的传说中，似乎还有另一个基地，它在银河的另一端，在群星的尽头……</p><p>为了彻底征服银河，骡必须要攻下第二基地。经过五年的漫长搜索，他终于发现了第二基地的下落。但骡找到的，真的是第二基地吗？这成为银河历史上最大的悬案……</p><p><a href="https://docs.qq.com/doc/DTW9SRnpKeGJUS2lY?pub=1">在线阅读</a></p><h1 id="银河帝国4：基地前奏（Prelude-to-Foundation）"><a href="#银河帝国4：基地前奏（Prelude-to-Foundation）" class="headerlink" title="银河帝国4：基地前奏（Prelude to Foundation）"></a>银河帝国4：基地前奏（Prelude to Foundation）</h1><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/阿西莫夫经典作品合集/04.jpg"></img></p>银河帝国12020年，正是繁荣盛世。哈里•谢顿，一个刚满32岁的年轻数学家，发表了一篇纯粹是数学理论的论文，设想一门还并不存在的学科“心理史学”。为什么一夜之间，这篇论文竟然成为万众瞩目的焦点？<p>帝国皇帝要召见他，帝国宰相要追杀他，夺权者要绑架他……各种来历不明的人物纷纷现身，谢顿被迫在首都星球川陀不断逃亡。</p><p>他最后会落入何人之手？而谢顿原本认为心理史学只是一门空谈理论的学科，为什么又决定将毕生精力投入心理史学的实际应用？甚至，他立志用这门学科来拯救人类，拯救这个由2500万个住人行星构成的庞大帝国……</p><p>敬请阅读《银河帝国4：基地前奏》。本书讲述的是心理史学诞生的传奇故事……</p><p><a href="https://docs.qq.com/doc/DTWZXQ05tU29IaFBy?pub=1">在线阅读</a></p><h1 id="银河帝国5：迈向基地（Forward-the-Foundation）"><a href="#银河帝国5：迈向基地（Forward-the-Foundation）" class="headerlink" title="银河帝国5：迈向基地（Forward the Foundation）"></a>银河帝国5：迈向基地（Forward the Foundation）</h1><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/阿西莫夫经典作品合集/05.jpg"></img></p>我，是哈里•谢顿，银河帝国首相、川陀大学教授、心理史学研究计划主持人、《银河百科全书》执行主编、基地的创造者。<p>这些头衔都相当动听，然而我经常自问，倘若一切可以重新来过，我是否还愿意为此付出无比惨痛的代价？</p><p>回顾我这一生，自30岁开始，半个世纪以来，大约每隔十年，便出现一次重大的转折……</p><p><a href="https://docs.qq.com/doc/DTUVtSXF1WmtHaHV3?pub=1">在线阅读</a></p><h1 id="银河帝国6：基地边缘（Foundation’s-Edge）"><a href="#银河帝国6：基地边缘（Foundation’s-Edge）" class="headerlink" title="银河帝国6：基地边缘（Foundation’s Edge）"></a>银河帝国6：基地边缘（Foundation’s Edge）</h1><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/阿西莫夫经典作品合集/06.jpg"></img></p>基地纪元498年，两名基地公民登上最先进的太空艇，准备进行一次极不寻常的银河之旅。表面上，他们将寻找传说中的人类原乡，实际的任务，则是要证明第二基地依旧存在。<p>与此同时，银河中又出现神秘的第三方势力。他们神出鬼没，似乎能控制一切，甚至连谢顿计划，好像也在他们掌控之中。第一基地、第二基地与神秘的第三方势力，最后竟在一颗称为盖娅的行星交会！这到底是巧合，还是经过精心的安排？</p><p>银河未来终极的命运，即将在他们眼前揭示……</p><p><a href="https://docs.qq.com/doc/DTVJYalVEV1Z5Vlll?pub=1">在线阅读</a></p><h1 id="银河帝国7：基地与地球（Foundation-and-Earth）"><a href="#银河帝国7：基地与地球（Foundation-and-Earth）" class="headerlink" title="银河帝国7：基地与地球（Foundation and Earth）"></a>银河帝国7：基地与地球（Foundation and Earth）</h1><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/阿西莫夫经典作品合集/07.jpg"></img></p>银河的命运取决于某人一念之间，这个人就是葛兰•崔维兹，而他竟然抛弃了伟大的谢顿计划，选择了盖娅星系。难道谢顿计划有重大缺陷？<p>崔维兹坚信地球是解开一切谜团的关键，然而这颗源头母星早已不知所踪，茫茫星际间，他要从何寻觅？倘若真能找到地球，他还会选择放弃谢顿计划吗？银河众生又将何去何从……</p><p><a href="https://docs.qq.com/doc/DTUNZUWFVQmpiZExC?pub=1">在线阅读</a></p><h1 id="银河帝国8：我，机器人（I-Robot）"><a href="#银河帝国8：我，机器人（I-Robot）" class="headerlink" title="银河帝国8：我，机器人（I, Robot）"></a>银河帝国8：我，机器人（I, Robot）</h1><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/阿西莫夫经典作品合集/08.jpg"></img></p>让我们回到两万多年前，机•丹尼尔还未被制造出来的那个年代，当时地球还是个可住人的行星，人类正忙于制造机器人……<p>机器人学三大法则</p><p>一、机器人不得伤害人类，或因不作为而使人类受到伤害。</p><p>二、除非违背第一法则，机器人必须服从人类的命令。</p><p>三、在不违背第一及第二法则的情况下，机器人必须保护自己。</p><p>三大法则的逻辑无懈可击吗？这三大法则，是让机器人更温顺了，还是更危险了？“美国机器人公司”首席机器人心理学家苏珊•凯文，讲述了她记忆中最深刻的9次事故……</p><p><a href="https://docs.qq.com/doc/DTU1SbHluSFVRQ2Ru?pub=1">在线阅读</a></p><h1 id="银河帝国9：钢穴（The-Caves-of-Steel）"><a href="#银河帝国9：钢穴（The-Caves-of-Steel）" class="headerlink" title="银河帝国9：钢穴（The Caves of Steel）"></a>银河帝国9：钢穴（The Caves of Steel）</h1><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/阿西莫夫经典作品合集/09.jpg"></img></p>地球纪元3421年，机器人与地球人相处得不太好。<p>地球刑警贝莱向来不喜欢机器人，然而一桩地球人辖区内的涉外谋杀案，让他不得不和机器人奥利瓦合作破案。种种迹象让贝莱认为：机器人奥利瓦就是杀人凶手。</p><p>但，机器人怎么可能杀死人类，违抗第一法则呢？破案过程的麻烦不断，反遭暗算的地球刑警贝莱，他能证明自己的清白，抓到真正的凶手吗？</p><p><a href="https://docs.qq.com/doc/DTXF1a0VpUVloSnpQ?pub=1">在线阅读</a></p><h1 id="银河帝国10：裸阳（The-Naked-Sun）"><a href="#银河帝国10：裸阳（The-Naked-Sun）" class="headerlink" title="银河帝国10：裸阳（The Naked Sun）"></a>银河帝国10：裸阳（The Naked Sun）</h1><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/阿西莫夫经典作品合集/10.jpg"></img></p>索拉利星球上，发生了第一起谋杀案。<p>这起案件的困境在于：1）任何索拉利人，除了自己的配偶外，不可能与其他任何人接触。2）一切证据都说明被害人的妻子绝对不是凶手。</p><p>凶手难道是身为奴隶的机器人吗？但是，“机器人学三大法则”是不可能允许机器人杀人的。</p><p>凶手究竟是谁？贝莱与丹尼尔再次携手办案！</p><p><a href="https://docs.qq.com/doc/DTVZVZnZNVEVrUWJK?pub=1">在线阅读</a></p><h1 id="银河帝国11：曙光中的机器人（The-Robots-of-Dawn）"><a href="#银河帝国11：曙光中的机器人（The-Robots-of-Dawn）" class="headerlink" title="银河帝国11：曙光中的机器人（The Robots of Dawn）"></a>银河帝国11：曙光中的机器人（The Robots of Dawn）</h1><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/阿西莫夫经典作品合集/11.jpg"></img></p>奥罗拉星球上，发生了一起神秘的“机杀案”：一个人形机器人突然停摆了。<p>这个案件的离奇之处在于：1）奥罗拉上唯一有能力作案的是法斯陀夫博士，所有证据似乎也都指向他2）而请贝莱破案的竟也正是他。</p><p>人形机器人的停摆究竟是偶发事件还是恶意凶杀？</p><p>真正的凶手是法斯陀夫还是另有其人？</p><p>机杀案背后又隐藏着什么重大阴谋？</p><p>贝莱和丹尼尔展开调查！</p><p><a href="https://docs.qq.com/doc/DTVNBdk5PR1liZFZI?pub=1">在线阅读</a></p><h1 id="银河帝国12：机器人与帝国（Robots-and-Empire）"><a href="#银河帝国12：机器人与帝国（Robots-and-Empire）" class="headerlink" title="银河帝国12：机器人与帝国（Robots and Empire）"></a>银河帝国12：机器人与帝国（Robots and Empire）</h1><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/阿西莫夫经典作品合集/12.jpg"></img></p>故事分别发生在奥罗拉世界、索拉利世界、贝莱世界和地球。<p>完全依赖机器人的索拉利世界上已空无一人，只剩下机器人留守，索拉利人都到哪里去了? </p><p>地球人的殖民运动蓬勃发展，地球及其银河殖民者的壮大，使外世界感到恐慌。</p><p>外世界的领先者奥罗拉人觉得情势紧急，要维护 外世界的强势，必须采取强有力的措施，以遏制地球和殖民世界继续开拓银河的势头。</p><p>机器人丹尼尔和吉斯卡牢记地球殖民者老祖宗伊利亚·贝莱的告诫：如果不扩展，不追求进步，世界就会日趋衰败。</p><p>为了拯救地球及其殖民者，拯救人类，促使地球人及外世界人向外发展，建立一个崭新的银河帝国，丹尼尔和吉斯卡自觉肩负起这一重任。</p><p>但是，“机器人学三大法则”束缚着他们的手脚。是严守“机器人学三大法则”，眼看地球走向毁灭，还是违背法则毁灭自身？</p><p><a href="https://docs.qq.com/doc/DTVB1U2dnc25BdVZN?pub=1">在线阅读</a></p><h1 id="银河帝国13：繁星若尘（The-Stars-Like-Dust）"><a href="#银河帝国13：繁星若尘（The-Stars-Like-Dust）" class="headerlink" title="银河帝国13：繁星若尘（The Stars, Like Dust）"></a>银河帝国13：繁星若尘（The Stars, Like Dust）</h1><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/阿西莫夫经典作品合集/13.jpg"></img></p>年轻的拜伦王子、天雾星未来的牧主，在地球学习期间险遭核辐射。其父，受人尊敬的维迪莫斯牧主落入凶残的太暴人手中，身临险境。<p>拜伦被迫踏入浩大宇宙的征途，寻找失落了的，足以毁灭整个世界的神秘文件。另一方面，被强权统治下的各星际人民，受到了反叛军的煽动，团结起来准备推翻太暴星人。在分秒必争的时间，拜伦急需找到神秘文件，并阻止反叛军挑起全世界的战斗。</p><p>繁星若尘，瑰丽、奇幻的银河隐隐浮现出阴谋的影子，浩瀚的太空中涌动着权利与统治、科技与发展、阴谋与爱情的纷争……</p><p><a href="https://docs.qq.com/doc/DTXpPcVd6SnVzbVRx?pub=1">在线阅读</a></p><h1 id="银河帝国14：星空暗流（The-Currents-of-Space）"><a href="#银河帝国14：星空暗流（The-Currents-of-Space）" class="headerlink" title="银河帝国14：星空暗流（The Currents of Space）"></a>银河帝国14：星空暗流（The Currents of Space）</h1><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/阿西莫夫经典作品合集/14.jpg"></img></p>经过若干年的星际争霸，川陀已席卷银河半壁江山，只剩富甲天下的萨克能与之抗衡。萨克的经济命脉是其殖民星弗罗伦纳的特产——蓟荋，这种稀有植物为萨克嫌取了全银河的财富，川陀对此觊觎已久。<p>愚可，一个曾遭心灵改造的白痴，突然宣称整个弗罗伦纳的末日即将来临，银河其他世界亦将遭到同样的命运。他脑中究竟藏着怎样的惊天秘密?接二连三的凶杀案，是否与这个天大的秘密有关于为了挽救整个银河，两大强权破例携手合作，在既联合又斗争的行动中，究竟哪一方才是最后的胜利者……</p><p><a href="https://docs.qq.com/doc/DTURtTGZzdGNQcUdJ?pub=1">在线阅读</a></p><h1 id="银河帝国15：苍穹一粟（Pebble-in-the-Sky）"><a href="#银河帝国15：苍穹一粟（Pebble-in-the-Sky）" class="headerlink" title="银河帝国15：苍穹一粟（Pebble in the Sky）"></a>银河帝国15：苍穹一粟（Pebble in the Sky）</h1><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/阿西莫夫经典作品合集/15.jpg"></img></p>现代人史瓦兹因一步之差来到数万年后的地球。<p>当时正值银河纪元，天狼新区的考古学家艾伐丹也在同一时期抵达地球，为他的惊人猜想进行实地考察。而地球上的科学家谢克特医生和他的女儿一起偷偷进行着冒险的手术实验。</p><p>史瓦兹、艾伐丹以及谢克特父女在机缘巧合之下聚到了一起，却很快被指控为反动势力，惨遭当局逮捕。</p><p> “究竟谁才是真正的地球人”，他们不惜背负“叛徒”“谋反”的恶名，踏上了保卫银河帝国的艰难之路。</p><p><a href="https://docs.qq.com/doc/DTXZYZE1wZlNZQmJ1?pub=1">在线阅读</a></p><h1 id="文件列表（kindle电子书）"><a href="#文件列表（kindle电子书）" class="headerlink" title="文件列表（kindle电子书）"></a>文件列表（kindle电子书）</h1><table><thead><tr><th>书名</th><th align="center">格式 - 大小</th></tr></thead><tbody><tr><td><a href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/ebooks/%E8%89%BE%E8%90%A8%E5%85%8B%C2%B7%E9%98%BF%E8%A5%BF%E8%8E%AB%E5%A4%AB/%E9%93%B6%E6%B2%B3%E5%B8%9D%E5%9B%BD/%E9%93%B6%E6%B2%B3%E5%B8%9D%E5%9B%BD1%EF%BC%9A%E5%9F%BA%E5%9C%B0%EF%BC%88Foundation%EF%BC%89.kfx">银河帝国1：基地（Foundation）</a></td><td align="center">KFX - 707 kB</td></tr><tr><td><a href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/ebooks/%E8%89%BE%E8%90%A8%E5%85%8B%C2%B7%E9%98%BF%E8%A5%BF%E8%8E%AB%E5%A4%AB/%E9%93%B6%E6%B2%B3%E5%B8%9D%E5%9B%BD/%E9%93%B6%E6%B2%B3%E5%B8%9D%E5%9B%BD10%EF%BC%9A%E8%A3%B8%E9%98%B3%EF%BC%88The%20Naked%20Sun%EF%BC%89.kfx">银河帝国10：裸阳（The.Naked.Sun）</a></td><td align="center">KFX - 744 kB</td></tr><tr><td><a href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/ebooks/%E8%89%BE%E8%90%A8%E5%85%8B%C2%B7%E9%98%BF%E8%A5%BF%E8%8E%AB%E5%A4%AB/%E9%93%B6%E6%B2%B3%E5%B8%9D%E5%9B%BD/%E9%93%B6%E6%B2%B3%E5%B8%9D%E5%9B%BD11%EF%BC%9A%E6%9B%99%E5%85%89%E4%B8%AD%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA%EF%BC%88The%20Robots%20of%20Dawn%EF%BC%89.kfx">银河帝国11：曙光中的机器人（The.Robots.of.Dawn）</a></td><td align="center">KFX - 1.3 MB</td></tr><tr><td><a href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/ebooks/%E8%89%BE%E8%90%A8%E5%85%8B%C2%B7%E9%98%BF%E8%A5%BF%E8%8E%AB%E5%A4%AB/%E9%93%B6%E6%B2%B3%E5%B8%9D%E5%9B%BD/%E9%93%B6%E6%B2%B3%E5%B8%9D%E5%9B%BD12%EF%BC%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8E%E5%B8%9D%E5%9B%BD%EF%BC%88Robots%20and%20Empire%EF%BC%89.kfx">银河帝国12：机器人与帝国（Robots.and.Empire）</a></td><td align="center">KFX - 1.3 MB</td></tr><tr><td><a href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/ebooks/%E8%89%BE%E8%90%A8%E5%85%8B%C2%B7%E9%98%BF%E8%A5%BF%E8%8E%AB%E5%A4%AB/%E9%93%B6%E6%B2%B3%E5%B8%9D%E5%9B%BD/%E9%93%B6%E6%B2%B3%E5%B8%9D%E5%9B%BD13%EF%BC%9A%E7%B9%81%E6%98%9F%E8%8B%A5%E5%B0%98%EF%BC%88The%20Stars,%20Like%20Dust%EF%BC%89.kfx">银河帝国13：繁星若尘（The.Stars,.Like.Dust）</a></td><td align="center">KFX - 709 kB</td></tr><tr><td><a href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/ebooks/%E8%89%BE%E8%90%A8%E5%85%8B%C2%B7%E9%98%BF%E8%A5%BF%E8%8E%AB%E5%A4%AB/%E9%93%B6%E6%B2%B3%E5%B8%9D%E5%9B%BD/%E9%93%B6%E6%B2%B3%E5%B8%9D%E5%9B%BD14%EF%BC%9A%E6%98%9F%E7%A9%BA%E6%9A%97%E6%B5%81%EF%BC%88The%20Currents%20of%20Space%EF%BC%89.kfx">银河帝国14：星空暗流（The.Currents.of.Space）</a></td><td align="center">KFX - 698 kB</td></tr><tr><td><a href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/ebooks/%E8%89%BE%E8%90%A8%E5%85%8B%C2%B7%E9%98%BF%E8%A5%BF%E8%8E%AB%E5%A4%AB/%E9%93%B6%E6%B2%B3%E5%B8%9D%E5%9B%BD/%E9%93%B6%E6%B2%B3%E5%B8%9D%E5%9B%BD15%EF%BC%9A%E8%8B%8D%E7%A9%B9%E4%B8%80%E7%B2%9F%EF%BC%88Pebble%20in%20the%20Sky%EF%BC%89.kfx">银河帝国15：苍穹一粟（Pebble.in.the.Sky）</a></td><td align="center">KFX - 707 kB</td></tr><tr><td><a href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/ebooks/%E8%89%BE%E8%90%A8%E5%85%8B%C2%B7%E9%98%BF%E8%A5%BF%E8%8E%AB%E5%A4%AB/%E9%93%B6%E6%B2%B3%E5%B8%9D%E5%9B%BD/%E9%93%B6%E6%B2%B3%E5%B8%9D%E5%9B%BD2%EF%BC%9A%E5%9F%BA%E5%9C%B0%E4%B8%8E%E5%B8%9D%E5%9B%BD%EF%BC%88Foundation%20and%20Empire%EF%BC%89.kfx">银河帝国2：基地与帝国（Foundation.and.Empire）</a></td><td align="center">KFX - 778 kB</td></tr><tr><td><a href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/ebooks/%E8%89%BE%E8%90%A8%E5%85%8B%C2%B7%E9%98%BF%E8%A5%BF%E8%8E%AB%E5%A4%AB/%E9%93%B6%E6%B2%B3%E5%B8%9D%E5%9B%BD/%E9%93%B6%E6%B2%B3%E5%B8%9D%E5%9B%BD3%EF%BC%9A%E7%AC%AC%E4%BA%8C%E5%9F%BA%E5%9C%B0%EF%BC%88Second%20Foundation%EF%BC%89.kfx">银河帝国3：第二基地（Second.Foundation）</a></td><td align="center">KFX - 760 kB</td></tr><tr><td><a href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/ebooks/%E8%89%BE%E8%90%A8%E5%85%8B%C2%B7%E9%98%BF%E8%A5%BF%E8%8E%AB%E5%A4%AB/%E9%93%B6%E6%B2%B3%E5%B8%9D%E5%9B%BD/%E9%93%B6%E6%B2%B3%E5%B8%9D%E5%9B%BD4%EF%BC%9A%E5%9F%BA%E5%9C%B0%E5%89%8D%E5%A5%8F%EF%BC%88Prelude%20to%20Foundation%EF%BC%89.kfx">银河帝国4：基地前奏（Prelude.to.Foundation）</a></td><td align="center">KFX - 1.2 MB</td></tr><tr><td><a href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/ebooks/%E8%89%BE%E8%90%A8%E5%85%8B%C2%B7%E9%98%BF%E8%A5%BF%E8%8E%AB%E5%A4%AB/%E9%93%B6%E6%B2%B3%E5%B8%9D%E5%9B%BD/%E9%93%B6%E6%B2%B3%E5%B8%9D%E5%9B%BD5%EF%BC%9A%E8%BF%88%E5%90%91%E5%9F%BA%E5%9C%B0%EF%BC%88Forward%20the%20Foundation%EF%BC%89.kfx">银河帝国5：迈向基地（Forward.the.Foundation）</a></td><td align="center">KFX - 1.1 MB</td></tr><tr><td><a href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/ebooks/%E8%89%BE%E8%90%A8%E5%85%8B%C2%B7%E9%98%BF%E8%A5%BF%E8%8E%AB%E5%A4%AB/%E9%93%B6%E6%B2%B3%E5%B8%9D%E5%9B%BD/%E9%93%B6%E6%B2%B3%E5%B8%9D%E5%9B%BD6%EF%BC%9A%E5%9F%BA%E5%9C%B0%E8%BE%B9%E7%BC%98%EF%BC%88Foundation%E2%80%99s%20Edge%EF%BC%89.kfx">银河帝国6：基地边缘（Foundation’s.Edge）</a></td><td align="center">KFX - 1.2 MB</td></tr><tr><td><a href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/ebooks/%E8%89%BE%E8%90%A8%E5%85%8B%C2%B7%E9%98%BF%E8%A5%BF%E8%8E%AB%E5%A4%AB/%E9%93%B6%E6%B2%B3%E5%B8%9D%E5%9B%BD/%E9%93%B6%E6%B2%B3%E5%B8%9D%E5%9B%BD7%EF%BC%9A%E5%9F%BA%E5%9C%B0%E4%B8%8E%E5%9C%B0%E7%90%83%EF%BC%88Foundation%20and%20Earth%EF%BC%89.kfx">银河帝国7：基地与地球（Foundation.and.Earth）</a></td><td align="center">KFX - 1.3 MB</td></tr><tr><td><a href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/ebooks/%E8%89%BE%E8%90%A8%E5%85%8B%C2%B7%E9%98%BF%E8%A5%BF%E8%8E%AB%E5%A4%AB/%E9%93%B6%E6%B2%B3%E5%B8%9D%E5%9B%BD/%E9%93%B6%E6%B2%B3%E5%B8%9D%E5%9B%BD8%EF%BC%9A%E6%88%91%EF%BC%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%EF%BC%88I,%20Robot%EF%BC%89.kfx">银河帝国8：我，机器人（I,.Robot）</a></td><td align="center">KFX - 773 kB</td></tr><tr><td><a href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/ebooks/%E8%89%BE%E8%90%A8%E5%85%8B%C2%B7%E9%98%BF%E8%A5%BF%E8%8E%AB%E5%A4%AB/%E9%93%B6%E6%B2%B3%E5%B8%9D%E5%9B%BD/%E9%93%B6%E6%B2%B3%E5%B8%9D%E5%9B%BD9%EF%BC%9A%E9%92%A2%E7%A9%B4%EF%BC%88The%20Caves%20of%20Steel%EF%BC%89.kfx">银河帝国9：钢穴（The.Caves.of.Steel）</a></td><td align="center">KFX - 804 kB</td></tr></tbody></table><iframe width="100%" height="0" scrolling="no" border="0" frameborder="no" framespacing="0" id="welcomeVideo"></iframe>]]></content>
+      
+      
+      <categories>
+          
+          <category> 电子书 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 小说 </tag>
+            
+            <tag> 科幻 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>给网课打注鸡血</title>
+      <link href="2020/%E7%BB%99%E7%BD%91%E8%AF%BE%E6%89%93%E6%B3%A8%E9%B8%A1%E8%A1%80/"/>
+      <url>2020/%E7%BB%99%E7%BD%91%E8%AF%BE%E6%89%93%E6%B3%A8%E9%B8%A1%E8%A1%80/</url>
+      
+        <content type="html"><![CDATA[<iframe width="100%" height="50" scrolling="no" border="0" frameborder="no" framespacing="0" src="https://p.ccjfun.cf/bgm/ABUJMO5Z"></iframe><link href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-playlist-ui.min.css" rel="stylesheet" /><link href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video-js.css" rel="stylesheet" /><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-http-streaming.min.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-playlist.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-playlist-ui.min.js'></script><style>.player-container{background:#1a1a1a;overflow:auto;}@media only screen and (min-width: 1000px) {.video-js{float: left;width: 75%;}}@media only screen and (min-width: 1000px) {.vjs-playlist{float: right;width: 25%;max-height:500px;}}@media only screen and (max-width: 1000px) {.video-js{float: left;width: 100%;}}@media only screen and (max-width: 1000px) {.vjs-playlist{float: right;width: 100%;}}.vjs-playlist-item{border: 1px solid #FFFFFF;}.vjs-playlist .vjs-selected{border: 1px solid #00FF00;}.vjs-playlist .vjs-selected img{opacity: .5;}</style><h2 id="视频教程"><a href="#视频教程" class="headerlink" title="视频教程"></a>视频教程</h2><div class="player-container" id="welcomeVideo"><video id="theVideo" class="video-js vjs-default-skin vjs-big-play-centered vjs-v7 vjs-user-active" width="100%" height="100%"></video><div class="vjs-playlist playlist-container" id="videolist"></div></div><script>  var w = document.getElementById("welcomeVideo").offsetWidth;  var myVideo = videojs('theVideo', {    loop: false,    controls: true,    preload: 'auto',    autoplay: false,    width: w,    height: 0.5625*w,    playbackRates: [0.5,1,1.5,2,3]  });  myVideo.playlist([  {name: '极客版',sources: [{src: 'https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/videos/tech/给网课打注鸡血（极客版）/video.m3u8',type: 'application/x-mpegURL'}]},   {name: '电脑版',sources: [{src: 'https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/videos/tech/给网课打注鸡血（电脑版）/video.m3u8',type: 'application/x-mpegURL'}]},   {name: '手机版',sources: [{src: 'https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/videos/tech/给网课打注鸡血（手机版）/video.m3u8',type: 'application/x-mpegURL'}]}  ]);  myVideo.playlistUi();</script><h1 id="极客版"><a href="#极客版" class="headerlink" title="极客版"></a>极客版</h1><h2 id="1-推荐网址"><a href="#1-推荐网址" class="headerlink" title="1.推荐网址"></a>1.推荐网址</h2><p><code>http://editor.livegap.com/index.php?lan=zh-CN</code><br>这个工具是为了输入代码在线生成一个倍速播放器</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：极客版/2.jpg"></img></p><h2 id="2-代码"><a href="#2-代码" class="headerlink" title="2.代码"></a>2.代码</h2><p>全选代码然后复制（copy）</p><pre><code>&lt;center&gt;&lt;video id=&quot;netcls&quot; width=&quot;60%&quot; controls=&quot;controls&quot; src=&quot;！把我替换为链接！&quot;&gt;&lt;/video&gt;&lt;/center&gt;&lt;br /&gt;&lt;center&gt;&lt;button onclick=&quot;backto()&quot; type=&quot;button&quot; style=&quot;width:15%;height:30px;color:white;border:3px darkgrey solid;background-color:black;&quot;&gt;还原&lt;/button&gt;&lt;input type=&quot;text&quot; id=&quot;diyspd&quot; style=&quot;width:15%;height:30px;&quot; placeholder=&quot;输入倍速&quot; /&gt;&lt;input onclick=&quot;rocket()&quot; type=&quot;button&quot; style=&quot;width:15%;height:30px;color:white;border:3px darkgrey solid;background-color:black;&quot; value=&quot;小火箭~&quot; /&gt;&lt;/center&gt;&lt;script&gt;netcls=document.getElementById(&quot;netcls&quot;);diyspd=document.getElementById(&quot;diyspd&quot;);function backto()&#123;netcls.playbackRate=1;&#125;function rocket()&#123;netcls.playbackRate=diyspd.value;&#125;&lt;/script&gt;</code></pre><h2 id="3"><a href="#3" class="headerlink" title="3."></a>3.</h2><p>删掉原有的全部代码<br>粘贴（paste）上去</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：极客版/2.jpg"></img></p><h2 id="4"><a href="#4" class="headerlink" title="4."></a>4.</h2><p>这时看到<br><code>！把我替换为链接！</code><br>我们就需要网课链接了</p><h2 id="5-转到"><a href="#5-转到" class="headerlink" title="5.转到"></a>5.转到</h2><p>你想要看的网课<br>右键点击视频，点击复制视频链接（copy  address）</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：极客版/3.jpg"></img></p><h2 id="6-在这里"><a href="#6-在这里" class="headerlink" title="6.在这里"></a>6.在这里</h2><p>替换掉<code>！把我替换为链接！</code></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：极客版/4.jpg"></img></p><h2 id="7-输入框"><a href="#7-输入框" class="headerlink" title="7.输入框"></a>7.输入框</h2><p>可以输入你想要的倍速（0~100的整数或小数），试一下效果</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：极客版/5.jpg"></img></p><h2 id="就这样"><a href="#就这样" class="headerlink" title="就这样~"></a>就这样~</h2><h1 id="电脑版"><a href="#电脑版" class="headerlink" title="电脑版"></a>电脑版</h1><blockquote><p>既然你们觉得打代码太复杂，直接用现成软件PotPlayer吧~</p></blockquote><h2 id="1"><a href="#1" class="headerlink" title="1."></a>1.</h2><p>打开你想倍速的网课的网页,右键复制视频链接</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：电脑版/1.png"></img></p><h2 id="2"><a href="#2" class="headerlink" title="2."></a>2.</h2><p>打开PotPlayer</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：电脑版/2.png"></img></p><h2 id="3-1"><a href="#3-1" class="headerlink" title="3."></a>3.</h2><p>右键，打开视频源，粘贴刚才复制的链接</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：电脑版/3.png"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：电脑版/4.png"></img></p><h2 id="4-1"><a href="#4-1" class="headerlink" title="4."></a>4.</h2><p>右键，控制，调出速度调节面板</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：电脑版/5.png"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：电脑版/6.png"></img></p><h2 id="完成"><a href="#完成" class="headerlink" title="完成~"></a>完成~</h2><blockquote><p>由于PotPlayer在国内下载可能比较慢，我把它传到了百度网盘</p></blockquote><pre><code>链接：https://pan.baidu.com/videos/1Tkj13K9dUw8cQSassFj1Dw提取码：gpwp</code></pre><h1 id="手机版"><a href="#手机版" class="headerlink" title="手机版"></a>手机版</h1><h2 id="1-1"><a href="#1-1" class="headerlink" title="1."></a>1.</h2><p>用浏览器打开你想要倍速的网课网页</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：手机版/1.png"></img></p><h2 id="2-1"><a href="#2-1" class="headerlink" title="2."></a>2.</h2><p>长按视频下载</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：手机版/2.png"></img></p><h2 id="3-2"><a href="#3-2" class="headerlink" title="3."></a>3.</h2><p>在下载详情页获得视频链接</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：手机版/3.png"></img></p><h2 id="4-2"><a href="#4-2" class="headerlink" title="4."></a>4.</h2><p>打开MXPlayer</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：手机版/4.png"></img></p><h2 id="5"><a href="#5" class="headerlink" title="5."></a>5.</h2><p>点击：，输入刚才复制的链接</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：手机版/5.png"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：手机版/6.png"></img></p><h2 id="6"><a href="#6" class="headerlink" title="6."></a>6.</h2><p>右上角有播放控制菜单，调出倍速调节功能</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：手机版/7.png"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：手机版/8.png"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：手机版/9.png"></img></p><h2 id="完成-1"><a href="#完成-1" class="headerlink" title="完成~"></a>完成~</h2><pre><code>MXPlayer可在各大应用商店搜索到。</code></pre><h1 id="极客版（一行代码解释）"><a href="#极客版（一行代码解释）" class="headerlink" title="极客版（一行代码解释）"></a>极客版（一行代码解释）</h1><p>如果你觉得一大篇幅的代码看着头晕（其实这个代码量算很小的），那就把代码中涉及播放器外观、控制按钮的代码都去掉，剩下一行代码，瞬间感到清爽了有没有？</p><pre><code>&lt;video playbackRate=&quot;输入数值&quot; src=&quot;输入链接&quot; controls /&gt;</code></pre><p>复制代码，粘贴进在线html编辑器</p><p><code>http://editor.livegap.com/index.php?lan=zh-CN</code></p><p>按照下面解释对代码依照个人喜好进行编辑，就能达到你想要的倍速了~</p><p><code>playbackRate</code>，顾名思义，播放速度。输入数值请替换为0~100的整数或小数。例如：<code>playbackRate=&quot;2.5&quot;</code></p><p><code>src</code>，source的缩写，源，所以此处应该填写视频地址。例如：<code>src=&quot;https://vid.eo/demo.mp4&quot;</code>。如何获取视频地址请见原教程。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 网络 </tag>
+            
+            <tag> 程序 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>利用MOO音乐+QMC解码搞定QQ音乐曲库的VIP音乐</title>
+      <link href="2020/%E5%88%A9%E7%94%A8MOO%E9%9F%B3%E4%B9%90+QMC%E8%A7%A3%E7%A0%81%E6%90%9E%E5%AE%9AQQ%E9%9F%B3%E4%B9%90%E6%9B%B2%E5%BA%93%E7%9A%84VIP%E9%9F%B3%E4%B9%90/"/>
+      <url>2020/%E5%88%A9%E7%94%A8MOO%E9%9F%B3%E4%B9%90+QMC%E8%A7%A3%E7%A0%81%E6%90%9E%E5%AE%9AQQ%E9%9F%B3%E4%B9%90%E6%9B%B2%E5%BA%93%E7%9A%84VIP%E9%9F%B3%E4%B9%90/</url>
+      
+        <content type="html"><![CDATA[<iframe width="100%" height="50" scrolling="no" border="0" frameborder="no" framespacing="0" src="https://p.ccjfun.cf/bgm/F85B0DFS"></iframe><h1 id="前言："><a href="#前言：" class="headerlink" title="前言："></a>前言：</h1><ul><li>QQ音乐歌曲要会员才给下？</li><li>下完只能在会员期内听？</li><li>加密格式无法导入MP3？<br>​<blockquote><p>利用<code>MOO音乐</code>——同为腾讯出品的音乐软件，同样使用腾讯QQ音乐曲库——搭配<code>QMC解码</code>——专治qmc加密格式音乐，双剑合璧，一网打尽！</p></blockquote></li></ul><h1 id="视频版教程："><a href="#视频版教程：" class="headerlink" title="视频版教程："></a>视频版教程：</h1><link href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video-js.css" rel="stylesheet" /><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-http-streaming.min.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-resolution-switcher.js'></script><video id="welcomeVideo" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">      <source id="source" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/videos/tech/QQ音乐VIP歌曲免费下载/video.m3u8" type="application/x-mpegURL"></video><script>  var w = document.getElementById("welcomeVideo").parentNode.offsetWidth;  var myVideo = videojs('welcomeVideo', {    loop: false,    controls: true,    preload: 'auto',    autoplay: false,    width: w,    height: 0.5625*w,    playbackRates: [0.5,1,1.5,2,3],  })</script><h1 id="原理："><a href="#原理：" class="headerlink" title="原理："></a>原理：</h1><p>​MOO音乐有<code>免费VIP</code>可下载歌曲，而且使用腾讯曲库，所以<code>加密格式一样</code>，只是后缀名发生变化，改为QQ音乐的加密后缀名，即可用相应软件识别解码。</p><h1 id="限制："><a href="#限制：" class="headerlink" title="限制："></a>限制：</h1><ol><li>QMC解码这类软件只存在于安卓，所以，<code>iOS无缘~</code>；</li><li>QQ音乐数字专辑不支持。</li></ol><p>首先看看QQ音乐</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/利用MOO音乐+QMC解码搞定QQ音乐曲库的VIP音乐/01.png"></img></p>可以看到下载需要VIP<p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/利用MOO音乐+QMC解码搞定QQ音乐曲库的VIP音乐/02.png"></img></p># 教程开始！ #<h2 id="第一步："><a href="#第一步：" class="headerlink" title="第一步："></a>第一步：</h2><p>安装MOO音乐<br>MOO音乐是腾讯推出的另一款播放器，主打简洁，功能不多，但胜在清爽，更胜在——每日免费VIP！</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/利用MOO音乐+QMC解码搞定QQ音乐曲库的VIP音乐/03.png"></img></p>毕竟这是个设计得到红点奖的应用（不过貌似听说红点金奖才有含金量）<p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/利用MOO音乐+QMC解码搞定QQ音乐曲库的VIP音乐/04.png"></img></p>可以看到MOO音乐的VIP规则每日听歌60分钟即可获得1日VIP<p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/利用MOO音乐+QMC解码搞定QQ音乐曲库的VIP音乐/05.png"></img></p>先选好下载音质<p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/利用MOO音乐+QMC解码搞定QQ音乐曲库的VIP音乐/06.png"></img></p><h2 id="第二步："><a href="#第二步：" class="headerlink" title="第二步："></a>第二步：</h2><p>先听满1个小时吧~</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/利用MOO音乐+QMC解码搞定QQ音乐曲库的VIP音乐/07.png"></img></p>听完60分钟自动获得VIP<p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/利用MOO音乐+QMC解码搞定QQ音乐曲库的VIP音乐/08.png"></img></p>点击...，呼出菜单下载<p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/利用MOO音乐+QMC解码搞定QQ音乐曲库的VIP音乐/09.png"></img></p>下载完成！<p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/利用MOO音乐+QMC解码搞定QQ音乐曲库的VIP音乐/10.png"></img></p><h2 id="第三步："><a href="#第三步：" class="headerlink" title="第三步："></a>第三步：</h2><p>找到下载的歌曲</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/利用MOO音乐+QMC解码搞定QQ音乐曲库的VIP音乐/11.png"></img></p>找到文件下载位置位于：/blackkey/download/<p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/利用MOO音乐+QMC解码搞定QQ音乐曲库的VIP音乐/12.png"></img></p>更改文件后缀名。这里涉及到两种格式： 1.后缀名为bkcflac是无损格式对应QQ音乐加密后缀名为qmcflac解码后后缀名为flac 2.后缀名为bkcmp3的是高品质（320K mp3）格式对应QQ音乐加密后缀名为qmc0解码后后缀名为mp3<p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/利用MOO音乐+QMC解码搞定QQ音乐曲库的VIP音乐/13.png"></img></p><h2 id="第四步："><a href="#第四步：" class="headerlink" title="第四步："></a>第四步：</h2><p>安装QMC解码</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/利用MOO音乐+QMC解码搞定QQ音乐曲库的VIP音乐/14.png"></img></p>​QMC解码，百度搜下就有了很小，只有78KB如果不是你可能下到假的了<p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/利用MOO音乐+QMC解码搞定QQ音乐曲库的VIP音乐/15.png"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/利用MOO音乐+QMC解码搞定QQ音乐曲库的VIP音乐/16.png"></img></p>点按QQ音乐的图标，选择路径开始扫描<p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/利用MOO音乐+QMC解码搞定QQ音乐曲库的VIP音乐/17.png"></img></p>扫描结果出现了！点击右上角按钮开始转码<p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/利用MOO音乐+QMC解码搞定QQ音乐曲库的VIP音乐/18.png"></img></p>记住这个路径<p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/利用MOO音乐+QMC解码搞定QQ音乐曲库的VIP音乐/19.png"></img></p>找到new_music文件夹<p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/利用MOO音乐+QMC解码搞定QQ音乐曲库的VIP音乐/20.png"></img></p>听听，是心动的声音<p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/利用MOO音乐+QMC解码搞定QQ音乐曲库的VIP音乐/21.png"></img></p><h1 id="大功告成！"><a href="#大功告成！" class="headerlink" title="大功告成！"></a>大功告成！</h1><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/利用MOO音乐+QMC解码搞定QQ音乐曲库的VIP音乐/22.png"></img></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 网络 </tag>
+            
+            <tag> 程序 </tag>
+            
+            <tag> 破解 </tag>
+            
+            <tag> 音乐 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>百度网盘无提取码，Show Yourself！</title>
+      <link href="2020/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E6%97%A0%E6%8F%90%E5%8F%96%E7%A0%81%EF%BC%8CShow%20Yourself%EF%BC%81/"/>
+      <url>2020/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E6%97%A0%E6%8F%90%E5%8F%96%E7%A0%81%EF%BC%8CShow%20Yourself%EF%BC%81/</url>
+      
+        <content type="html"><![CDATA[<iframe width="100%" height="50" scrolling="no" border="0" frameborder="no" framespacing="0" src="https://p.ccjfun.cf/bgm/D2Y0YSBF"></iframe><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><blockquote><p>本来百度云分享文件时都可以选择<code>私密(有提取码)</code>或<code>公开(无提取码)</code>。后来网页端只能分享私密，客户端还能无提取码。好嘛，现在连客户端也只能私密了。问题是我要分享的公开就行了，输提取码多此一举，还麻烦。</p></blockquote><p>So，我又要开始强力破解了~</p><h2 id="1"><a href="#1" class="headerlink" title="1."></a>1.</h2><p>打开网页版。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/1.jpg"></img></p><h2 id="2"><a href="#2" class="headerlink" title="2."></a>2.</h2><p>点击分享出现以下界面。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/2.jpg"></img></p><h2 id="3"><a href="#3" class="headerlink" title="3."></a>3.</h2><p>按键盘上的F12，出现以下界面。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/3.jpg"></img></p><h2 id="4"><a href="#4" class="headerlink" title="4."></a>4.</h2><p>点击右上角Element右边的Console，出现以下界面。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/4.jpg"></img></p><h2 id="5"><a href="#5" class="headerlink" title="5."></a>5.</h2><p>复制下面代码，粘贴，回车。</p><pre><code>if(document.getElementById(&quot;share-method-private&quot;))&#123;document.getElementById(&quot;share-method-private&quot;).value=&quot;public&quot;;alert(&quot;OK!点击“创建链接”生成公开链接!&quot;)&#125;</code></pre><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/5.jpg"></img></p><h2 id="6"><a href="#6" class="headerlink" title="6."></a>6.</h2><p>屏幕上方会出现提示。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/6.jpg"></img></p><h2 id="7"><a href="#7" class="headerlink" title="7."></a>7.</h2><p>这时选择有效期后点击分享就能生成无提取码的链接啦~</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/7.jpg"></img></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 网络 </tag>
+            
+            <tag> 程序 </tag>
+            
+            <tag> 破解 </tag>
+            
+            <tag> 代码 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>智学网练习中心，Show Yourself！</title>
+      <link href="2020/%E6%99%BA%E5%AD%A6%E7%BD%91%E7%BB%83%E4%B9%A0%E4%B8%AD%E5%BF%83%EF%BC%8CShow%20Yourself%EF%BC%81/"/>
+      <url>2020/%E6%99%BA%E5%AD%A6%E7%BD%91%E7%BB%83%E4%B9%A0%E4%B8%AD%E5%BF%83%EF%BC%8CShow%20Yourself%EF%BC%81/</url>
+      
+        <content type="html"><![CDATA[<iframe width="100%" height="50" scrolling="no" border="0" frameborder="no" framespacing="0" src="https://p.ccjfun.cf/bgm/HJHCRT2L"></iframe><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><blockquote><p>我要交个作业都不让我痛痛快快地交？</p><p>智学网你就不能改进一下你的服务器吗？</p></blockquote><p>本专栏教你如何在规定时间外打开练习中心~练习中心，you DO not need to hide，show yourself！</p><h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><h2 id="注1："><a href="#注1：" class="headerlink" title="注1："></a>注1：</h2><p>本教程需要<code>root</code>，所以<code>iOS</code>小伙伴请在电脑上安装<code>安卓模拟器</code>解决~</p><h2 id="注2："><a href="#注2：" class="headerlink" title="注2："></a>注2：</h2><p>当前版本的VMOS可能导致智学网<code>无法正常下载试题</code>的问题，如果需要用智学网获取试题请在电脑上安装<code>安卓模拟器</code>或<code>真机root</code>（不推荐）解决，然后跳到第5步！推荐<code>网易MUMU模拟器</code>，纯净没有广告~</p><h2 id="注3："><a href="#注3：" class="headerlink" title="注3："></a>注3：</h2><p>部分模拟器（包括网易MUMU模拟器）会存在智学网下载试题后<code>无法打开</code>的情况，需要在模拟器内安装<code>office</code>~</p><h1 id="视频教程"><a href="#视频教程" class="headerlink" title="视频教程"></a>视频教程</h1><link href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video-js.css" rel="stylesheet" /><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-http-streaming.min.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-resolution-switcher.js'></script><video id="welcomeVideo" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">      <source id="source" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/videos/tech/智学网练习中心，ShowYourself！/video.m3u8" type="application/x-mpegURL"></video><script>  var w = document.getElementById("welcomeVideo").parentNode.offsetWidth;  var myVideo = videojs('welcomeVideo', {    loop: false,    controls: true,    preload: 'auto',    autoplay: false,    width: w,    height: 0.5625*w,    playbackRates: [0.5,1,1.5,2,3],  })</script><h1 id="每步图文"><a href="#每步图文" class="headerlink" title="每步图文"></a>每步图文</h1><p>前4步是给没有root的同学看的，不知道root是什么的也请看前4步</p><h2 id="1-环境安装"><a href="#1-环境安装" class="headerlink" title="1.环境安装"></a>1.环境安装</h2><p>我是不推荐真机root的，除非你有把握，不然会把你的手机暴露在风险中。或者像我一样用锤子这些锁定Bootloader不让root的手机。所以第一步要在手机里安装一台虚拟机（相当于这个程序再加载了一个独立的手机系统），好处就是自带root而且改动不会影响手机。目前应该只有VMOS（中文：虚拟大师）这一款软件，不过它的技术挺成熟的我觉得。推荐的下载渠道是酷安，版本最新，手机自带应用商店可能搜不到或者版本太旧。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/01.jpg"></img></p><p>安装完毕后打开，授予相应权限，下载一个必须的系统包，稍等。</p><h2 id="2-环境桌面"><a href="#2-环境桌面" class="headerlink" title="2.环境桌面"></a>2.环境桌面</h2><p>进入桌面是这样的（当然我把图标整理过）。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/02.jpg"></img></p><h2 id="3-Root介绍"><a href="#3-Root介绍" class="headerlink" title="3.Root介绍"></a>3.Root介绍</h2><p>可以看到自带root管理器。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/03.jpg"></img></p><h2 id="4-操作提示"><a href="#4-操作提示" class="headerlink" title="4.操作提示"></a>4.操作提示</h2><p>由于这个系统运行在一个软件里，所以它只支持返回键，如果你按主页键会返回到你手机的主页。要返回这个系统的主页需要屏幕上划，呼出三大金刚键，⚪就是主页键。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/04.jpg"></img></p><h2 id="5-正文开始！"><a href="#5-正文开始！" class="headerlink" title="5.正文开始！"></a>5.正文开始！</h2><p>在非规定时间内打开智学网，会出现以下令人讨厌的界面：</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/05.jpg"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/06.jpg"></img></p><h2 id="6-工具安装"><a href="#6-工具安装" class="headerlink" title="6.工具安装"></a>6.工具安装</h2><p>为了创建一个快捷方式来打开练习中心的页面，我们需要一个拓展程序：创建快捷方式。同理，这种工具类的软件可能也只能在酷安找到：（注意，是在虚拟系统里的酷安！）</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/07.jpg"></img></p><h2 id="7-进入工具"><a href="#7-进入工具" class="headerlink" title="7.进入工具"></a>7.进入工具</h2><p>安装完成后打开它，点击智学网：</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/08.jpg"></img></p><h2 id="8-解锁隐藏项目"><a href="#8-解锁隐藏项目" class="headerlink" title="8.解锁隐藏项目"></a>8.解锁隐藏项目</h2><p>点击右上角：，选择也显示未导出的活动。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/09.jpg"></img></p><h2 id="9-搜索页面"><a href="#9-搜索页面" class="headerlink" title="9.搜索页面"></a>9.搜索页面</h2><p>在搜索框输入hwcenter（homework center缩写），点击第一个带有Mix字样的详情。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/10.jpg"></img></p><h2 id="10-创建快捷方式"><a href="#10-创建快捷方式" class="headerlink" title="10.创建快捷方式"></a>10.创建快捷方式</h2><p>修改图标和说明文字（可选），点击创建。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/11.jpg"></img></p><h2 id="11-创建成功"><a href="#11-创建成功" class="headerlink" title="11.创建成功"></a>11.创建成功</h2><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/12.jpg"></img></p><h2 id="12-授予权限"><a href="#12-授予权限" class="headerlink" title="12.授予权限"></a>12.授予权限</h2><p>第一次打开会要求你授予权限，允许就是了。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/13.jpg"></img></p><h2 id="13"><a href="#13" class="headerlink" title="13."></a>13.</h2><p>练习中心，Show Yourself！</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/14.jpg"></img></p><h1 id="Enjoy-it！"><a href="#Enjoy-it！" class="headerlink" title="Enjoy it！"></a>Enjoy it！</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 网络 </tag>
+            
+            <tag> 程序 </tag>
+            
+            <tag> 破解 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Taylor Swift - The Man 性转</title>
+      <link href="2020/Taylor%20Swift%20-%20The%20Man%20%E6%80%A7%E8%BD%AC+%E5%8E%9F%E5%A3%B0/"/>
+      <url>2020/Taylor%20Swift%20-%20The%20Man%20%E6%80%A7%E8%BD%AC+%E5%8E%9F%E5%A3%B0/</url>
+      
+        <content type="html"><![CDATA[<p>那个男人他真的变成男人了！</p><p><code>The Man</code> 性转版本</p><hr><link href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video-js.css" rel="stylesheet" /><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-http-streaming.min.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-resolution-switcher.js'></script><video id="welcomeVideo" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">      <source id="source" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/videos/life/TylorSwiftTheMan/video.m3u8" type="application/x-mpegURL"></video><script>  var w = document.getElementById("welcomeVideo").parentNode.offsetWidth;  var myVideo = videojs('welcomeVideo', {    loop: false,    controls: true,    preload: 'auto',    autoplay: false,    width: w,    height: 0.5625*w,    playbackRates: [0.5,1,1.5,2,3],  })</script><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 视频 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Taylor Swift </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>如何以爱国的姿势访问一些外网优质资源</title>
+      <link href="2020/%E5%A6%82%E4%BD%95%E4%BB%A5%E7%88%B1%E5%9B%BD%E7%9A%84%E5%A7%BF%E5%8A%BF%E8%AE%BF%E9%97%AE%E4%B8%80%E4%BA%9B%E5%A4%96%E7%BD%91%E4%BC%98%E8%B4%A8%E8%B5%84%E6%BA%90/"/>
+      <url>2020/%E5%A6%82%E4%BD%95%E4%BB%A5%E7%88%B1%E5%9B%BD%E7%9A%84%E5%A7%BF%E5%8A%BF%E8%AE%BF%E9%97%AE%E4%B8%80%E4%BA%9B%E5%A4%96%E7%BD%91%E4%BC%98%E8%B4%A8%E8%B5%84%E6%BA%90/</url>
+      
+        <content type="html"><![CDATA[<iframe width="100%" height="50" scrolling="no" border="0" frameborder="no" framespacing="0" src="https://p.ccjfun.cf/bgm/2XQDAOUQ"></iframe><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><blockquote><p>众所周知，由于<code>帝国主义势力</code>长期对我国采取敌视态度，其爪牙——<code>境外媒体</code>常常抹黑我国的方方面面。因此，为了维护国内稳定，政府隔绝了一些境外链接，不过也在同时导致一些国外优质而国内没有的资源同时被屏蔽。有的人会采用<code>VPN</code>的方式上外网，然而这种方式属于<code>使用非法定信道进行国际联网</code>，貌似是<code>违法</code>的，而且<code>好用的收钱，免费的龟速</code>。所以本文来介绍几种优质资源在国内的正确访问方式：</p></blockquote><pre><code>1.Google系2.Youtube3.Instagram4.Steam Community</code></pre><h2 id="PS："><a href="#PS：" class="headerlink" title="PS："></a>PS：</h2><p>不要问我<code>FacebookTwitter</code>这些有反华色彩的东西，真正爬过梯子的人应该也知道。如果你是为了看这些，那请不要看我的文章。<code>禁止利用本文的方法进行危害社会治安国家安全的违法活动！</code></p><h1 id="1-Google系"><a href="#1-Google系" class="headerlink" title="1.Google系"></a>1.Google系</h1><p>由于谷歌不对政治方面的搜索结果做限制，所以emmm。<br>谷歌的一系列服务也无法接受我国政府监督，所以emmm。<br>但是，谷歌系的服务是真的好用（用过就知道，除了网络不好吊打国内的同类）。<br>而现在Chrome上有了一个插件，可以利用Chrome内置代理来访问谷歌系的服务：PP谷歌访问助手。其实这个插件本质上还是基于VPN，但是只能代理谷歌的网页。</p><h2 id="支持："><a href="#支持：" class="headerlink" title="支持："></a>支持：</h2><p>Google系的<code>几乎全部</code>内容（搜索、翻译、地图、地球、文档、邮箱、网盘、相册、日历等等）</p><h2 id="限制："><a href="#限制：" class="headerlink" title="限制："></a>限制：</h2><p>不支持<code>Youtube</code>（毕竟这个的危险系数比较高，上面很多反华视频，大部分还无下限扭曲夸张失实的）</p><h2 id="官网链接："><a href="#官网链接：" class="headerlink" title="官网链接："></a>官网链接：</h2><p><a href="http://www.ppgoogle.net/">http://www.ppgoogle.net/</a></p><h2 id="警告："><a href="#警告：" class="headerlink" title="警告："></a>警告：</h2><p><code>不要尝试</code>包括但不限于使用谷歌搜索反动网页，浏览这些网页是<code>违法行为</code>。（而且搜出来的结果你也打不开）</p><h2 id="使用方法："><a href="#使用方法：" class="headerlink" title="使用方法："></a>使用方法：</h2><p>1.访问官网下载安装包。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/01.png"></img></p><p>2.里面含有一个拓展名为<code>crx</code>的文件，右键用解压软件打开（7-Zip、WinRAR应该同理）。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/02.png"></img></p><p>3.出现这么一堆东东。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/03.png"></img></p><p>4.打开Chrome安装目录，一般位于<code>C:\Program Files (x86)\Google\Chrome</code>。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/04.png"></img></p><p>5.新建一个<code>Extensions</code>文件夹，进入，打开<code>Bandizip</code>，按住<code>PP-Google-v1.8.crx</code>拖进资源管理器。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/05.png"></img></p><p>6.在Chrome地址栏输入<code>chrome://extensions/</code>。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/06.png"></img></p><p>7.打开右上角<code>开发者模式</code>：</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/07.png"></img></p><p>8.点击<code>加载已解压的拓展程序</code>，转到刚才解压出来的文件夹，点选择文件夹，稍后即可成功安装。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/08.png"></img></p><p>9.打开拓展程序，界面如下：</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/09.png"></img></p><p>10.推荐这时先进入Chrome应用商店<code>重新安装</code>一遍，以获取最新版本并避免每次启动Chrome的弹窗提示。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/10.png"></img></p><p>11.如果访问谷歌页面时出现如下情况，说明代理服务器连接失败。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/11.png"></img></p><p>12.这时需要点击<code>刷新</code>。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/12.png"></img></p><p>13.出现以下页面后会更换服务器，更换后即可访问。如果依旧连不上，重复刷新步骤直到连接成功。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/13.png"></img></p><p>14.现在开始畅快访问谷歌的各项服务吧~</p><h1 id="2-Youtube"><a href="#2-Youtube" class="headerlink" title="2.Youtube"></a>2.Youtube</h1><p>在上面我谈到了Youtube的限制。<br>不过，Youtube毕竟是国外<code>最大</code>的视频网站，上面集中了大量优质视频，也不会像国内视频网站一样<code>压缩画质</code>，甚至支持<code>4K8K</code>视频。<br>所以在大陆连接不了YouTube网页和视频服务器的情况下，我们采用<code>曲线救国</code>的方式：让一台我们可以访问的国外服务器从Youtube下载我们要的视频。<br>而符合这个条件的就是一个在线视频转换网站：<code>ClipConvert</code>。</p><h2 id="限制：-1"><a href="#限制：-1" class="headerlink" title="限制："></a>限制：</h2><p>不能下载MV</p><h2 id="官网链接：-1"><a href="#官网链接：-1" class="headerlink" title="官网链接："></a>官网链接：</h2><p><a href="https://www.clipconverter.cc/">https://www.clipconverter.cc/</a></p><h2 id="使用方法：-1"><a href="#使用方法：-1" class="headerlink" title="使用方法："></a>使用方法：</h2><p>1.打开官网 </p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/14.png"></img></p><p>2.获取你要下的视频的YouTube链接：<code>谷歌搜索</code>你想要的视频，谷歌搜索的结果一般都是指向YouTube的，右键复制把它粘贴进输入栏，点击<code>Continue</code>。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/15.png"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/16.png"></img></p><p>3.选择<code>清晰度</code>，确定后点击<code>Start!</code>，等待转换。（如果太久没动刷新一下，不会重置进度）</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/17.png"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/18.png"></img></p><p>4.出现下载页后，可以直接下载。但貌似Chrome自带下载很慢，建议右键Download后复制链接用下载工具下载（推荐<code>EagleGet</code>）</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/19.png"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/20.png"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/21.png"></img></p><h2 id="PS：-1"><a href="#PS：-1" class="headerlink" title="PS："></a>PS：</h2><p><code>EagleGet</code>的下载速度取决于<code>ClipConvert</code>下载视频的<code>服务器位置</code>（随机），一般<code>400KB/s~6MB/s</code>不等，如果你下的视频很大而速度比较低，建议<code>重新操作</code>一次。</p><h1 id="3-Instagram"><a href="#3-Instagram" class="headerlink" title="3.Instagram"></a>3.Instagram</h1><p>这个不用我多说，好图汇聚地。好像是因为2014年的<code>占中事件</code>导致它被屏蔽的。<br>这是一个国内的<code>镜像站</code>，主要是为了粉丝追星用的，不过它也支持ins全部内容，<code>Adidas</code>、<code>Nike</code>、<code>BMW</code>、<code>Benz</code>、<code>Tesla</code>、<code>NASA</code>、<code>Taylor</code>等等都有。<br>还支持图片<code>下载</code>~</p><h2 id="官网链接：-2"><a href="#官网链接：-2" class="headerlink" title="官网链接："></a>官网链接：</h2><p><a href="https://www.veryins.com/">https://www.veryins.com/</a></p><h2 id="网页截图："><a href="#网页截图：" class="headerlink" title="网页截图："></a>网页截图：</h2><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/22.png"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/23.png"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/24.png"></img></p><h1 id="4-Steam-Community"><a href="#4-Steam-Community" class="headerlink" title="4.Steam Community"></a>4.Steam Community</h1><p>由于Steam Community依赖于<code>Facebook</code>相关的服务器，所以也一道被封。<br>SteamCommunity302工具依赖的是<code>hosts修改+端口监视</code>来实现访问（因为对Steam Community的屏蔽还不是很严所以可以做到），如果特殊情况无效也可以用软件内的<code>代理</code>（只能代理Steam Community，类似上文谷歌访问助手，而且这是作者自己搭建的，不要滥用）。<br>这样我们就可以访问Steam Community上的游戏mod了。（作为一名<code>城市天际线</code>玩家Steam Community对我来说就像这个游戏的灵魂~）</p><h2 id="官网链接：-3"><a href="#官网链接：-3" class="headerlink" title="官网链接："></a>官网链接：</h2><p><a href="https://www.dogfight360.com/blog/686/">https://www.dogfight360.com/blog/686/</a></p><h2 id="使用方法：-2"><a href="#使用方法：-2" class="headerlink" title="使用方法："></a>使用方法：</h2><p>1.访问官网下载程序（压缩包）</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/25.png"></img></p><p>2.解压后运行具体教程详见官网：）</p><iframe width="100%" height="0" scrolling="no" border="0" frameborder="no" framespacing="0" id="welcomeVideo"></iframe>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 网络 </tag>
+            
+            <tag> 程序 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>将网页创建为APP</title>
+      <link href="2020/%E5%B0%86%E7%BD%91%E9%A1%B5%E5%88%9B%E5%BB%BA%E4%B8%BAAPP/"/>
+      <url>2020/%E5%B0%86%E7%BD%91%E9%A1%B5%E5%88%9B%E5%BB%BA%E4%B8%BAAPP/</url>
+      
+        <content type="html"><![CDATA[<iframe width="100%" height="50" scrolling="no" border="0" frameborder="no" framespacing="0" src="https://p.ccjfun.cf/bgm/OT11B5SA"></iframe><p><em>有时我们会遇到一些服务，只有网页端或者仅有某平台的客户端，如果需要经常访问需要重复输入网址，比较麻烦，我们就可以采用<code>PWA</code>技术实现该服务的全平台支持。</em></p><h1 id="什么是PWA"><a href="#什么是PWA" class="headerlink" title="什么是PWA"></a>什么是PWA</h1><blockquote><p>Progressive Web App, 简称 PWA，是提升 Web App 的体验的一种新方法，能给用户原生应用的体验。</p><p>PWA 能做到原生应用的体验不是靠特指某一项技术，而是经过应用一些新技术进行改进，在安全、性能和体验三个方面都有很大提升，PWA 本质上是 Web App，借助一些新技术也具备了 Native App 的一些特性，兼具 Web App 和 Native App 的优点。</p><p>PWA 的主要特点包括下面三点：</p><p>可靠 - 即使在不稳定的网络环境下，也能瞬间加载并展现<br>体验 - 快速响应，并且有平滑的动画响应用户的操作<br>粘性 - 像设备上的原生应用，具有沉浸式的用户体验，用户可以添加到桌面<br>PWA 本身强调渐进式，并不要求一次性达到安全、性能和体验上的所有要求，开发者可以通过 PWA Checklist 查看现有的特征。</p></blockquote><p>好啦其实我也看不太懂……那接下来就是Windows与Android上创建PWA应用的方法：</p><h1 id="安装方法"><a href="#安装方法" class="headerlink" title="安装方法"></a>安装方法</h1><h2 id="Windows"><a href="#Windows" class="headerlink" title="Windows"></a>Windows</h2><h3 id="需求"><a href="#需求" class="headerlink" title="需求"></a>需求</h3><ul><li><code>Chrome(Chromium)</code>/基于<code>Chromium</code>内核的<code>Edge</code></li></ul><h3 id="以Edge为例"><a href="#以Edge为例" class="headerlink" title="以Edge为例"></a>以Edge为例</h3><p>我的博客主站以及下属的服务站都支持PWA，这里以主站为例：</p><p>1.打开主站<a href="https://ccjfun.cf/">https://ccjfun.cf/</a> </p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/11.jpg"></img></p><p>2.选择右上角<code>…</code>&gt;<code>应用</code>&gt;<code>将此站点作为应用安装</code></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/12.jpg"></img></p><p>3.确定名称</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/13.jpg"></img></p><p>4.安装完成后网页会自动弹出成为程序</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/14.jpg"></img></p><p>5.可以看到图标已经出现在<code>开始菜单</code>里了</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/15.jpg"></img></p><p>6.在桌面也有相应的快捷方式，而且能识别为程序</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/16.jpg"></img></p><p>7.可以看到，使用体验类似于平板上的APP。至此，安装完毕！</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/17.jpg"></img></p><h3 id="以Chrome为例"><a href="#以Chrome为例" class="headerlink" title="以Chrome为例"></a>以Chrome为例</h3><p>这里以<code>音乐厅</code>为例：</p><p>1.打开<code>音乐厅</code><a href="https://m.ccjfun.cf/">https://m.ccjfun.cf/</a> </p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/18.jpg"></img></p><p>2.选择右上角<code>：</code>&gt;<code>更多工具</code>&gt;<code>创建快捷方式…</code></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/19.jpg"></img></p><p>3.确定名称，记得勾选<code>在窗口中打开</code></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/20.jpg"></img></p><p>4.安装完成后网页会自动弹出成为程序</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/21.jpg"></img></p><p>5.可以看到图标已经出现在<code>开始菜单</code>的<code>Chrome 应用</code>里了</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/22.jpg"></img></p><p>6.在桌面也有相应的快捷方式，而且能识别为程序</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/23.jpg"></img></p><p>7.<code>拖动窗口大小</code>能获得类似于手机APP的体验（Edge也可）。至此，安装完毕！（已开启黑暗模式）</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/24.jpg"></img></p><h2 id="Android"><a href="#Android" class="headerlink" title="Android"></a>Android</h2><h3 id="需求-1"><a href="#需求-1" class="headerlink" title="需求"></a>需求</h3><ul><li><code>Chrome</code></li></ul><blockquote><p>主站可以被正常识别为PWA应用，但7个服务站暂时无法直接识别为PWA应用，所以我们需要<code>曲线救国</code></p></blockquote><p>先以主站为例：</p><p>1.打开主站<a href="https://ccjfun.cf/">https://ccjfun.cf/</a> </p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/25.jpg"></img></p><p>2.选择右上角<code>:</code>&gt;<code>添加到主屏幕</code>（接下来跳到第六步）</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/26.jpg"></img></p><p>3.对于无法直接识别为PWA应用的7个服务站，我在<code>关于</code>页面提供了<code>WTA</code>（Web to App）链接（你也可以尝试直接在主页添加快捷方式，不过那样的体验非常糟糕）</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/27.jpg"></img></p><p>4.打开该链接</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/01.jpg"></img></p><p>5.选择右上角<code>:</code>&gt;<code>添加到主屏幕</code></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/02.jpg"></img></p><p>6.确定应用名称</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/03.jpg"></img></p><p>7.图标已经添加到桌面</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/04.jpg"></img></p><p>8.Chrome PWA App的启动界面</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/05.jpg"></img></p><p>9.相应程序的启动页面，点击<code>欢迎使用！</code>即可进入（主站则应该会直接进入）</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/06.jpg"></img></p><p>10.相应程序主页</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/07.jpg"></img></p><p>11.随便进入一首歌曲，有类APP的体验吧</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/08.jpg"></img></p><p>*12.关于<code>黑暗模式</code>：点击<code>logo</code>，出现菜单即可使用该两项功能（字号可调：大、小；色彩模式：白、黑）</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/09.jpg"></img></p><p>*13.<code>黑暗模式</code>效果</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/10.jpg"></img></p><p>14.至此，安装完毕！</p><iframe width="100%" height="0" scrolling="no" border="0" frameborder="no" framespacing="0" id="welcomeVideo"></iframe>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 网络 </tag>
+            
+            <tag> 程序 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>有趣的一天</title>
+      <link href="2019/%E6%9C%89%E8%B6%A3%E7%9A%84%E4%B8%80%E5%A4%A9/"/>
+      <url>2019/%E6%9C%89%E8%B6%A3%E7%9A%84%E4%B8%80%E5%A4%A9/</url>
+      
+        <content type="html"><![CDATA[<iframe width="100%" height="50" scrolling="no" border="0" frameborder="no" framespacing="0" src="https://p.ccjfun.cf/bgm/Q0FH13J5"></iframe><p>今天真是有趣的一天</p><ul><li>来自大洋彼岸的轮子电话（难道我的Facebook或Twitter信息泄露了？）</li></ul><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/有趣的一天/0001.jpg"></img></p><ul><li>一个制作精湛的钓鱼网站（用iOS键盘是歧视安卓用户吗？）</li></ul><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/有趣的一天/0002.jpg"></img></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 日记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 生活 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>累死我了</title>
+      <link href="2019/%E7%B4%AF%E6%AD%BB%E6%88%91%E4%BA%86/"/>
+      <url>2019/%E7%B4%AF%E6%AD%BB%E6%88%91%E4%BA%86/</url>
+      
+        <content type="html"><![CDATA[<p>累死我了😜</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/累死我了/0001.jpg"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/累死我了/0002.jpg"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/累死我了/0003.jpg"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/累死我了/0004.jpg"></img></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 日记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 天文 </tag>
+            
+            <tag> 摄影 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>高二学年总结</title>
+      <link href="2019/%E9%AB%98%E4%BA%8C%E5%AD%A6%E5%B9%B4%E6%80%BB%E7%BB%93/"/>
+      <url>2019/%E9%AB%98%E4%BA%8C%E5%AD%A6%E5%B9%B4%E6%80%BB%E7%BB%93/</url>
+      
+        <content type="html"><![CDATA[<iframe width="100%" height="50" scrolling="no" border="0" frameborder="no" framespacing="0" src="https://p.ccjfun.cf/bgm/V6TS8ZC3"></iframe><p align="center"><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/高二学年总结/0003.jpg"></img></p><p><code>高二</code>转眼之间就这么结束，也许是最<code>风云莫测</code>的一年</p><p>以<code>志同道合</code>开头，收获一段<code>迄今最好</code>的友谊，却以<code>反目</code>结束</p><p>随之是<code>好的开端</code>，朝着<code>目标</code>一步一个脚印迈进，却最终从顶峰<code>坠入谷底</code></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/高二学年总结/0002.jpg"></img></p><p>这时，为之<code>追逐一年</code>的<code>目标</code>突然失去，反而成为一个<code>好消息</code></p><p>不过，多亏<code>身在19</code>，有<code>各位</code>一同度过，与你们一起<code>聊骚</code>度日，相互<code>勉励</code>，把毽子踢飞<code>（划掉）</code>，在高二这年我真的收获了很多以前<code>想不到</code>的东西</p><p>看到最近空间纷纷<code>复活</code>的学长们，明白了一些事情，嗯</p><p>最后，借用<code>他</code>的一句话吧</p><blockquote><p>“我会证明我往日的辉煌并不是运气”</p></blockquote><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/高二学年总结/0004.jpg"></img></p><hr><p>再谢谢<code>小哲</code>的本子~</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/高二学年总结/0005.jpg"></img></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 日记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 高二 </tag>
+            
+            <tag> 总结 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>2018第42周</title>
+      <link href="2018/2018%E7%AC%AC42%E5%91%A8/"/>
+      <url>2018/2018%E7%AC%AC42%E5%91%A8/</url>
+      
+        <content type="html"><![CDATA[<iframe width="100%" height="50" scrolling="no" border="0" frameborder="no" framespacing="0" src="https://p.ccjfun.cf/bgm/9QD3P5O0"></iframe><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/2018第42周/0001.jpg"></img></p><p>我觉得我还是养成每周一更的（好）习惯吧，把这东东当成周记来做，锻炼记忆力（？）。</p><p>好的，又扯远了。</p><h1 id="月考"><a href="#月考" class="headerlink" title="月考"></a>月考</h1><p>这星期首要的当然就是月考咯。这是我上高中以来发挥得最好的一次了（而且终于不是以该死的进步奖出现在级会的PPT上了），实现了尘封已久的目标，呼。我觉得几个原因还是可以总结一下的：</p><p>上星期刚开始因为一些事情觉得自己处理不好或者和自己的心意不符而搞得自己闷闷不乐，不过后来想明白了也就没事了。总的来说考试那几天心情还是不错的，毕竟每天和塬搞在一起（援引<code>peizhao</code>的原话，当然我是拒绝这种说法的）的时候是最棒的（￣︶￣）↗　！我爱我的塬儿:)</p><p>这次考试范围比较小，大部分只涉及到新学期教的东西。我自认为开学以来的状态很好，特别是能挤出时间来预习（顺带偷写作业体会全错的绝望），听课效果不错。而且国庆和塬去图书馆自习，没有在家荒废（唔），基本上把这学期学过的东西复习了一遍，效率和在学校差不多（嗯），考试前也基本有再复习一遍，考试时感觉还是卡拉OK（Guiglish）的。</p><p>我总觉得我吸跑了塬的欧气，让他这次发挥不好，so guity。还要谢谢班里各位神仙这次考试放水，把我推到班里第二【纵然有boost让我<code>脱胎换骨</code>（这个愚蠢的词到底是谁先说的……），还是打不动正常发挥的<code>辛boss</code>啊(⊙﹏⊙)】</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/2018第42周/0002.jpg"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/2018第42周/0003.jpg"></img></p><h2 id="语文"><a href="#语文" class="headerlink" title="语文"></a>语文</h2><p>成绩稳定在105±4，Just let it go(￣_,￣ )</p><h2 id="数学"><a href="#数学" class="headerlink" title="数学"></a>数学</h2><p>上星期的某节数学课，我正在补高考调研，连课本都没拿出来，这时，“2号，说一下这道题怎么做”，啊？？？哪道题？？？慌张中拿出课本，和数学老师尴尬对视，还好她没说什么（。当时我就想，我月考数学一定不能砸，要给她留个好印象，还好最终没有打脸，虽说非智力性失分还有14分，和African Brother还差了9分，但总归是班里第2，还行，，</p><h2 id="英语"><a href="#英语" class="headerlink" title="英语"></a>英语</h2><p>阅读连错4道，7选5错4道，WHAT THE HELL?!刷题越多，考得越烂？</p><h2 id="物理"><a href="#物理" class="headerlink" title="物理"></a>物理</h2><p>第一道题就崩了，6分啊啊啊；计算题思路没错，整道题的4都写成2，14分啊啊啊……我可以大言不惭地说：我物理本来可以100的……</p><h2 id="化学"><a href="#化学" class="headerlink" title="化学"></a>化学</h2><p>只比平均分多了1分，考的是高中倒数第二差的一次了，直接毁掉开学以来苦心营造的化学学得还不错的假象（；′д｀）ゞ</p><h2 id="生物"><a href="#生物" class="headerlink" title="生物"></a>生物</h2><p>我们班的生物真的恐怖，比如：班排比开学考退1名，级排退200+名；班排进5名，级排退53名（倒二光环）。</p><p>扯太多了，现在，目的已达，我要继续去浪了……</p><h1 id="公交卡"><a href="#公交卡" class="headerlink" title="公交卡"></a>公交卡</h1><p>上周充完公交卡把它绑在了大行李箱上，结果我拖去学校的是小行李箱，还好有peizhao和塬的卡来刷，但去学生处说明情况的时候遇到了一个理解能力极低的老师，我的天，她阅读理解应该0分吧，解释了半天，呼……</p><h1 id="16-5岁？"><a href="#16-5岁？" class="headerlink" title="16.5岁？"></a>16.5岁？</h1><p>这周三塬给我过了16.5岁生日（奇怪的约定），本来想一起上体育课的（我体检他体育），结果该死的雨…倒是很听话地什么都没送给我（嗯），据他托辞是信纸还没到，好吧，翘首以盼。（我没有用拭目以待，所以你必须给我写信 ￣へ￣ ）</p><h1 id="洗衣机"><a href="#洗衣机" class="headerlink" title="洗衣机"></a>洗衣机</h1><p>对了，糊里糊涂的被他的败家理论给说服了，居然开始用洗衣机了……有两次是一起洗的，然后衣服染上了他的衣服久褪不去的消毒水味，穿着那件上课有种他在我旁边阴魂不散的感觉(lll￢ω￢)。</p><h1 id="刷英语"><a href="#刷英语" class="headerlink" title="刷英语"></a>刷英语</h1><p>现在每当写作业感觉不在状态的时候，“写字帖吧”“写英语全优吧”，然后糊里糊涂的就放下了作业，糊里糊涂地写完了选修6……写字帖的时候还写到了一句，嗯，（secret）。</p><h1 id="体检"><a href="#体检" class="headerlink" title="体检"></a>体检</h1><p>嗯，的确不是全班最高的（也就差了1cm嘛），肺活量居然是全班最大的…</p><p>扯得差不多了吧，end.</p><p><em>——长风破浪会有时，直挂云帆济沧海</em></p><hr><p>终于把长长的GitHub二级域名换掉了，哈。（如果我在计划表里写整晚都在弄这个会不会被小哲打死~~）</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/2018第42周/0004.jpg"></img></p><iframe width="100%" height="0" scrolling="no" border="0" frameborder="no" framespacing="0" id="welcomeVideo"></iframe>]]></content>
+      
+      
+      <categories>
+          
+          <category> 日记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 高二 </tag>
+            
+            <tag> 总结 </tag>
+            
+            <tag> 周记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我们的12班 正片+花絮</title>
+      <link href="2017/%E6%88%91%E4%BB%AC%E7%9A%8412%E7%8F%AD/"/>
+      <url>2017/%E6%88%91%E4%BB%AC%E7%9A%8412%E7%8F%AD/</url>
+      
+        <content type="html"><![CDATA[<p>在此回忆三年的龙实生活吧：）</p><hr><link href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video-js.css" rel="stylesheet" /><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-http-streaming.min.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-resolution-switcher.js'></script><video id="welcomeVideo" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">      <source id="source" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/videos/life/我们的十二班/video.m3u8" type="application/x-mpegURL"></video><script>  var w = document.getElementById("welcomeVideo").parentNode.offsetWidth;  var myVideo = videojs('welcomeVideo', {    loop: false,    controls: true,    preload: 'auto',    autoplay: false,    width: w,    height: 0.5625*w,    playbackRates: [0.5,1,1.5,2,3],  })</script><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 视频 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 龙实 </tag>
+            
+            <tag> 生活 </tag>
+            
+            <tag> 纪念 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我的香港之旅（2014）</title>
+      <link href="2014/%E6%88%91%E7%9A%84%E9%A6%99%E6%B8%AF%E4%B9%8B%E6%97%85%EF%BC%882014%EF%BC%89/"/>
+      <url>2014/%E6%88%91%E7%9A%84%E9%A6%99%E6%B8%AF%E4%B9%8B%E6%97%85%EF%BC%882014%EF%BC%89/</url>
+      
+        <content type="html"><![CDATA[<p>2014年的香港之旅，包含了一些<code>图片与录像</code>，还有一些<code>景点介绍</code></p><hr><link href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video-js.css" rel="stylesheet" /><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-http-streaming.min.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-resolution-switcher.js'></script><video id="welcomeVideo" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">      <source id="source" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/videos/life/HongKong/video.m3u8" type="application/x-mpegURL"></video><script>  var w = document.getElementById("welcomeVideo").parentNode.offsetWidth;  var myVideo = videojs('welcomeVideo', {    loop: false,    controls: true,    preload: 'auto',    autoplay: false,    width: w,    height: 0.5625*w,    playbackRates: [0.5,1,1.5,2,3],  })</script><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 视频 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 生活 </tag>
+            
+            <tag> 纪念 </tag>
+            
+            <tag> 旅行 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我的日本之旅（2014）</title>
+      <link href="2014/%E6%88%91%E7%9A%84%E6%97%A5%E6%9C%AC%E4%B9%8B%E6%97%85%EF%BC%882014%EF%BC%89/"/>
+      <url>2014/%E6%88%91%E7%9A%84%E6%97%A5%E6%9C%AC%E4%B9%8B%E6%97%85%EF%BC%882014%EF%BC%89/</url>
+      
+        <content type="html"><![CDATA[<p>2014年的日本之旅，包含了一些<code>图片与录像</code></p><hr><link href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video-js.css" rel="stylesheet" /><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-http-streaming.min.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-resolution-switcher.js'></script><video id="welcomeVideo" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">      <source id="source" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/videos/life/Japan/video.m3u8" type="application/x-mpegURL"></video><script>  var w = document.getElementById("welcomeVideo").parentNode.offsetWidth;  var myVideo = videojs('welcomeVideo', {    loop: false,    controls: true,    preload: 'auto',    autoplay: false,    width: w,    height: 0.5625*w,    playbackRates: [0.5,1,1.5,2,3],  })</script><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 视频 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 生活 </tag>
+            
+            <tag> 纪念 </tag>
+            
+            <tag> 旅行 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我的新加坡之旅（2013）</title>
+      <link href="2013/%E6%88%91%E7%9A%84%E6%96%B0%E5%8A%A0%E5%9D%A1%E4%B9%8B%E6%97%85%EF%BC%882013%EF%BC%89/"/>
+      <url>2013/%E6%88%91%E7%9A%84%E6%96%B0%E5%8A%A0%E5%9D%A1%E4%B9%8B%E6%97%85%EF%BC%882013%EF%BC%89/</url>
+      
+        <content type="html"><![CDATA[<p>2013年的新加坡之旅，包含了一些<code>图片与录像</code>，还有一些<code>旅行锦囊</code></p><hr><link href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video-js.css" rel="stylesheet" /><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-http-streaming.min.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-resolution-switcher.js'></script><video id="welcomeVideo" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">      <source id="source" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/videos/life/Singarpore/video.m3u8" type="application/x-mpegURL"></video><script>  var w = document.getElementById("welcomeVideo").parentNode.offsetWidth;  var myVideo = videojs('welcomeVideo', {    loop: false,    controls: true,    preload: 'auto',    autoplay: false,    width: w,    height: 0.5625*w,    playbackRates: [0.5,1,1.5,2,3],  })</script><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 视频 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 生活 </tag>
+            
+            <tag> 纪念 </tag>
+            
+            <tag> 旅行 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>

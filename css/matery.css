@@ -228,14 +228,14 @@ mark {
 .card {
     border-radius: 10px;
     /*box-shadow: 0 15px 35px rgba(50, 50, 93, .1), 0 5px 15px rgba(0, 0, 0, .07) !important;*/
-    opacity:0.85;
+    opacity:0.9;
 }
 
 .card .card-image img {
     border-radius: 8px 8px 0 0;
     /* 修改文章列表图片填充样式为 cover 以覆盖整个区域而不会被缩放 */
     object-fit: cover;
-    opacity:0.85;
+    opacity:0.9;
 }
 
 .container .row {
@@ -244,7 +244,7 @@ mark {
 
 .bg-color {
     background-color: #708090;
-    opacity:0.85;
+    opacity:0.9;
 }
 
 .text-color {
@@ -733,7 +733,7 @@ header .go-back i {
 
 .index-card .card .card-content {
     padding: 20px 40px;
-    opacity:0.85;
+    opacity:0.9;
 }
 
 @media only screen and (min-width: 1418px) {
@@ -746,7 +746,7 @@ header .go-back i {
 @media only screen and (max-width: 601px) {
     .index-card .card .card-content {
         padding: 10px 10px;
-        opacity:0.85;
+        opacity:0.9;
     }
 }
 
@@ -754,7 +754,7 @@ header .go-back i {
 @media only screen and (min-width: 600px) and (max-width: 992px) {
     .index-card .card .card-content {
         padding: 20px 20px;
-        opacity:0.85;
+        opacity:0.9;
     }
 }
 
@@ -893,7 +893,7 @@ article a:hover {
 article .card {
     border-radius: 8px;
     overflow: hidden;
-    opacity:0.85;
+    opacity:0.9;
 }
 
 article .card-image {
@@ -913,7 +913,7 @@ article .tag-image img {
 
 article .card .card-content {
     padding: 15px 15px 12px 18px;
-    opacity:0.85;
+    opacity:0.9;
 }
 
 article .article-content .summary {
@@ -942,7 +942,7 @@ article .article-content .publish-author {
 article .card .card-action {
     padding: 10px 15px 10px 18px;
     border-radius: 0 0 8px 8px !important;
-    opacity:0.85;
+    opacity:0.9;
 }
 
 article .article-tags .chip {
@@ -1032,7 +1032,7 @@ article .article-tags .chip {
     /*box-shadow: 0 10px 35px 2px rgba(0, 0, 0, .15),*/
     0 5px 15px rgba(0, 0, 0, .07),
     0 2px 5px -5px rgba(0, 0, 0, .1) !important;
-    opacity:0.85;
+    opacity:0.9;
 }
 
 #artDetail .tag-cate {
@@ -1124,7 +1124,7 @@ article .article-tags .chip {
 
 #artDetail .article-card-content {
     padding: 0 15px 20px 18px;
-    opacity:0.85;
+    opacity:0.9;
 }
 
 @media only screen and (max-width: 601px) {
@@ -1137,7 +1137,7 @@ article .article-tags .chip {
 @media only screen and (min-width: 600px) and (max-width: 992px) {
     #artDetail .article-card-content {
         padding: 0 30px 20px 32px;
-        opacity:0.85;
+        opacity:0.9;
     }
 
     #artDetail .article-info {
@@ -1149,7 +1149,7 @@ article .article-tags .chip {
 @media only screen and (min-width: 993px) {
     #artDetail .article-card-content {
         padding: 0 50px 20px 50px;
-        opacity:0.85;
+        opacity:0.9;
     }
 }
 
@@ -1515,7 +1515,7 @@ thead {
 
 .cd-timeline-content .card {
     margin: 0;
-    opacity:0.85;
+    opacity:0.9;
 }
 
 .cd-timeline-content::before {

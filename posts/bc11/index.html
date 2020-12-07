@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="keywords" content="城市天际线：欢迎来到东勘察加城, 一只CCJ">
+    <meta name="keywords" content="游戏者的视频, 一只CCJ">
     <meta name="description" content="">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
@@ -16,7 +16,7 @@
     <!-- Global site tag (gtag.js) - Google Analytics -->
 
 
-    <title>城市天际线：欢迎来到东勘察加城 | 一只CCJ</title>
+    <title>游戏者的视频 | 一只CCJ</title>
     <link rel="icon" type="image/png" href="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io/100000-Elements/favicon.png">
 
     <link rel="stylesheet" type="text/css" href="/libs/awesome/css/all.css">
@@ -278,7 +278,7 @@
         <div class="row">
             <div class="col s12 m12 l12">
                 <div class="brand">
-                    <h1 class="description center-align post-title">城市天际线：欢迎来到东勘察加城</h1>
+                    <h1 class="description center-align post-title">游戏者的视频</h1>
                 </div>
             </div>
         </div>
@@ -338,14 +338,14 @@
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    433
+                    979
                 </div>
                 
 
                 
                 <div class="info-break-policy">
                     <i class="far fa-clock fa-fw"></i>阅读时长:&nbsp;&nbsp;
-                    1 分
+                    4 分
                 </div>
                 
 
@@ -365,33 +365,51 @@
 
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <p>In the coming 15 years , the EKC will develop industry, aerospace, precision electronics, free trade, new energy, quantum technology, tourism, landmark building, commerce, linkage transportation system, network and information technology, and come to the world’s top level.<br>在未来的15年里，东勘察加城将会发展工业，航空，精密电子，自贸，新能源，高新技术，旅游，地标建筑，金融，联动交通，网络和IT，并发展为世界顶尖水平。</p>
-<p>We have the confidence to build the EKC into one of the world centers of P&amp;F&amp;C&amp;S.<br>我们有信心将东勘察加城建设为一个***的（我也忘了我当时要表达什么，笑）世界中心。</p>
-<hr>
+                
+<link href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-playlist-ui.min.css" rel="stylesheet" />
 <link href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video-js.css" rel="stylesheet" />
 <script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video.js'></script>
 <script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-http-streaming.min.js'></script>
-<script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-resolution-switcher.js'></script>
-
-
-
-<video id="welcomeVideo" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">
-      <source id="source" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/videos/game/【城市天际线】东勘察加城/video.m3u8" type="application/x-mpegURL" />
-</video>
+<script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-playlist.js'></script>
+<script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-playlist-ui.min.js'></script>
+<style>
+.player-container{background:#1a1a1a;overflow:auto;}
+@media only screen and (min-width: 1000px) {.video-js{float: left;width: 75%;}}
+@media only screen and (min-width: 1000px) {.vjs-playlist{float: right;width: 25%;max-height:500px;}}
+@media only screen and (max-width: 1000px) {.video-js{float: left;width: 100%;}}
+@media only screen and (max-width: 1000px) {.vjs-playlist{float: right;width: 100%;}}
+.vjs-playlist-item{border: 1px solid #FFFFFF;}
+.vjs-playlist .vjs-selected{border: 1px solid #00FF00;}
+.vjs-playlist .vjs-selected img{opacity: .5;}
+</style>
+<div id="welcomeVideo" class="player-container">
+<video id="theVideo" class="video-js vjs-default-skin vjs-big-play-centered vjs-v7 vjs-user-active" width="100%" height="100%"></video>
+<div class="vjs-playlist playlist-container" id="videolist">
+</div></div>
 
 <script>
-  var w = document.getElementById("welcomeVideo").parentNode.offsetWidth;
-  var myVideo = videojs('welcomeVideo', {
+  var w = document.getElementById("welcomeVideo").offsetWidth;
+  var myVideo = videojs('theVideo', {
     loop: false,
     controls: true,
     preload: 'auto',
     autoplay: false,
     width: w,
-    playbackRates: [0.5,1,1.5,2,3],
-  })
+    height: 0.5625*w,
+    playbackRates: [0.5,1,1.5,2,3]
+  });
+  myVideo.playlist([
+  {name: '东堪察加城',sources: [{src: 'https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@latest/200316-GameVids/csl-ekc/video.m3u8',type: 'application/x-mpegURL'}]}, 
+  {name: '天际线GTA5',sources: [{src: 'https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@latest/200316-GameVids/csl-gtav/video.m3u8',type: 'application/x-mpegURL'}]}, 
+  {name: '浴火银河2',sources: [{src: 'https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@latest/200316-GameVids/gof23hpass/video.m3u8',type: 'application/x-mpegURL'}]}
+  ]);
+  myVideo.playlistUi();
 </script>
 
 <hr>
+<p><code>东堪察加城</code></p>
+<p>In the coming 15 years , the EKC will develop industry, aerospace, precision electronics, free trade, new energy, quantum technology, tourism, landmark building, commerce, linkage transportation system, network and information technology, and come to the world’s top level.<br>在未来的15年里，东勘察加城将会发展工业，航空，精密电子，自贸，新能源，高新技术，旅游，地标建筑，金融，联动交通，网络和IT，并发展为世界顶尖水平。</p>
+<p>We have the confidence to build the EKC into one of the world centers of P&amp;F&amp;C&amp;S.<br>我们有信心将东勘察加城建设为一个***的（我也忘了我当时要表达什么，笑）世界中心。</p>
 <p>If you settle in the EKC now , you will get* : Homing Tax Totally Off，Business Tax Totally Off，Industry Tax 90% Off<br>如果你现在加入东勘察加城，你将可享受：住房税全免，商业税全免，工业税免除90%</p>
 <p>*The tax will return you in 18 months.<br>*这些税收将在征收满18个月之后返还。</p>
 <p>You can help us build the EKC , such as：Economical Operation，Infrastructure Construction，Industrial Production<br>我们需要：金融人才，基建人才，工业人才</p>
@@ -399,6 +417,15 @@
 <p>**If you leave the EKC within 2 years , you have to pay the fees off.<br>**如果您在东勘察加城居住时间少于2年内离开，您需偿还以上费用。</p>
 <p>For more information , please visit : devabul.ek (404,????)<br>想获取更多信息请访问：devabul.ek（404，笑）</p>
 <p>当然，以上吹水均为虚构，而且这座城市早已被核弹摧毁。。。</p>
+<p><code>城市天际线：GTA5快闪</code></p>
+<p>来自国外大神的GTA5城市天际线地图，没有滤镜没有mod，感受原生CSL（还是加mod好~），再配上蜜汁踩点的BGM: <code>Taylor Swift - Bad Blood</code>，感受一下～</p>
+<p><code>浴火银河2-GOF2-3小时全剧情通关</code></p>
+<p>拜新冠疫情所赐，宅家一个多月，实在想找点事情干，于是翻出了这款经典。时隔3年，重新在安卓端找到了GOF2可用的汉化高清破解版</p>
+<p>【汉化：还是不习惯英文；高清：都1080P时代了，那么大的按钮和每页少得可怜的文字有点不爽；破解：国内安卓要付费有点麻烦】</p>
+<p>由于这个版本自带了信用点破解和蓝图破解，所以我玩着玩着就不自觉开始开挂作弊。。。</p>
+<p>最后想想干脆重刷一遍，挑战一下自己，看看最快能花多长时间通关，也算是将自己磨砺了数年的GOF2技能再发光发热（笑），如果对我的行为表示鄙视的请勿观看咯。顺带做一遍回忆，毕竟这游戏伴随了我整个童年~</p>
+<p>另外，立个flag：等我拥有一台iOS设备，我会立马安装GOF2然后买下全部DLC，（虽然魔鱼倒闭了可能收不到钱。。。）然后录制一遍精致的通关视频（追求极致的装备、任务效率、获得全金章和全朱章）</p>
+<hr>
 
                 
             </div>
@@ -777,30 +804,31 @@
             <div class="article-badge left-badge text-color">
                 <i class="fas fa-chevron-left"></i>&nbsp;上一篇</div>
             <div class="card">
-                <a href="/posts/65d7/">
+                <a href="/posts/6a69/">
                     <div class="card-image">
                         
-                        <img src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/atccovers/gof2.jpg" class="responsive-img" alt="浴火银河2(GOF2)--3小时全剧情通关">
                         
-                        <span class="card-title">浴火银河2(GOF2)--3小时全剧情通关</span>
+                        <img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io/100000-Elements/11.webp" class="responsive-img" alt="通吃市面上几乎所有加密格式音乐的解密方法（1）">
+                        
+                        <span class="card-title">通吃市面上几乎所有加密格式音乐的解密方法（1）</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            拜新冠疫情所赐，宅家一个多月，实在想找点事情干，于是翻出了这款经典。
+                            QQ和网易云的加密算法不见！
                         
                     </div>
                     <div class="publish-info">
                         <span class="publish-date">
-                            <i class="far fa-clock fa-fw icon-date"></i>2020-03-16
+                            <i class="far fa-clock fa-fw icon-date"></i>2020-04-10
                         </span>
                         <span class="publish-author">
                             
                             <i class="fas fa-bookmark fa-fw icon-category"></i>
                             
-                            <a href="/categories/%E8%A7%86%E9%A2%91/" class="post-category">
-                                    视频
+                            <a href="/categories/%E6%95%99%E7%A8%8B/" class="post-category">
+                                    教程
                                 </a>
                             
                             
@@ -810,12 +838,24 @@
                 
                 <div class="card-action article-tags">
                     
-                    <a href="/tags/%E6%B8%B8%E6%88%8F/">
-                        <span class="chip bg-color">游戏</span>
+                    <a href="/tags/%E7%BD%91%E7%BB%9C/">
+                        <span class="chip bg-color">网络</span>
                     </a>
                     
-                    <a href="/tags/%E6%B5%B4%E7%81%AB%E9%93%B6%E6%B2%B32/">
-                        <span class="chip bg-color">浴火银河2</span>
+                    <a href="/tags/%E7%A8%8B%E5%BA%8F/">
+                        <span class="chip bg-color">程序</span>
+                    </a>
+                    
+                    <a href="/tags/%E7%A0%B4%E8%A7%A3/">
+                        <span class="chip bg-color">破解</span>
+                    </a>
+                    
+                    <a href="/tags/%E9%9F%B3%E4%B9%90/">
+                        <span class="chip bg-color">音乐</span>
+                    </a>
+                    
+                    <a href="/tags/%E5%B7%A5%E5%85%B7/">
+                        <span class="chip bg-color">工具</span>
                     </a>
                     
                 </div>
@@ -919,7 +959,7 @@
             <br>
             
             &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                class="white-color">13k</span>&nbsp;字
+                class="white-color">14.2k</span>&nbsp;字
             
             
             

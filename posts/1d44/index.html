@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="keywords" content="我的香港之旅（2014）, 一只CCJ">
+    <meta name="keywords" content="旅行者的记录, 一只CCJ">
     <meta name="description" content="">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
@@ -16,7 +16,7 @@
     <!-- Global site tag (gtag.js) - Google Analytics -->
 
 
-    <title>我的香港之旅（2014） | 一只CCJ</title>
+    <title>旅行者的记录 | 一只CCJ</title>
     <link rel="icon" type="image/png" href="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io/100000-Elements/favicon.png">
 
     <link rel="stylesheet" type="text/css" href="/libs/awesome/css/all.css">
@@ -278,7 +278,7 @@
         <div class="row">
             <div class="col s12 m12 l12">
                 <div class="brand">
-                    <h1 class="description center-align post-title">我的香港之旅（2014）</h1>
+                    <h1 class="description center-align post-title">旅行者的记录</h1>
                 </div>
             </div>
         </div>
@@ -329,7 +329,7 @@
                 
                 <div class="post-date info-break-policy">
                     <i class="far fa-calendar-minus fa-fw"></i>发布日期:&nbsp;&nbsp;
-                    2014-08-16
+                    2015-01-01
                 </div>
                 
 
@@ -338,7 +338,7 @@
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    58
+                    274
                 </div>
                 
 
@@ -365,32 +365,49 @@
 
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <p>2014年的香港之旅，包含了一些<code>图片与录像</code>，还有一些<code>景点介绍</code></p>
+                <p>2013年的新加坡之旅，包含了一些<code>图片与录像</code>，还有一些<code>旅行锦囊</code></p>
+<p>2014年的日本之旅，包含了一些<code>图片与录像</code>，还有一些<code>景点介绍</code></p>
+<p>2014年的香港之旅，包含了一些<code>图片与录像</code>，还有一些<code>景点介绍</code></p>
 <hr>
+
+<link href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-playlist-ui.min.css" rel="stylesheet" />
 <link href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video-js.css" rel="stylesheet" />
 <script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video.js'></script>
 <script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-http-streaming.min.js'></script>
-<script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-resolution-switcher.js'></script>
-
-
-
-
-
-<video id="welcomeVideo" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">
-      <source id="source" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/videos/life/HongKong/video.m3u8" type="application/x-mpegURL">
-</video>
+<script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-playlist.js'></script>
+<script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-playlist-ui.min.js'></script>
+<style>
+.player-container{background:#1a1a1a;overflow:auto;}
+@media only screen and (min-width: 1000px) {.video-js{float: left;width: 75%;}}
+@media only screen and (min-width: 1000px) {.vjs-playlist{float: right;width: 25%;max-height:500px;}}
+@media only screen and (max-width: 1000px) {.video-js{float: left;width: 100%;}}
+@media only screen and (max-width: 1000px) {.vjs-playlist{float: right;width: 100%;}}
+.vjs-playlist-item{border: 1px solid #FFFFFF;}
+.vjs-playlist .vjs-selected{border: 1px solid #00FF00;}
+.vjs-playlist .vjs-selected img{opacity: .5;}
+</style>
+<div id="welcomeVideo" class="player-container">
+<video id="theVideo" class="video-js vjs-default-skin vjs-big-play-centered vjs-v7 vjs-user-active" width="100%" height="100%"></video>
+<div class="vjs-playlist playlist-container" id="videolist">
+</div></div>
 
 <script>
-  var w = document.getElementById("welcomeVideo").parentNode.offsetWidth;
-  var myVideo = videojs('welcomeVideo', {
+  var w = document.getElementById("welcomeVideo").offsetWidth;
+  var myVideo = videojs('theVideo', {
     loop: false,
     controls: true,
     preload: 'auto',
     autoplay: false,
     width: w,
     height: 0.5625*w,
-    playbackRates: [0.5,1,1.5,2,3],
-  })
+    playbackRates: [0.5,1,1.5,2,3]
+  });
+  myVideo.playlist([
+  {name: '新加坡之旅',sources: [{src: 'https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@latest/150101-TripVids/sg/video.m3u8',type: 'application/x-mpegURL'}]}, 
+  {name: '日本之旅',sources: [{src: 'https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@latest/150101-TripVids/jp/video.m3u8',type: 'application/x-mpegURL'}]}, 
+  {name: '香港之旅',sources: [{src: 'https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@latest/150101-TripVids/hk/video.m3u8',type: 'application/x-mpegURL'}]}
+  ]);
+  myVideo.playlistUi();
 </script>
 
 <hr>
@@ -817,26 +834,26 @@
         
         <div class="article col s12 m6" data-aos="fade-up">
             <div class="article-badge right-badge text-color">
-                下一篇&nbsp;<i class="fas fa-chevron-right"></i>
+                本篇&nbsp;<i class="far fa-dot-circle"></i>
             </div>
             <div class="card">
-                <a href="/posts/4d31/">
+                <a href="/posts/1d44/">
                     <div class="card-image">
                         
-                        <img src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/atccovers/japan.jpg" class="responsive-img" alt="我的日本之旅（2014）">
+                        <img src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/atccovers/hongkong.jpg" class="responsive-img" alt="旅行者的记录">
                         
-                        <span class="card-title">我的日本之旅（2014）</span>
+                        <span class="card-title">旅行者的记录</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            2014年的日本之旅，包含了一些图片与录像
+                            2014年的香港之旅，包含了一些图片与录像，还有一些景点介绍
                         
                     </div>
                     <div class="publish-info">
                             <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2014-08-16
+                                <i class="far fa-clock fa-fw icon-date"></i>2015-01-01
                             </span>
                         <span class="publish-author">
                             
@@ -850,6 +867,7 @@
                         </span>
                     </div>
                 </div>
+
                 
                 <div class="card-action article-tags">
                     
@@ -913,7 +931,7 @@
             <br>
             
             &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                class="white-color">13k</span>&nbsp;字
+                class="white-color">14.2k</span>&nbsp;字
             
             
             

@@ -1,20 +1,20 @@
 /*全局基础样式*/
 /*小屏幕下(手机类)的样式*/
-@media only screen and (max-width: 601px) {
+@media only screen and (max-width: 1100px) {
+    .container {
+        width: 100%;
+    }
+}
+
+/*中等屏幕下(平板类)的样式*/
+@media only screen and (min-width: 1101px) and (max-width: 1500px) {
     .container {
         width: 95%;
     }
 }
 
-/*中等屏幕下(平板类)的样式*/
-@media only screen and (min-width: 600px) and (max-width: 992px) {
-    .container {
-        width: 90%;
-    }
-}
-
 /*大屏幕下(桌面类)的样式*/
-@media only screen and (min-width: 993px) {
+@media only screen and (min-width: 1501px) {
     .container {
         width: 90%;
         max-width: 1125px;

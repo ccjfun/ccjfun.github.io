@@ -94,9 +94,9 @@
     
     <category term="摄影" scheme="http://ccjfun.cf/tags/%E6%91%84%E5%BD%B1/"/>
     
-    <category term="手机" scheme="http://ccjfun.cf/tags/%E6%89%8B%E6%9C%BA/"/>
-    
     <category term="数码" scheme="http://ccjfun.cf/tags/%E6%95%B0%E7%A0%81/"/>
+    
+    <category term="手机" scheme="http://ccjfun.cf/tags/%E6%89%8B%E6%9C%BA/"/>
     
   </entry>
   
@@ -120,15 +120,15 @@
     <category term="日记" scheme="http://ccjfun.cf/categories/%E6%97%A5%E8%AE%B0/"/>
     
     
-    <category term="潮汕" scheme="http://ccjfun.cf/tags/%E6%BD%AE%E6%B1%95/"/>
-    
     <category term="生活" scheme="http://ccjfun.cf/tags/%E7%94%9F%E6%B4%BB/"/>
     
     <category term="摄影" scheme="http://ccjfun.cf/tags/%E6%91%84%E5%BD%B1/"/>
     
-    <category term="手机" scheme="http://ccjfun.cf/tags/%E6%89%8B%E6%9C%BA/"/>
-    
     <category term="数码" scheme="http://ccjfun.cf/tags/%E6%95%B0%E7%A0%81/"/>
+    
+    <category term="潮汕" scheme="http://ccjfun.cf/tags/%E6%BD%AE%E6%B1%95/"/>
+    
+    <category term="手机" scheme="http://ccjfun.cf/tags/%E6%89%8B%E6%9C%BA/"/>
     
     <category term="华工影忆 CMOS" scheme="http://ccjfun.cf/tags/%E5%8D%8E%E5%B7%A5%E5%BD%B1%E5%BF%86-CMOS/"/>
     
@@ -182,9 +182,9 @@
     
     <category term="摄影" scheme="http://ccjfun.cf/tags/%E6%91%84%E5%BD%B1/"/>
     
-    <category term="手机" scheme="http://ccjfun.cf/tags/%E6%89%8B%E6%9C%BA/"/>
-    
     <category term="数码" scheme="http://ccjfun.cf/tags/%E6%95%B0%E7%A0%81/"/>
+    
+    <category term="手机" scheme="http://ccjfun.cf/tags/%E6%89%8B%E6%9C%BA/"/>
     
     <category term="美食" scheme="http://ccjfun.cf/tags/%E7%BE%8E%E9%A3%9F/"/>
     
@@ -290,13 +290,13 @@
     
     <category term="摄影" scheme="http://ccjfun.cf/tags/%E6%91%84%E5%BD%B1/"/>
     
+    <category term="数码" scheme="http://ccjfun.cf/tags/%E6%95%B0%E7%A0%81/"/>
+    
     <category term="汽车" scheme="http://ccjfun.cf/tags/%E6%B1%BD%E8%BD%A6/"/>
     
     <category term="飞机" scheme="http://ccjfun.cf/tags/%E9%A3%9E%E6%9C%BA/"/>
     
     <category term="手机" scheme="http://ccjfun.cf/tags/%E6%89%8B%E6%9C%BA/"/>
-    
-    <category term="数码" scheme="http://ccjfun.cf/tags/%E6%95%B0%E7%A0%81/"/>
     
   </entry>
   
@@ -352,11 +352,11 @@
     <category term="日记" scheme="http://ccjfun.cf/categories/%E6%97%A5%E8%AE%B0/"/>
     
     
-    <category term="潮汕" scheme="http://ccjfun.cf/tags/%E6%BD%AE%E6%B1%95/"/>
-    
     <category term="生活" scheme="http://ccjfun.cf/tags/%E7%94%9F%E6%B4%BB/"/>
     
     <category term="摄影" scheme="http://ccjfun.cf/tags/%E6%91%84%E5%BD%B1/"/>
+    
+    <category term="潮汕" scheme="http://ccjfun.cf/tags/%E6%BD%AE%E6%B1%95/"/>
     
     <category term="猫" scheme="http://ccjfun.cf/tags/%E7%8C%AB/"/>
     
@@ -492,15 +492,15 @@
     <category term="日记" scheme="http://ccjfun.cf/categories/%E6%97%A5%E8%AE%B0/"/>
     
     
-    <category term="城市天际线" scheme="http://ccjfun.cf/tags/%E5%9F%8E%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF/"/>
-    
-    <category term="潮汕" scheme="http://ccjfun.cf/tags/%E6%BD%AE%E6%B1%95/"/>
-    
     <category term="摄影" scheme="http://ccjfun.cf/tags/%E6%91%84%E5%BD%B1/"/>
     
     <category term="数码" scheme="http://ccjfun.cf/tags/%E6%95%B0%E7%A0%81/"/>
     
+    <category term="潮汕" scheme="http://ccjfun.cf/tags/%E6%BD%AE%E6%B1%95/"/>
+    
     <category term="美食" scheme="http://ccjfun.cf/tags/%E7%BE%8E%E9%A3%9F/"/>
+    
+    <category term="城市天际线" scheme="http://ccjfun.cf/tags/%E5%9F%8E%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF/"/>
     
   </entry>
   
@@ -552,9 +552,9 @@
     <category term="日记" scheme="http://ccjfun.cf/categories/%E6%97%A5%E8%AE%B0/"/>
     
     
-    <category term="摄影" scheme="http://ccjfun.cf/tags/%E6%91%84%E5%BD%B1/"/>
-    
     <category term="高中" scheme="http://ccjfun.cf/tags/%E9%AB%98%E4%B8%AD/"/>
+    
+    <category term="摄影" scheme="http://ccjfun.cf/tags/%E6%91%84%E5%BD%B1/"/>
     
   </entry>
   
@@ -590,14 +590,14 @@
     <link href="http://ccjfun.cf/posts/6a69/"/>
     <id>http://ccjfun.cf/posts/6a69/</id>
     <published>2020-04-10T12:00:00.000Z</published>
-    <updated>2020-05-10T02:38:29.862Z</updated>
+    <updated>2020-12-08T00:34:51.781Z</updated>
     
-    <content type="html"><![CDATA[<iframe width="100%" height="50" scrolling="no" border="0" frameborder="no" framespacing="0" src="https://p.ccjfun.cf/bgm/94JGREU2"></iframe><p>unlock-music项目是以学习和技术研究的初衷创建的。Unlock encrypted music file in browser.在浏览器中解锁加密的音乐文件。原链接：<a href="https://github.com/ix64/unlock-music/">https://github.com/ix64/unlock-music/</a></p><link href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video-js.css" rel="stylesheet" /><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-http-streaming.min.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-resolution-switcher.js'></script><video id="welcomeVideo" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">      <source id="source" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/videos/tech/通吃市面上几乎所有加密格式音乐的解密方法/video.m3u8" type="application/x-mpegURL"></video><script>  var w = document.getElementById("welcomeVideo").parentNode.offsetWidth;  var myVideo = videojs('welcomeVideo', {    loop: false,    controls: true,    preload: 'auto',    autoplay: false,    width: w,    height: 0.5625*w,    playbackRates: [0.5,1,1.5,2,3],  })</script><p> <code>QQMusic Format QQ音乐格式</code>  (.qmc0/.qmc2/.qmc3/.qmcflac/.qmcogg/.tkm)</p><p> <code>MooMusic Format Moo音乐格式</code> (.bkcmp3/.bkcflac)</p><p> <code>QQMusic Tm Format QQ音乐Tm格式</code> (.tm0/.tm2/.tm3/.tm6)</p><p> <code>QQMusic New Format QQ音乐新格式</code> (.mflac/.mgg)</p><p> <code>Netease Format 网易云音乐格式</code> (.ncm)</p><ul><li>Drag and Drop 拖放文件</li><li>Play instantly 在线播放</li><li>Batch unlocking 批量解锁</li><li>Progressive Web App 渐进式Web应用</li><li>Complete ID3 for ncm 补全ncm的ID3信息</li><li>Multi-threads 多线程</li></ul><p>在线版：</p><blockquote><p><a href="https://plg.ccjfun.cf/mdx/">新加坡服务器</a> <a href="https://ext.ccjfun.cf/mdx/">美国服务器</a></p></blockquote><p>各版本下载：</p><blockquote><p>1 <a href="/mdx/MDCL.zip">电脑版</a> Windows，macOS通用，解压后执行index.html</p></blockquote><blockquote><p>2 <a href="/mdx/MDCS.zip">服务器版</a> 需部署至服务器上</p></blockquote><blockquote><p>3 <a href="/mdx/MDCA.apk">Android版</a> 调用系统WebView内核，部分旧手机可能无法加载</p></blockquote><blockquote><p>4 <a href="/mdx/MDCX.apk">Android X</a> 调用腾讯X5内核，解决部分兼容性问题</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<p>unlock-music项目是以学习和技术研究的初衷创建的。Unlock encrypted music file in browser.在浏览器中解锁加密的音乐文件。原链接：<a href="https://github.com/ix64/unlock-music/">https://github.com/ix64/unlock-music/</a></p><link href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video-js.css" rel="stylesheet" /><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-http-streaming.min.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-resolution-switcher.js'></script><video id="welcomeVideo" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">      <source id="source" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/videos/tech/通吃市面上几乎所有加密格式音乐的解密方法/video.m3u8" type="application/x-mpegURL"></video><script>  var w = document.getElementById("welcomeVideo").parentNode.offsetWidth;  var myVideo = videojs('welcomeVideo', {    loop: false,    controls: true,    preload: 'auto',    autoplay: false,    width: w,    height: 0.5625*w,    playbackRates: [0.5,1,1.5,2,3],  })</script><p> <code>QQMusic Format QQ音乐格式</code>  (.qmc0/.qmc2/.qmc3/.qmcflac/.qmcogg/.tkm)</p><p> <code>MooMusic Format Moo音乐格式</code> (.bkcmp3/.bkcflac)</p><p> <code>QQMusic Tm Format QQ音乐Tm格式</code> (.tm0/.tm2/.tm3/.tm6)</p><p> <code>QQMusic New Format QQ音乐新格式</code> (.mflac/.mgg)</p><p> <code>Netease Format 网易云音乐格式</code> (.ncm)</p><ul><li>Drag and Drop 拖放文件</li><li>Play instantly 在线播放</li><li>Batch unlocking 批量解锁</li><li>Progressive Web App 渐进式Web应用</li><li>Complete ID3 for ncm 补全ncm的ID3信息</li><li>Multi-threads 多线程</li></ul><p>在线版：</p><blockquote><p><a href="https://plg.ccjfun.cf/mdx/">新加坡服务器</a> <a href="https://ext.ccjfun.cf/mdx/">美国服务器</a></p></blockquote><p>各版本下载：</p><blockquote><p>1 <a href="/mdx/MDCL.zip">电脑版</a> Windows，macOS通用，解压后执行index.html</p></blockquote><blockquote><p>2 <a href="/mdx/MDCS.zip">服务器版</a> 需部署至服务器上</p></blockquote><blockquote><p>3 <a href="/mdx/MDCA.apk">Android版</a> 调用系统WebView内核，部分旧手机可能无法加载</p></blockquote><blockquote><p>4 <a href="/mdx/MDCX.apk">Android X</a> 调用腾讯X5内核，解决部分兼容性问题</p></blockquote>]]></content>
     
     
       
       
-    <summary type="html">&lt;iframe width=&quot;100%&quot; height=&quot;50&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborder=&quot;no&quot; framespacing=&quot;0&quot; src=&quot;https://p.ccjfun.cf/bgm/94JGREU2&quot;&gt;&lt;/iframe</summary>
+    <summary type="html">&lt;p&gt;unlock-music项目是以学习和技术研究的初衷创建的。Unlock encrypted music file in browser.在浏览器中解锁加密的音乐文件。原链接：&lt;a href=&quot;https://github.com/ix64/unlock-music/&quot;&gt;h</summary>
       
     
     
@@ -674,14 +674,15 @@
     <link href="http://ccjfun.cf/posts/6360/"/>
     <id>http://ccjfun.cf/posts/6360/</id>
     <published>2020-03-14T16:00:00.000Z</published>
-    <updated>2020-05-10T04:17:19.926Z</updated>
+    <updated>2020-12-08T00:35:00.249Z</updated>
     
-    <content type="html"><![CDATA[<iframe width="100%" height="50" scrolling="no" border="0" frameborder="no" framespacing="0" src="https://p.ccjfun.cf/bgm/ABUJMO5Z"></iframe><link href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-playlist-ui.min.css" rel="stylesheet" /><link href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video-js.css" rel="stylesheet" /><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-http-streaming.min.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-playlist.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-playlist-ui.min.js'></script><style>.player-container{background:#1a1a1a;overflow:auto;}@media only screen and (min-width: 1000px) {.video-js{float: left;width: 75%;}}@media only screen and (min-width: 1000px) {.vjs-playlist{float: right;width: 25%;max-height:500px;}}@media only screen and (max-width: 1000px) {.video-js{float: left;width: 100%;}}@media only screen and (max-width: 1000px) {.vjs-playlist{float: right;width: 100%;}}.vjs-playlist-item{border: 1px solid #FFFFFF;}.vjs-playlist .vjs-selected{border: 1px solid #00FF00;}.vjs-playlist .vjs-selected img{opacity: .5;}</style><h2 id="视频教程"><a href="#视频教程" class="headerlink" title="视频教程"></a>视频教程</h2><div class="player-container" id="welcomeVideo"><video id="theVideo" class="video-js vjs-default-skin vjs-big-play-centered vjs-v7 vjs-user-active" width="100%" height="100%"></video><div class="vjs-playlist playlist-container" id="videolist"></div></div><script>  var w = document.getElementById("welcomeVideo").offsetWidth;  var myVideo = videojs('theVideo', {    loop: false,    controls: true,    preload: 'auto',    autoplay: false,    width: w,    height: 0.5625*w,    playbackRates: [0.5,1,1.5,2,3]  });  myVideo.playlist([  {name: '极客版',sources: [{src: 'https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/videos/tech/给网课打注鸡血（极客版）/video.m3u8',type: 'application/x-mpegURL'}]},   {name: '电脑版',sources: [{src: 'https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/videos/tech/给网课打注鸡血（电脑版）/video.m3u8',type: 'application/x-mpegURL'}]},   {name: '手机版',sources: [{src: 'https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/videos/tech/给网课打注鸡血（手机版）/video.m3u8',type: 'application/x-mpegURL'}]}  ]);  myVideo.playlistUi();</script><h1 id="极客版"><a href="#极客版" class="headerlink" title="极客版"></a>极客版</h1><h2 id="1-推荐网址"><a href="#1-推荐网址" class="headerlink" title="1.推荐网址"></a>1.推荐网址</h2><p><code>http://editor.livegap.com/index.php?lan=zh-CN</code><br>这个工具是为了输入代码在线生成一个倍速播放器</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：极客版/2.jpg"></img></p><h2 id="2-代码"><a href="#2-代码" class="headerlink" title="2.代码"></a>2.代码</h2><p>全选代码然后复制（copy）</p><pre><code>&lt;center&gt;&lt;video id=&quot;netcls&quot; width=&quot;60%&quot; controls=&quot;controls&quot; src=&quot;！把我替换为链接！&quot;&gt;&lt;/video&gt;&lt;/center&gt;&lt;br /&gt;&lt;center&gt;&lt;button onclick=&quot;backto()&quot; type=&quot;button&quot; style=&quot;width:15%;height:30px;color:white;border:3px darkgrey solid;background-color:black;&quot;&gt;还原&lt;/button&gt;&lt;input type=&quot;text&quot; id=&quot;diyspd&quot; style=&quot;width:15%;height:30px;&quot; placeholder=&quot;输入倍速&quot; /&gt;&lt;input onclick=&quot;rocket()&quot; type=&quot;button&quot; style=&quot;width:15%;height:30px;color:white;border:3px darkgrey solid;background-color:black;&quot; value=&quot;小火箭~&quot; /&gt;&lt;/center&gt;&lt;script&gt;netcls=document.getElementById(&quot;netcls&quot;);diyspd=document.getElementById(&quot;diyspd&quot;);function backto()&#123;netcls.playbackRate=1;&#125;function rocket()&#123;netcls.playbackRate=diyspd.value;&#125;&lt;/script&gt;</code></pre><h2 id="3"><a href="#3" class="headerlink" title="3."></a>3.</h2><p>删掉原有的全部代码<br>粘贴（paste）上去</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：极客版/2.jpg"></img></p><h2 id="4"><a href="#4" class="headerlink" title="4."></a>4.</h2><p>这时看到<br><code>！把我替换为链接！</code><br>我们就需要网课链接了</p><h2 id="5-转到"><a href="#5-转到" class="headerlink" title="5.转到"></a>5.转到</h2><p>你想要看的网课<br>右键点击视频，点击复制视频链接（copy  address）</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：极客版/3.jpg"></img></p><h2 id="6-在这里"><a href="#6-在这里" class="headerlink" title="6.在这里"></a>6.在这里</h2><p>替换掉<code>！把我替换为链接！</code></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：极客版/4.jpg"></img></p><h2 id="7-输入框"><a href="#7-输入框" class="headerlink" title="7.输入框"></a>7.输入框</h2><p>可以输入你想要的倍速（0~100的整数或小数），试一下效果</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：极客版/5.jpg"></img></p><h2 id="就这样"><a href="#就这样" class="headerlink" title="就这样~"></a>就这样~</h2><h1 id="电脑版"><a href="#电脑版" class="headerlink" title="电脑版"></a>电脑版</h1><blockquote><p>既然你们觉得打代码太复杂，直接用现成软件PotPlayer吧~</p></blockquote><h2 id="1"><a href="#1" class="headerlink" title="1."></a>1.</h2><p>打开你想倍速的网课的网页,右键复制视频链接</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：电脑版/1.png"></img></p><h2 id="2"><a href="#2" class="headerlink" title="2."></a>2.</h2><p>打开PotPlayer</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：电脑版/2.png"></img></p><h2 id="3-1"><a href="#3-1" class="headerlink" title="3."></a>3.</h2><p>右键，打开视频源，粘贴刚才复制的链接</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：电脑版/3.png"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：电脑版/4.png"></img></p><h2 id="4-1"><a href="#4-1" class="headerlink" title="4."></a>4.</h2><p>右键，控制，调出速度调节面板</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：电脑版/5.png"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：电脑版/6.png"></img></p><h2 id="完成"><a href="#完成" class="headerlink" title="完成~"></a>完成~</h2><blockquote><p>由于PotPlayer在国内下载可能比较慢，我把它传到了百度网盘</p></blockquote><pre><code>链接：https://pan.baidu.com/videos/1Tkj13K9dUw8cQSassFj1Dw提取码：gpwp</code></pre><h1 id="手机版"><a href="#手机版" class="headerlink" title="手机版"></a>手机版</h1><h2 id="1-1"><a href="#1-1" class="headerlink" title="1."></a>1.</h2><p>用浏览器打开你想要倍速的网课网页</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：手机版/1.png"></img></p><h2 id="2-1"><a href="#2-1" class="headerlink" title="2."></a>2.</h2><p>长按视频下载</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：手机版/2.png"></img></p><h2 id="3-2"><a href="#3-2" class="headerlink" title="3."></a>3.</h2><p>在下载详情页获得视频链接</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：手机版/3.png"></img></p><h2 id="4-2"><a href="#4-2" class="headerlink" title="4."></a>4.</h2><p>打开MXPlayer</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：手机版/4.png"></img></p><h2 id="5"><a href="#5" class="headerlink" title="5."></a>5.</h2><p>点击：，输入刚才复制的链接</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：手机版/5.png"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：手机版/6.png"></img></p><h2 id="6"><a href="#6" class="headerlink" title="6."></a>6.</h2><p>右上角有播放控制菜单，调出倍速调节功能</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：手机版/7.png"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：手机版/8.png"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：手机版/9.png"></img></p><h2 id="完成-1"><a href="#完成-1" class="headerlink" title="完成~"></a>完成~</h2><pre><code>MXPlayer可在各大应用商店搜索到。</code></pre><h1 id="极客版（一行代码解释）"><a href="#极客版（一行代码解释）" class="headerlink" title="极客版（一行代码解释）"></a>极客版（一行代码解释）</h1><p>如果你觉得一大篇幅的代码看着头晕（其实这个代码量算很小的），那就把代码中涉及播放器外观、控制按钮的代码都去掉，剩下一行代码，瞬间感到清爽了有没有？</p><pre><code>&lt;video playbackRate=&quot;输入数值&quot; src=&quot;输入链接&quot; controls /&gt;</code></pre><p>复制代码，粘贴进在线html编辑器</p><p><code>http://editor.livegap.com/index.php?lan=zh-CN</code></p><p>按照下面解释对代码依照个人喜好进行编辑，就能达到你想要的倍速了~</p><p><code>playbackRate</code>，顾名思义，播放速度。输入数值请替换为0~100的整数或小数。例如：<code>playbackRate=&quot;2.5&quot;</code></p><p><code>src</code>，source的缩写，源，所以此处应该填写视频地址。例如：<code>src=&quot;https://vid.eo/demo.mp4&quot;</code>。如何获取视频地址请见原教程。</p>]]></content>
+    <content type="html"><![CDATA[<link href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-playlist-ui.min.css" rel="stylesheet" /><link href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video-js.css" rel="stylesheet" /><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-http-streaming.min.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-playlist.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-playlist-ui.min.js'></script><style>.player-container{background:#1a1a1a;overflow:auto;}@media only screen and (min-width: 1000px) {.video-js{float: left;width: 75%;}}@media only screen and (min-width: 1000px) {.vjs-playlist{float: right;width: 25%;max-height:500px;}}@media only screen and (max-width: 1000px) {.video-js{float: left;width: 100%;}}@media only screen and (max-width: 1000px) {.vjs-playlist{float: right;width: 100%;}}.vjs-playlist-item{border: 1px solid #FFFFFF;}.vjs-playlist .vjs-selected{border: 1px solid #00FF00;}.vjs-playlist .vjs-selected img{opacity: .5;}</style><h2 id="视频教程"><a href="#视频教程" class="headerlink" title="视频教程"></a>视频教程</h2><div class="player-container" id="welcomeVideo"><video id="theVideo" class="video-js vjs-default-skin vjs-big-play-centered vjs-v7 vjs-user-active" width="100%" height="100%"></video><div class="vjs-playlist playlist-container" id="videolist"></div></div><script>  var w = document.getElementById("welcomeVideo").offsetWidth;  var myVideo = videojs('theVideo', {    loop: false,    controls: true,    preload: 'auto',    autoplay: false,    width: w,    height: 0.5625*w,    playbackRates: [0.5,1,1.5,2,3]  });  myVideo.playlist([  {name: '极客版',sources: [{src: 'https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/videos/tech/给网课打注鸡血（极客版）/video.m3u8',type: 'application/x-mpegURL'}]},   {name: '电脑版',sources: [{src: 'https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/videos/tech/给网课打注鸡血（电脑版）/video.m3u8',type: 'application/x-mpegURL'}]},   {name: '手机版',sources: [{src: 'https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/videos/tech/给网课打注鸡血（手机版）/video.m3u8',type: 'application/x-mpegURL'}]}  ]);  myVideo.playlistUi();</script><h1 id="极客版"><a href="#极客版" class="headerlink" title="极客版"></a>极客版</h1><h2 id="1-推荐网址"><a href="#1-推荐网址" class="headerlink" title="1.推荐网址"></a>1.推荐网址</h2><p><code>http://editor.livegap.com/index.php?lan=zh-CN</code><br>这个工具是为了输入代码在线生成一个倍速播放器</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：极客版/2.jpg"></img></p><h2 id="2-代码"><a href="#2-代码" class="headerlink" title="2.代码"></a>2.代码</h2><p>全选代码然后复制（copy）</p><pre><code>&lt;center&gt;&lt;video id=&quot;netcls&quot; width=&quot;60%&quot; controls=&quot;controls&quot; src=&quot;！把我替换为链接！&quot;&gt;&lt;/video&gt;&lt;/center&gt;&lt;br /&gt;&lt;center&gt;&lt;button onclick=&quot;backto()&quot; type=&quot;button&quot; style=&quot;width:15%;height:30px;color:white;border:3px darkgrey solid;background-color:black;&quot;&gt;还原&lt;/button&gt;&lt;input type=&quot;text&quot; id=&quot;diyspd&quot; style=&quot;width:15%;height:30px;&quot; placeholder=&quot;输入倍速&quot; /&gt;&lt;input onclick=&quot;rocket()&quot; type=&quot;button&quot; style=&quot;width:15%;height:30px;color:white;border:3px darkgrey solid;background-color:black;&quot; value=&quot;小火箭~&quot; /&gt;&lt;/center&gt;&lt;script&gt;netcls=document.getElementById(&quot;netcls&quot;);diyspd=document.getElementById(&quot;diyspd&quot;);function backto()&#123;netcls.playbackRate=1;&#125;function rocket()&#123;netcls.playbackRate=diyspd.value;&#125;&lt;/script&gt;</code></pre><h2 id="3"><a href="#3" class="headerlink" title="3."></a>3.</h2><p>删掉原有的全部代码<br>粘贴（paste）上去</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：极客版/2.jpg"></img></p><h2 id="4"><a href="#4" class="headerlink" title="4."></a>4.</h2><p>这时看到<br><code>！把我替换为链接！</code><br>我们就需要网课链接了</p><h2 id="5-转到"><a href="#5-转到" class="headerlink" title="5.转到"></a>5.转到</h2><p>你想要看的网课<br>右键点击视频，点击复制视频链接（copy  address）</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：极客版/3.jpg"></img></p><h2 id="6-在这里"><a href="#6-在这里" class="headerlink" title="6.在这里"></a>6.在这里</h2><p>替换掉<code>！把我替换为链接！</code></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：极客版/4.jpg"></img></p><h2 id="7-输入框"><a href="#7-输入框" class="headerlink" title="7.输入框"></a>7.输入框</h2><p>可以输入你想要的倍速（0~100的整数或小数），试一下效果</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：极客版/5.jpg"></img></p><h2 id="就这样"><a href="#就这样" class="headerlink" title="就这样~"></a>就这样~</h2><h1 id="电脑版"><a href="#电脑版" class="headerlink" title="电脑版"></a>电脑版</h1><blockquote><p>既然你们觉得打代码太复杂，直接用现成软件PotPlayer吧~</p></blockquote><h2 id="1"><a href="#1" class="headerlink" title="1."></a>1.</h2><p>打开你想倍速的网课的网页,右键复制视频链接</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：电脑版/1.png"></img></p><h2 id="2"><a href="#2" class="headerlink" title="2."></a>2.</h2><p>打开PotPlayer</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：电脑版/2.png"></img></p><h2 id="3-1"><a href="#3-1" class="headerlink" title="3."></a>3.</h2><p>右键，打开视频源，粘贴刚才复制的链接</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：电脑版/3.png"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：电脑版/4.png"></img></p><h2 id="4-1"><a href="#4-1" class="headerlink" title="4."></a>4.</h2><p>右键，控制，调出速度调节面板</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：电脑版/5.png"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：电脑版/6.png"></img></p><h2 id="完成"><a href="#完成" class="headerlink" title="完成~"></a>完成~</h2><blockquote><p>由于PotPlayer在国内下载可能比较慢，我把它传到了百度网盘</p></blockquote><pre><code>链接：https://pan.baidu.com/videos/1Tkj13K9dUw8cQSassFj1Dw提取码：gpwp</code></pre><h1 id="手机版"><a href="#手机版" class="headerlink" title="手机版"></a>手机版</h1><h2 id="1-1"><a href="#1-1" class="headerlink" title="1."></a>1.</h2><p>用浏览器打开你想要倍速的网课网页</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：手机版/1.png"></img></p><h2 id="2-1"><a href="#2-1" class="headerlink" title="2."></a>2.</h2><p>长按视频下载</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：手机版/2.png"></img></p><h2 id="3-2"><a href="#3-2" class="headerlink" title="3."></a>3.</h2><p>在下载详情页获得视频链接</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：手机版/3.png"></img></p><h2 id="4-2"><a href="#4-2" class="headerlink" title="4."></a>4.</h2><p>打开MXPlayer</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：手机版/4.png"></img></p><h2 id="5"><a href="#5" class="headerlink" title="5."></a>5.</h2><p>点击：，输入刚才复制的链接</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：手机版/5.png"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：手机版/6.png"></img></p><h2 id="6"><a href="#6" class="headerlink" title="6."></a>6.</h2><p>右上角有播放控制菜单，调出倍速调节功能</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：手机版/7.png"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：手机版/8.png"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/给网课打注鸡血：手机版/9.png"></img></p><h2 id="完成-1"><a href="#完成-1" class="headerlink" title="完成~"></a>完成~</h2><pre><code>MXPlayer可在各大应用商店搜索到。</code></pre><h1 id="极客版（一行代码解释）"><a href="#极客版（一行代码解释）" class="headerlink" title="极客版（一行代码解释）"></a>极客版（一行代码解释）</h1><p>如果你觉得一大篇幅的代码看着头晕（其实这个代码量算很小的），那就把代码中涉及播放器外观、控制按钮的代码都去掉，剩下一行代码，瞬间感到清爽了有没有？</p><pre><code>&lt;video playbackRate=&quot;输入数值&quot; src=&quot;输入链接&quot; controls /&gt;</code></pre><p>复制代码，粘贴进在线html编辑器</p><p><code>http://editor.livegap.com/index.php?lan=zh-CN</code></p><p>按照下面解释对代码依照个人喜好进行编辑，就能达到你想要的倍速了~</p><p><code>playbackRate</code>，顾名思义，播放速度。输入数值请替换为0~100的整数或小数。例如：<code>playbackRate=&quot;2.5&quot;</code></p><p><code>src</code>，source的缩写，源，所以此处应该填写视频地址。例如：<code>src=&quot;https://vid.eo/demo.mp4&quot;</code>。如何获取视频地址请见原教程。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;iframe width=&quot;100%&quot; height=&quot;50&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborder=&quot;no&quot; framespacing=&quot;0&quot; src=&quot;https://p.ccjfun.cf/bgm/ABUJMO5Z&quot;&gt;&lt;/iframe</summary>
+    <summary type="html">&lt;link href=&quot;https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-playlist-ui.min.css&quot; rel=&quot;stylesheet&quot; /&gt;
+&lt;link href=&quot;https://cd</summary>
       
     
     
@@ -730,14 +731,15 @@
     <link href="http://ccjfun.cf/posts/d698/"/>
     <id>http://ccjfun.cf/posts/d698/</id>
     <published>2020-03-04T16:00:00.000Z</published>
-    <updated>2020-05-10T05:19:42.315Z</updated>
+    <updated>2020-12-08T00:35:11.551Z</updated>
     
-    <content type="html"><![CDATA[<iframe width="100%" height="50" scrolling="no" border="0" frameborder="no" framespacing="0" src="https://p.ccjfun.cf/bgm/D2Y0YSBF"></iframe><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><blockquote><p>本来百度云分享文件时都可以选择<code>私密(有提取码)</code>或<code>公开(无提取码)</code>。后来网页端只能分享私密，客户端还能无提取码。好嘛，现在连客户端也只能私密了。问题是我要分享的公开就行了，输提取码多此一举，还麻烦。</p></blockquote><p>So，我又要开始强力破解了~</p><h2 id="1"><a href="#1" class="headerlink" title="1."></a>1.</h2><p>打开网页版。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/1.jpg"></img></p><h2 id="2"><a href="#2" class="headerlink" title="2."></a>2.</h2><p>点击分享出现以下界面。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/2.jpg"></img></p><h2 id="3"><a href="#3" class="headerlink" title="3."></a>3.</h2><p>按键盘上的F12，出现以下界面。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/3.jpg"></img></p><h2 id="4"><a href="#4" class="headerlink" title="4."></a>4.</h2><p>点击右上角Element右边的Console，出现以下界面。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/4.jpg"></img></p><h2 id="5"><a href="#5" class="headerlink" title="5."></a>5.</h2><p>复制下面代码，粘贴，回车。</p><pre><code>if(document.getElementById(&quot;share-method-private&quot;))&#123;document.getElementById(&quot;share-method-private&quot;).value=&quot;public&quot;;alert(&quot;OK!点击“创建链接”生成公开链接!&quot;)&#125;</code></pre><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/5.jpg"></img></p><h2 id="6"><a href="#6" class="headerlink" title="6."></a>6.</h2><p>屏幕上方会出现提示。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/6.jpg"></img></p><h2 id="7"><a href="#7" class="headerlink" title="7."></a>7.</h2><p>这时选择有效期后点击分享就能生成无提取码的链接啦~</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/7.jpg"></img></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><blockquote><p>本来百度云分享文件时都可以选择<code>私密(有提取码)</code>或<code>公开(无提取码)</code>。后来网页端只能分享私密，客户端还能无提取码。好嘛，现在连客户端也只能私密了。问题是我要分享的公开就行了，输提取码多此一举，还麻烦。</p></blockquote><p>So，我又要开始强力破解了~</p><h2 id="1"><a href="#1" class="headerlink" title="1."></a>1.</h2><p>打开网页版。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/1.jpg"></img></p><h2 id="2"><a href="#2" class="headerlink" title="2."></a>2.</h2><p>点击分享出现以下界面。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/2.jpg"></img></p><h2 id="3"><a href="#3" class="headerlink" title="3."></a>3.</h2><p>按键盘上的F12，出现以下界面。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/3.jpg"></img></p><h2 id="4"><a href="#4" class="headerlink" title="4."></a>4.</h2><p>点击右上角Element右边的Console，出现以下界面。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/4.jpg"></img></p><h2 id="5"><a href="#5" class="headerlink" title="5."></a>5.</h2><p>复制下面代码，粘贴，回车。</p><pre><code>if(document.getElementById(&quot;share-method-private&quot;))&#123;document.getElementById(&quot;share-method-private&quot;).value=&quot;public&quot;;alert(&quot;OK!点击“创建链接”生成公开链接!&quot;)&#125;</code></pre><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/5.jpg"></img></p><h2 id="6"><a href="#6" class="headerlink" title="6."></a>6.</h2><p>屏幕上方会出现提示。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/6.jpg"></img></p><h2 id="7"><a href="#7" class="headerlink" title="7."></a>7.</h2><p>这时选择有效期后点击分享就能生成无提取码的链接啦~</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/7.jpg"></img></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;iframe width=&quot;100%&quot; height=&quot;50&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborder=&quot;no&quot; framespacing=&quot;0&quot; src=&quot;https://p.ccjfun.cf/bgm/D2Y0YSBF&quot;&gt;&lt;/iframe</summary>
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;本来百度云分享文件时都可以选择&lt;code&gt;私密(有提取码)&lt;/code&gt;或&lt;code&gt;公开(无提取码)&lt;/code</summary>
       
     
     
@@ -760,14 +762,17 @@
     <link href="http://ccjfun.cf/posts/3723/"/>
     <id>http://ccjfun.cf/posts/3723/</id>
     <published>2020-03-03T16:00:00.000Z</published>
-    <updated>2020-05-10T05:22:28.115Z</updated>
+    <updated>2020-12-08T00:35:18.527Z</updated>
     
-    <content type="html"><![CDATA[<iframe width="100%" height="50" scrolling="no" border="0" frameborder="no" framespacing="0" src="https://p.ccjfun.cf/bgm/HJHCRT2L"></iframe><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><blockquote><p>我要交个作业都不让我痛痛快快地交？</p><p>智学网你就不能改进一下你的服务器吗？</p></blockquote><p>本专栏教你如何在规定时间外打开练习中心~练习中心，you DO not need to hide，show yourself！</p><h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><h2 id="注1："><a href="#注1：" class="headerlink" title="注1："></a>注1：</h2><p>本教程需要<code>root</code>，所以<code>iOS</code>小伙伴请在电脑上安装<code>安卓模拟器</code>解决~</p><h2 id="注2："><a href="#注2：" class="headerlink" title="注2："></a>注2：</h2><p>当前版本的VMOS可能导致智学网<code>无法正常下载试题</code>的问题，如果需要用智学网获取试题请在电脑上安装<code>安卓模拟器</code>或<code>真机root</code>（不推荐）解决，然后跳到第5步！推荐<code>网易MUMU模拟器</code>，纯净没有广告~</p><h2 id="注3："><a href="#注3：" class="headerlink" title="注3："></a>注3：</h2><p>部分模拟器（包括网易MUMU模拟器）会存在智学网下载试题后<code>无法打开</code>的情况，需要在模拟器内安装<code>office</code>~</p><h1 id="视频教程"><a href="#视频教程" class="headerlink" title="视频教程"></a>视频教程</h1><link href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video-js.css" rel="stylesheet" /><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-http-streaming.min.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-resolution-switcher.js'></script><video id="welcomeVideo" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">      <source id="source" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/videos/tech/智学网练习中心，ShowYourself！/video.m3u8" type="application/x-mpegURL"></video><script>  var w = document.getElementById("welcomeVideo").parentNode.offsetWidth;  var myVideo = videojs('welcomeVideo', {    loop: false,    controls: true,    preload: 'auto',    autoplay: false,    width: w,    height: 0.5625*w,    playbackRates: [0.5,1,1.5,2,3],  })</script><h1 id="每步图文"><a href="#每步图文" class="headerlink" title="每步图文"></a>每步图文</h1><p>前4步是给没有root的同学看的，不知道root是什么的也请看前4步</p><h2 id="1-环境安装"><a href="#1-环境安装" class="headerlink" title="1.环境安装"></a>1.环境安装</h2><p>我是不推荐真机root的，除非你有把握，不然会把你的手机暴露在风险中。或者像我一样用锤子这些锁定Bootloader不让root的手机。所以第一步要在手机里安装一台虚拟机（相当于这个程序再加载了一个独立的手机系统），好处就是自带root而且改动不会影响手机。目前应该只有VMOS（中文：虚拟大师）这一款软件，不过它的技术挺成熟的我觉得。推荐的下载渠道是酷安，版本最新，手机自带应用商店可能搜不到或者版本太旧。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/01.jpg"></img></p><p>安装完毕后打开，授予相应权限，下载一个必须的系统包，稍等。</p><h2 id="2-环境桌面"><a href="#2-环境桌面" class="headerlink" title="2.环境桌面"></a>2.环境桌面</h2><p>进入桌面是这样的（当然我把图标整理过）。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/02.jpg"></img></p><h2 id="3-Root介绍"><a href="#3-Root介绍" class="headerlink" title="3.Root介绍"></a>3.Root介绍</h2><p>可以看到自带root管理器。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/03.jpg"></img></p><h2 id="4-操作提示"><a href="#4-操作提示" class="headerlink" title="4.操作提示"></a>4.操作提示</h2><p>由于这个系统运行在一个软件里，所以它只支持返回键，如果你按主页键会返回到你手机的主页。要返回这个系统的主页需要屏幕上划，呼出三大金刚键，⚪就是主页键。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/04.jpg"></img></p><h2 id="5-正文开始！"><a href="#5-正文开始！" class="headerlink" title="5.正文开始！"></a>5.正文开始！</h2><p>在非规定时间内打开智学网，会出现以下令人讨厌的界面：</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/05.jpg"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/06.jpg"></img></p><h2 id="6-工具安装"><a href="#6-工具安装" class="headerlink" title="6.工具安装"></a>6.工具安装</h2><p>为了创建一个快捷方式来打开练习中心的页面，我们需要一个拓展程序：创建快捷方式。同理，这种工具类的软件可能也只能在酷安找到：（注意，是在虚拟系统里的酷安！）</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/07.jpg"></img></p><h2 id="7-进入工具"><a href="#7-进入工具" class="headerlink" title="7.进入工具"></a>7.进入工具</h2><p>安装完成后打开它，点击智学网：</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/08.jpg"></img></p><h2 id="8-解锁隐藏项目"><a href="#8-解锁隐藏项目" class="headerlink" title="8.解锁隐藏项目"></a>8.解锁隐藏项目</h2><p>点击右上角：，选择也显示未导出的活动。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/09.jpg"></img></p><h2 id="9-搜索页面"><a href="#9-搜索页面" class="headerlink" title="9.搜索页面"></a>9.搜索页面</h2><p>在搜索框输入hwcenter（homework center缩写），点击第一个带有Mix字样的详情。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/10.jpg"></img></p><h2 id="10-创建快捷方式"><a href="#10-创建快捷方式" class="headerlink" title="10.创建快捷方式"></a>10.创建快捷方式</h2><p>修改图标和说明文字（可选），点击创建。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/11.jpg"></img></p><h2 id="11-创建成功"><a href="#11-创建成功" class="headerlink" title="11.创建成功"></a>11.创建成功</h2><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/12.jpg"></img></p><h2 id="12-授予权限"><a href="#12-授予权限" class="headerlink" title="12.授予权限"></a>12.授予权限</h2><p>第一次打开会要求你授予权限，允许就是了。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/13.jpg"></img></p><h2 id="13"><a href="#13" class="headerlink" title="13."></a>13.</h2><p>练习中心，Show Yourself！</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/14.jpg"></img></p><h1 id="Enjoy-it！"><a href="#Enjoy-it！" class="headerlink" title="Enjoy it！"></a>Enjoy it！</h1>]]></content>
+    <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><blockquote><p>我要交个作业都不让我痛痛快快地交？</p><p>智学网你就不能改进一下你的服务器吗？</p></blockquote><p>本专栏教你如何在规定时间外打开练习中心~练习中心，you DO not need to hide，show yourself！</p><h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><h2 id="注1："><a href="#注1：" class="headerlink" title="注1："></a>注1：</h2><p>本教程需要<code>root</code>，所以<code>iOS</code>小伙伴请在电脑上安装<code>安卓模拟器</code>解决~</p><h2 id="注2："><a href="#注2：" class="headerlink" title="注2："></a>注2：</h2><p>当前版本的VMOS可能导致智学网<code>无法正常下载试题</code>的问题，如果需要用智学网获取试题请在电脑上安装<code>安卓模拟器</code>或<code>真机root</code>（不推荐）解决，然后跳到第5步！推荐<code>网易MUMU模拟器</code>，纯净没有广告~</p><h2 id="注3："><a href="#注3：" class="headerlink" title="注3："></a>注3：</h2><p>部分模拟器（包括网易MUMU模拟器）会存在智学网下载试题后<code>无法打开</code>的情况，需要在模拟器内安装<code>office</code>~</p><h1 id="视频教程"><a href="#视频教程" class="headerlink" title="视频教程"></a>视频教程</h1><link href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video-js.css" rel="stylesheet" /><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-http-streaming.min.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-resolution-switcher.js'></script><video id="welcomeVideo" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">      <source id="source" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/videos/tech/智学网练习中心，ShowYourself！/video.m3u8" type="application/x-mpegURL"></video><script>  var w = document.getElementById("welcomeVideo").parentNode.offsetWidth;  var myVideo = videojs('welcomeVideo', {    loop: false,    controls: true,    preload: 'auto',    autoplay: false,    width: w,    height: 0.5625*w,    playbackRates: [0.5,1,1.5,2,3],  })</script><h1 id="每步图文"><a href="#每步图文" class="headerlink" title="每步图文"></a>每步图文</h1><p>前4步是给没有root的同学看的，不知道root是什么的也请看前4步</p><h2 id="1-环境安装"><a href="#1-环境安装" class="headerlink" title="1.环境安装"></a>1.环境安装</h2><p>我是不推荐真机root的，除非你有把握，不然会把你的手机暴露在风险中。或者像我一样用锤子这些锁定Bootloader不让root的手机。所以第一步要在手机里安装一台虚拟机（相当于这个程序再加载了一个独立的手机系统），好处就是自带root而且改动不会影响手机。目前应该只有VMOS（中文：虚拟大师）这一款软件，不过它的技术挺成熟的我觉得。推荐的下载渠道是酷安，版本最新，手机自带应用商店可能搜不到或者版本太旧。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/01.jpg"></img></p><p>安装完毕后打开，授予相应权限，下载一个必须的系统包，稍等。</p><h2 id="2-环境桌面"><a href="#2-环境桌面" class="headerlink" title="2.环境桌面"></a>2.环境桌面</h2><p>进入桌面是这样的（当然我把图标整理过）。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/02.jpg"></img></p><h2 id="3-Root介绍"><a href="#3-Root介绍" class="headerlink" title="3.Root介绍"></a>3.Root介绍</h2><p>可以看到自带root管理器。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/03.jpg"></img></p><h2 id="4-操作提示"><a href="#4-操作提示" class="headerlink" title="4.操作提示"></a>4.操作提示</h2><p>由于这个系统运行在一个软件里，所以它只支持返回键，如果你按主页键会返回到你手机的主页。要返回这个系统的主页需要屏幕上划，呼出三大金刚键，⚪就是主页键。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/04.jpg"></img></p><h2 id="5-正文开始！"><a href="#5-正文开始！" class="headerlink" title="5.正文开始！"></a>5.正文开始！</h2><p>在非规定时间内打开智学网，会出现以下令人讨厌的界面：</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/05.jpg"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/06.jpg"></img></p><h2 id="6-工具安装"><a href="#6-工具安装" class="headerlink" title="6.工具安装"></a>6.工具安装</h2><p>为了创建一个快捷方式来打开练习中心的页面，我们需要一个拓展程序：创建快捷方式。同理，这种工具类的软件可能也只能在酷安找到：（注意，是在虚拟系统里的酷安！）</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/07.jpg"></img></p><h2 id="7-进入工具"><a href="#7-进入工具" class="headerlink" title="7.进入工具"></a>7.进入工具</h2><p>安装完成后打开它，点击智学网：</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/08.jpg"></img></p><h2 id="8-解锁隐藏项目"><a href="#8-解锁隐藏项目" class="headerlink" title="8.解锁隐藏项目"></a>8.解锁隐藏项目</h2><p>点击右上角：，选择也显示未导出的活动。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/09.jpg"></img></p><h2 id="9-搜索页面"><a href="#9-搜索页面" class="headerlink" title="9.搜索页面"></a>9.搜索页面</h2><p>在搜索框输入hwcenter（homework center缩写），点击第一个带有Mix字样的详情。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/10.jpg"></img></p><h2 id="10-创建快捷方式"><a href="#10-创建快捷方式" class="headerlink" title="10.创建快捷方式"></a>10.创建快捷方式</h2><p>修改图标和说明文字（可选），点击创建。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/11.jpg"></img></p><h2 id="11-创建成功"><a href="#11-创建成功" class="headerlink" title="11.创建成功"></a>11.创建成功</h2><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/12.jpg"></img></p><h2 id="12-授予权限"><a href="#12-授予权限" class="headerlink" title="12.授予权限"></a>12.授予权限</h2><p>第一次打开会要求你授予权限，允许就是了。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/13.jpg"></img></p><h2 id="13"><a href="#13" class="headerlink" title="13."></a>13.</h2><p>练习中心，Show Yourself！</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/智学网练习中心，Show Yourself！/14.jpg"></img></p><h1 id="Enjoy-it！"><a href="#Enjoy-it！" class="headerlink" title="Enjoy it！"></a>Enjoy it！</h1>]]></content>
     
     
       
       
-    <summary type="html">&lt;iframe width=&quot;100%&quot; height=&quot;50&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborder=&quot;no&quot; framespacing=&quot;0&quot; src=&quot;https://p.ccjfun.cf/bgm/HJHCRT2L&quot;&gt;&lt;/iframe</summary>
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;我要交个作业都不让我痛痛快快地交？&lt;/p&gt;
+&lt;p&gt;智学网你就不能改进一下你的服务器吗？&lt;/p&gt;
+&lt;/blockqu</summary>
       
     
     
@@ -815,40 +820,15 @@
     <link href="http://ccjfun.cf/posts/d799/"/>
     <id>http://ccjfun.cf/posts/d799/</id>
     <published>2020-02-22T16:00:00.000Z</published>
-    <updated>2020-05-10T05:14:55.228Z</updated>
+    <updated>2020-12-08T00:34:21.499Z</updated>
     
-    <content type="html"><![CDATA[<iframe width="100%" height="50" scrolling="no" border="0" frameborder="no" framespacing="0" src="https://p.ccjfun.cf/bgm/2XQDAOUQ"></iframe><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><blockquote><p>众所周知，由于<code>帝国主义势力</code>长期对我国采取敌视态度，其爪牙——<code>境外媒体</code>常常抹黑我国的方方面面。因此，为了维护国内稳定，政府隔绝了一些境外链接，不过也在同时导致一些国外优质而国内没有的资源同时被屏蔽。有的人会采用<code>VPN</code>的方式上外网，然而这种方式属于<code>使用非法定信道进行国际联网</code>，貌似是<code>违法</code>的，而且<code>好用的收钱，免费的龟速</code>。所以本文来介绍几种优质资源在国内的正确访问方式：</p></blockquote><pre><code>1.Google系2.Youtube3.Instagram4.Steam Community</code></pre><h2 id="PS："><a href="#PS：" class="headerlink" title="PS："></a>PS：</h2><p>不要问我<code>FacebookTwitter</code>这些有反华色彩的东西，真正爬过梯子的人应该也知道。如果你是为了看这些，那请不要看我的文章。<code>禁止利用本文的方法进行危害社会治安国家安全的违法活动！</code></p><h1 id="1-Google系"><a href="#1-Google系" class="headerlink" title="1.Google系"></a>1.Google系</h1><p>由于谷歌不对政治方面的搜索结果做限制，所以emmm。<br>谷歌的一系列服务也无法接受我国政府监督，所以emmm。<br>但是，谷歌系的服务是真的好用（用过就知道，除了网络不好吊打国内的同类）。<br>而现在Chrome上有了一个插件，可以利用Chrome内置代理来访问谷歌系的服务：PP谷歌访问助手。其实这个插件本质上还是基于VPN，但是只能代理谷歌的网页。</p><h2 id="支持："><a href="#支持：" class="headerlink" title="支持："></a>支持：</h2><p>Google系的<code>几乎全部</code>内容（搜索、翻译、地图、地球、文档、邮箱、网盘、相册、日历等等）</p><h2 id="限制："><a href="#限制：" class="headerlink" title="限制："></a>限制：</h2><p>不支持<code>Youtube</code>（毕竟这个的危险系数比较高，上面很多反华视频，大部分还无下限扭曲夸张失实的）</p><h2 id="官网链接："><a href="#官网链接：" class="headerlink" title="官网链接："></a>官网链接：</h2><p><a href="http://www.ppgoogle.net/">http://www.ppgoogle.net/</a></p><h2 id="警告："><a href="#警告：" class="headerlink" title="警告："></a>警告：</h2><p><code>不要尝试</code>包括但不限于使用谷歌搜索反动网页，浏览这些网页是<code>违法行为</code>。（而且搜出来的结果你也打不开）</p><h2 id="使用方法："><a href="#使用方法：" class="headerlink" title="使用方法："></a>使用方法：</h2><p>1.访问官网下载安装包。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/01.png"></img></p><p>2.里面含有一个拓展名为<code>crx</code>的文件，右键用解压软件打开（7-Zip、WinRAR应该同理）。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/02.png"></img></p><p>3.出现这么一堆东东。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/03.png"></img></p><p>4.打开Chrome安装目录，一般位于<code>C:\Program Files (x86)\Google\Chrome</code>。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/04.png"></img></p><p>5.新建一个<code>Extensions</code>文件夹，进入，打开<code>Bandizip</code>，按住<code>PP-Google-v1.8.crx</code>拖进资源管理器。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/05.png"></img></p><p>6.在Chrome地址栏输入<code>chrome://extensions/</code>。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/06.png"></img></p><p>7.打开右上角<code>开发者模式</code>：</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/07.png"></img></p><p>8.点击<code>加载已解压的拓展程序</code>，转到刚才解压出来的文件夹，点选择文件夹，稍后即可成功安装。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/08.png"></img></p><p>9.打开拓展程序，界面如下：</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/09.png"></img></p><p>10.推荐这时先进入Chrome应用商店<code>重新安装</code>一遍，以获取最新版本并避免每次启动Chrome的弹窗提示。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/10.png"></img></p><p>11.如果访问谷歌页面时出现如下情况，说明代理服务器连接失败。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/11.png"></img></p><p>12.这时需要点击<code>刷新</code>。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/12.png"></img></p><p>13.出现以下页面后会更换服务器，更换后即可访问。如果依旧连不上，重复刷新步骤直到连接成功。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/13.png"></img></p><p>14.现在开始畅快访问谷歌的各项服务吧~</p><h1 id="2-Youtube"><a href="#2-Youtube" class="headerlink" title="2.Youtube"></a>2.Youtube</h1><p>在上面我谈到了Youtube的限制。<br>不过，Youtube毕竟是国外<code>最大</code>的视频网站，上面集中了大量优质视频，也不会像国内视频网站一样<code>压缩画质</code>，甚至支持<code>4K8K</code>视频。<br>所以在大陆连接不了YouTube网页和视频服务器的情况下，我们采用<code>曲线救国</code>的方式：让一台我们可以访问的国外服务器从Youtube下载我们要的视频。<br>而符合这个条件的就是一个在线视频转换网站：<code>ClipConvert</code>。</p><h2 id="限制：-1"><a href="#限制：-1" class="headerlink" title="限制："></a>限制：</h2><p>不能下载MV</p><h2 id="官网链接：-1"><a href="#官网链接：-1" class="headerlink" title="官网链接："></a>官网链接：</h2><p><a href="https://www.clipconverter.cc/">https://www.clipconverter.cc/</a></p><h2 id="使用方法：-1"><a href="#使用方法：-1" class="headerlink" title="使用方法："></a>使用方法：</h2><p>1.打开官网 </p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/14.png"></img></p><p>2.获取你要下的视频的YouTube链接：<code>谷歌搜索</code>你想要的视频，谷歌搜索的结果一般都是指向YouTube的，右键复制把它粘贴进输入栏，点击<code>Continue</code>。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/15.png"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/16.png"></img></p><p>3.选择<code>清晰度</code>，确定后点击<code>Start!</code>，等待转换。（如果太久没动刷新一下，不会重置进度）</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/17.png"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/18.png"></img></p><p>4.出现下载页后，可以直接下载。但貌似Chrome自带下载很慢，建议右键Download后复制链接用下载工具下载（推荐<code>EagleGet</code>）</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/19.png"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/20.png"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/21.png"></img></p><h2 id="PS：-1"><a href="#PS：-1" class="headerlink" title="PS："></a>PS：</h2><p><code>EagleGet</code>的下载速度取决于<code>ClipConvert</code>下载视频的<code>服务器位置</code>（随机），一般<code>400KB/s~6MB/s</code>不等，如果你下的视频很大而速度比较低，建议<code>重新操作</code>一次。</p><h1 id="3-Instagram"><a href="#3-Instagram" class="headerlink" title="3.Instagram"></a>3.Instagram</h1><p>这个不用我多说，好图汇聚地。好像是因为2014年的<code>占中事件</code>导致它被屏蔽的。<br>这是一个国内的<code>镜像站</code>，主要是为了粉丝追星用的，不过它也支持ins全部内容，<code>Adidas</code>、<code>Nike</code>、<code>BMW</code>、<code>Benz</code>、<code>Tesla</code>、<code>NASA</code>、<code>Taylor</code>等等都有。<br>还支持图片<code>下载</code>~</p><h2 id="官网链接：-2"><a href="#官网链接：-2" class="headerlink" title="官网链接："></a>官网链接：</h2><p><a href="https://www.veryins.com/">https://www.veryins.com/</a></p><h2 id="网页截图："><a href="#网页截图：" class="headerlink" title="网页截图："></a>网页截图：</h2><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/22.png"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/23.png"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/24.png"></img></p><h1 id="4-Steam-Community"><a href="#4-Steam-Community" class="headerlink" title="4.Steam Community"></a>4.Steam Community</h1><p>由于Steam Community依赖于<code>Facebook</code>相关的服务器，所以也一道被封。<br>SteamCommunity302工具依赖的是<code>hosts修改+端口监视</code>来实现访问（因为对Steam Community的屏蔽还不是很严所以可以做到），如果特殊情况无效也可以用软件内的<code>代理</code>（只能代理Steam Community，类似上文谷歌访问助手，而且这是作者自己搭建的，不要滥用）。<br>这样我们就可以访问Steam Community上的游戏mod了。（作为一名<code>城市天际线</code>玩家Steam Community对我来说就像这个游戏的灵魂~）</p><h2 id="官网链接：-3"><a href="#官网链接：-3" class="headerlink" title="官网链接："></a>官网链接：</h2><p><a href="https://www.dogfight360.com/blog/686/">https://www.dogfight360.com/blog/686/</a></p><h2 id="使用方法：-2"><a href="#使用方法：-2" class="headerlink" title="使用方法："></a>使用方法：</h2><p>1.访问官网下载程序（压缩包）</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/25.png"></img></p><p>2.解压后运行具体教程详见官网：）</p><iframe width="100%" height="0" scrolling="no" border="0" frameborder="no" framespacing="0" id="welcomeVideo"></iframe>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;iframe width=&quot;100%&quot; height=&quot;50&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborder=&quot;no&quot; framespacing=&quot;0&quot; src=&quot;https://p.ccjfun.cf/bgm/2XQDAOUQ&quot;&gt;&lt;/iframe</summary>
-      
-    
-    
-    
-    <category term="教程" scheme="http://ccjfun.cf/categories/%E6%95%99%E7%A8%8B/"/>
-    
-    
-    <category term="网络" scheme="http://ccjfun.cf/tags/%E7%BD%91%E7%BB%9C/"/>
-    
-    <category term="程序" scheme="http://ccjfun.cf/tags/%E7%A8%8B%E5%BA%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>将网页创建为APP</title>
-    <link href="http://ccjfun.cf/posts/cdd8/"/>
-    <id>http://ccjfun.cf/posts/cdd8/</id>
-    <published>2020-01-28T09:15:58.000Z</published>
-    <updated>2020-05-10T05:23:52.569Z</updated>
-    
-    <content type="html"><![CDATA[<iframe width="100%" height="50" scrolling="no" border="0" frameborder="no" framespacing="0" src="https://p.ccjfun.cf/bgm/OT11B5SA"></iframe><p><em>有时我们会遇到一些服务，只有网页端或者仅有某平台的客户端，如果需要经常访问需要重复输入网址，比较麻烦，我们就可以采用<code>PWA</code>技术实现该服务的全平台支持。</em></p><h1 id="什么是PWA"><a href="#什么是PWA" class="headerlink" title="什么是PWA"></a>什么是PWA</h1><blockquote><p>Progressive Web App, 简称 PWA，是提升 Web App 的体验的一种新方法，能给用户原生应用的体验。</p><p>PWA 能做到原生应用的体验不是靠特指某一项技术，而是经过应用一些新技术进行改进，在安全、性能和体验三个方面都有很大提升，PWA 本质上是 Web App，借助一些新技术也具备了 Native App 的一些特性，兼具 Web App 和 Native App 的优点。</p><p>PWA 的主要特点包括下面三点：</p><p>可靠 - 即使在不稳定的网络环境下，也能瞬间加载并展现<br>体验 - 快速响应，并且有平滑的动画响应用户的操作<br>粘性 - 像设备上的原生应用，具有沉浸式的用户体验，用户可以添加到桌面<br>PWA 本身强调渐进式，并不要求一次性达到安全、性能和体验上的所有要求，开发者可以通过 PWA Checklist 查看现有的特征。</p></blockquote><p>好啦其实我也看不太懂……那接下来就是Windows与Android上创建PWA应用的方法：</p><h1 id="安装方法"><a href="#安装方法" class="headerlink" title="安装方法"></a>安装方法</h1><h2 id="Windows"><a href="#Windows" class="headerlink" title="Windows"></a>Windows</h2><h3 id="需求"><a href="#需求" class="headerlink" title="需求"></a>需求</h3><ul><li><code>Chrome(Chromium)</code>/基于<code>Chromium</code>内核的<code>Edge</code></li></ul><h3 id="以Edge为例"><a href="#以Edge为例" class="headerlink" title="以Edge为例"></a>以Edge为例</h3><p>我的博客主站以及下属的服务站都支持PWA，这里以主站为例：</p><p>1.打开主站<a href="https://ccjfun.cf/">https://ccjfun.cf/</a> </p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/11.jpg"></img></p><p>2.选择右上角<code>…</code>&gt;<code>应用</code>&gt;<code>将此站点作为应用安装</code></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/12.jpg"></img></p><p>3.确定名称</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/13.jpg"></img></p><p>4.安装完成后网页会自动弹出成为程序</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/14.jpg"></img></p><p>5.可以看到图标已经出现在<code>开始菜单</code>里了</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/15.jpg"></img></p><p>6.在桌面也有相应的快捷方式，而且能识别为程序</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/16.jpg"></img></p><p>7.可以看到，使用体验类似于平板上的APP。至此，安装完毕！</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/17.jpg"></img></p><h3 id="以Chrome为例"><a href="#以Chrome为例" class="headerlink" title="以Chrome为例"></a>以Chrome为例</h3><p>这里以<code>音乐厅</code>为例：</p><p>1.打开<code>音乐厅</code><a href="https://m.ccjfun.cf/">https://m.ccjfun.cf/</a> </p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/18.jpg"></img></p><p>2.选择右上角<code>：</code>&gt;<code>更多工具</code>&gt;<code>创建快捷方式…</code></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/19.jpg"></img></p><p>3.确定名称，记得勾选<code>在窗口中打开</code></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/20.jpg"></img></p><p>4.安装完成后网页会自动弹出成为程序</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/21.jpg"></img></p><p>5.可以看到图标已经出现在<code>开始菜单</code>的<code>Chrome 应用</code>里了</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/22.jpg"></img></p><p>6.在桌面也有相应的快捷方式，而且能识别为程序</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/23.jpg"></img></p><p>7.<code>拖动窗口大小</code>能获得类似于手机APP的体验（Edge也可）。至此，安装完毕！（已开启黑暗模式）</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/24.jpg"></img></p><h2 id="Android"><a href="#Android" class="headerlink" title="Android"></a>Android</h2><h3 id="需求-1"><a href="#需求-1" class="headerlink" title="需求"></a>需求</h3><ul><li><code>Chrome</code></li></ul><blockquote><p>主站可以被正常识别为PWA应用，但7个服务站暂时无法直接识别为PWA应用，所以我们需要<code>曲线救国</code></p></blockquote><p>先以主站为例：</p><p>1.打开主站<a href="https://ccjfun.cf/">https://ccjfun.cf/</a> </p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/25.jpg"></img></p><p>2.选择右上角<code>:</code>&gt;<code>添加到主屏幕</code>（接下来跳到第六步）</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/26.jpg"></img></p><p>3.对于无法直接识别为PWA应用的7个服务站，我在<code>关于</code>页面提供了<code>WTA</code>（Web to App）链接（你也可以尝试直接在主页添加快捷方式，不过那样的体验非常糟糕）</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/27.jpg"></img></p><p>4.打开该链接</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/01.jpg"></img></p><p>5.选择右上角<code>:</code>&gt;<code>添加到主屏幕</code></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/02.jpg"></img></p><p>6.确定应用名称</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/03.jpg"></img></p><p>7.图标已经添加到桌面</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/04.jpg"></img></p><p>8.Chrome PWA App的启动界面</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/05.jpg"></img></p><p>9.相应程序的启动页面，点击<code>欢迎使用！</code>即可进入（主站则应该会直接进入）</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/06.jpg"></img></p><p>10.相应程序主页</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/07.jpg"></img></p><p>11.随便进入一首歌曲，有类APP的体验吧</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/08.jpg"></img></p><p>*12.关于<code>黑暗模式</code>：点击<code>logo</code>，出现菜单即可使用该两项功能（字号可调：大、小；色彩模式：白、黑）</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/09.jpg"></img></p><p>*13.<code>黑暗模式</code>效果</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/将网页创建为APP（Windows&Android）/10.jpg"></img></p><p>14.至此，安装完毕！</p><iframe width="100%" height="0" scrolling="no" border="0" frameborder="no" framespacing="0" id="welcomeVideo"></iframe>]]></content>
+    <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><blockquote><p>众所周知，由于<code>帝国主义势力</code>长期对我国采取敌视态度，其爪牙——<code>境外媒体</code>常常抹黑我国的方方面面。因此，为了维护国内稳定，政府隔绝了一些境外链接，不过也在同时导致一些国外优质而国内没有的资源同时被屏蔽。有的人会采用<code>VPN</code>的方式上外网，然而这种方式属于<code>使用非法定信道进行国际联网</code>，貌似是<code>违法</code>的，而且<code>好用的收钱，免费的龟速</code>。所以本文来介绍几种优质资源在国内的正确访问方式：</p></blockquote><pre><code>1.Google系2.Youtube3.Instagram4.Steam Community</code></pre><h2 id="PS："><a href="#PS：" class="headerlink" title="PS："></a>PS：</h2><p>不要问我<code>FacebookTwitter</code>这些有反华色彩的东西，真正爬过梯子的人应该也知道。如果你是为了看这些，那请不要看我的文章。<code>禁止利用本文的方法进行危害社会治安国家安全的违法活动！</code></p><h1 id="1-Google系"><a href="#1-Google系" class="headerlink" title="1.Google系"></a>1.Google系</h1><p>由于谷歌不对政治方面的搜索结果做限制，所以emmm。<br>谷歌的一系列服务也无法接受我国政府监督，所以emmm。<br>但是，谷歌系的服务是真的好用（用过就知道，除了网络不好吊打国内的同类）。<br>而现在Chrome上有了一个插件，可以利用Chrome内置代理来访问谷歌系的服务：PP谷歌访问助手。其实这个插件本质上还是基于VPN，但是只能代理谷歌的网页。</p><h2 id="支持："><a href="#支持：" class="headerlink" title="支持："></a>支持：</h2><p>Google系的<code>几乎全部</code>内容（搜索、翻译、地图、地球、文档、邮箱、网盘、相册、日历等等）</p><h2 id="限制："><a href="#限制：" class="headerlink" title="限制："></a>限制：</h2><p>不支持<code>Youtube</code>（毕竟这个的危险系数比较高，上面很多反华视频，大部分还无下限扭曲夸张失实的）</p><h2 id="官网链接："><a href="#官网链接：" class="headerlink" title="官网链接："></a>官网链接：</h2><p><a href="http://www.ppgoogle.net/">http://www.ppgoogle.net/</a></p><h2 id="警告："><a href="#警告：" class="headerlink" title="警告："></a>警告：</h2><p><code>不要尝试</code>包括但不限于使用谷歌搜索反动网页，浏览这些网页是<code>违法行为</code>。（而且搜出来的结果你也打不开）</p><h2 id="使用方法："><a href="#使用方法：" class="headerlink" title="使用方法："></a>使用方法：</h2><p>1.访问官网下载安装包。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/01.png"></img></p><p>2.里面含有一个拓展名为<code>crx</code>的文件，右键用解压软件打开（7-Zip、WinRAR应该同理）。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/02.png"></img></p><p>3.出现这么一堆东东。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/03.png"></img></p><p>4.打开Chrome安装目录，一般位于<code>C:\Program Files (x86)\Google\Chrome</code>。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/04.png"></img></p><p>5.新建一个<code>Extensions</code>文件夹，进入，打开<code>Bandizip</code>，按住<code>PP-Google-v1.8.crx</code>拖进资源管理器。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/05.png"></img></p><p>6.在Chrome地址栏输入<code>chrome://extensions/</code>。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/06.png"></img></p><p>7.打开右上角<code>开发者模式</code>：</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/07.png"></img></p><p>8.点击<code>加载已解压的拓展程序</code>，转到刚才解压出来的文件夹，点选择文件夹，稍后即可成功安装。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/08.png"></img></p><p>9.打开拓展程序，界面如下：</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/09.png"></img></p><p>10.推荐这时先进入Chrome应用商店<code>重新安装</code>一遍，以获取最新版本并避免每次启动Chrome的弹窗提示。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/10.png"></img></p><p>11.如果访问谷歌页面时出现如下情况，说明代理服务器连接失败。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/11.png"></img></p><p>12.这时需要点击<code>刷新</code>。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/12.png"></img></p><p>13.出现以下页面后会更换服务器，更换后即可访问。如果依旧连不上，重复刷新步骤直到连接成功。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/13.png"></img></p><p>14.现在开始畅快访问谷歌的各项服务吧~</p><h1 id="2-Youtube（已失效）"><a href="#2-Youtube（已失效）" class="headerlink" title="2.Youtube（已失效）"></a>2.Youtube（已失效）</h1><p>在上面我谈到了Youtube的限制。<br>不过，Youtube毕竟是国外<code>最大</code>的视频网站，上面集中了大量优质视频，也不会像国内视频网站一样<code>压缩画质</code>，甚至支持<code>4K8K</code>视频。<br>所以在大陆连接不了YouTube网页和视频服务器的情况下，我们采用<code>曲线救国</code>的方式：让一台我们可以访问的国外服务器从Youtube下载我们要的视频。<br>而符合这个条件的就是一个在线视频转换网站：<code>ClipConvert</code>。</p><h2 id="限制：-1"><a href="#限制：-1" class="headerlink" title="限制："></a>限制：</h2><p>不能下载MV</p><h2 id="官网链接：-1"><a href="#官网链接：-1" class="headerlink" title="官网链接："></a>官网链接：</h2><p><a href="https://www.clipconverter.cc/">https://www.clipconverter.cc/</a></p><h2 id="使用方法：-1"><a href="#使用方法：-1" class="headerlink" title="使用方法："></a>使用方法：</h2><p>1.打开官网 </p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/14.png"></img></p><p>2.获取你要下的视频的YouTube链接：<code>谷歌搜索</code>你想要的视频，谷歌搜索的结果一般都是指向YouTube的，右键复制把它粘贴进输入栏，点击<code>Continue</code>。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/15.png"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/16.png"></img></p><p>3.选择<code>清晰度</code>，确定后点击<code>Start!</code>，等待转换。（如果太久没动刷新一下，不会重置进度）</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/17.png"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/18.png"></img></p><p>4.出现下载页后，可以直接下载。但貌似Chrome自带下载很慢，建议右键Download后复制链接用下载工具下载（推荐<code>EagleGet</code>）</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/19.png"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/20.png"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/21.png"></img></p><h2 id="PS：-1"><a href="#PS：-1" class="headerlink" title="PS："></a>PS：</h2><p><code>EagleGet</code>的下载速度取决于<code>ClipConvert</code>下载视频的<code>服务器位置</code>（随机），一般<code>400KB/s~6MB/s</code>不等，如果你下的视频很大而速度比较低，建议<code>重新操作</code>一次。</p><h1 id="3-Instagram"><a href="#3-Instagram" class="headerlink" title="3.Instagram"></a>3.Instagram</h1><p>这个不用我多说，好图汇聚地。好像是因为2014年的<code>占中事件</code>导致它被屏蔽的。<br>这是一个国内的<code>镜像站</code>，主要是为了粉丝追星用的，不过它也支持ins全部内容，<code>Adidas</code>、<code>Nike</code>、<code>BMW</code>、<code>Benz</code>、<code>Tesla</code>、<code>NASA</code>、<code>Taylor</code>等等都有。<br>还支持图片<code>下载</code>~</p><h2 id="官网链接：-2"><a href="#官网链接：-2" class="headerlink" title="官网链接："></a>官网链接：</h2><p><a href="https://www.veryins.com/">https://www.veryins.com/</a></p><h2 id="网页截图："><a href="#网页截图：" class="headerlink" title="网页截图："></a>网页截图：</h2><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/22.png"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/23.png"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/24.png"></img></p><h1 id="4-Steam-Community"><a href="#4-Steam-Community" class="headerlink" title="4.Steam Community"></a>4.Steam Community</h1><p>由于Steam Community依赖于<code>Facebook</code>相关的服务器，所以也一道被封。<br>SteamCommunity302工具依赖的是<code>hosts修改+端口监视</code>来实现访问（因为对Steam Community的屏蔽还不是很严所以可以做到），如果特殊情况无效也可以用软件内的<code>代理</code>（只能代理Steam Community，类似上文谷歌访问助手，而且这是作者自己搭建的，不要滥用）。<br>这样我们就可以访问Steam Community上的游戏mod了。（作为一名<code>城市天际线</code>玩家Steam Community对我来说就像这个游戏的灵魂~）</p><h2 id="官网链接：-3"><a href="#官网链接：-3" class="headerlink" title="官网链接："></a>官网链接：</h2><p><a href="https://www.dogfight360.com/blog/686/">https://www.dogfight360.com/blog/686/</a></p><h2 id="使用方法：-2"><a href="#使用方法：-2" class="headerlink" title="使用方法："></a>使用方法：</h2><p>1.访问官网下载程序（压缩包）</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/如何以爱国的姿势访问一些外网优质资源/25.png"></img></p><p>2.解压后运行具体教程详见官网：）</p><iframe width="100%" height="0" scrolling="no" border="0" frameborder="no" framespacing="0" id="welcomeVideo"></iframe>]]></content>
     
     
       
       
-    <summary type="html">&lt;iframe width=&quot;100%&quot; height=&quot;50&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborder=&quot;no&quot; framespacing=&quot;0&quot; src=&quot;https://p.ccjfun.cf/bgm/OT11B5SA&quot;&gt;&lt;/iframe</summary>
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;众所周知，由于&lt;code&gt;帝国主义势力&lt;/code&gt;长期对我国采取敌视态度，其爪牙——&lt;code&gt;境外媒体&lt;/co</summary>
       
     
     
@@ -920,20 +900,104 @@
     <link href="http://ccjfun.cf/posts/3818/"/>
     <id>http://ccjfun.cf/posts/3818/</id>
     <published>2019-07-12T16:00:00.000Z</published>
-    <updated>2020-12-06T11:52:16.658Z</updated>
+    <updated>2020-12-08T00:35:36.524Z</updated>
     
-    <content type="html"><![CDATA[<iframe width="100%" height="50" scrolling="no" border="0" frameborder="no" framespacing="0" src="https://p.ccjfun.cf/bgm/V6TS8ZC3"></iframe><p align="center"><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/高二学年总结/0003.jpg"></img></p><p><code>高二</code>转眼之间就这么结束，也许是最<code>风云莫测</code>的一年</p><p>以<code>志同道合</code>开头，收获一段<code>迄今最好</code>的友谊，却以<code>反目</code>结束</p><p>随之是<code>好的开端</code>，朝着<code>目标</code>一步一个脚印迈进，却最终从顶峰<code>坠入谷底</code></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/高二学年总结/0002.jpg"></img></p><p>这时，为之<code>追逐一年</code>的<code>目标</code>突然失去，反而成为一个<code>好消息</code></p><p>不过，多亏<code>身在19</code>，有<code>各位</code>一同度过，与你们一起<code>聊骚</code>度日，相互<code>勉励</code>，把毽子踢飞<code>（划掉）</code>，在高二这年我真的收获了很多以前<code>想不到</code>的东西</p><p>看到最近空间纷纷<code>复活</code>的学长们，明白了一些事情，嗯</p><p>最后，借用<code>他</code>的一句话吧</p><blockquote><p>“我会证明我往日的辉煌并不是运气”</p></blockquote><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/高二学年总结/0004.jpg"></img></p><hr><p>再谢谢<code>小哲</code>的本子~</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/高二学年总结/0005.jpg"></img></p>]]></content>
+    <content type="html"><![CDATA[<p align="center"><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/高二学年总结/0003.jpg"></img></p><p><code>高二</code>转眼之间就这么结束，也许是最<code>风云莫测</code>的一年</p><p>以<code>志同道合</code>开头，收获一段<code>迄今最好</code>的友谊，却以<code>反目</code>结束</p><p>随之是<code>好的开端</code>，朝着<code>目标</code>一步一个脚印迈进，却最终从顶峰<code>坠入谷底</code></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/高二学年总结/0002.jpg"></img></p><p>这时，为之<code>追逐一年</code>的<code>目标</code>突然失去，反而成为一个<code>好消息</code></p><p>不过，多亏<code>身在19</code>，有<code>各位</code>一同度过，与你们一起<code>聊骚</code>度日，相互<code>勉励</code>，把毽子踢飞<code>（划掉）</code>，在高二这年我真的收获了很多以前<code>想不到</code>的东西</p><p>看到最近空间纷纷<code>复活</code>的学长们，明白了一些事情，嗯</p><p>最后，借用<code>他</code>的一句话吧</p><blockquote><p>“我会证明我往日的辉煌并不是运气”</p></blockquote><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/高二学年总结/0004.jpg"></img></p><hr><p>再谢谢<code>小哲</code>的本子~</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/高二学年总结/0005.jpg"></img></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;iframe width=&quot;100%&quot; height=&quot;50&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborder=&quot;no&quot; framespacing=&quot;0&quot; src=&quot;https://p.ccjfun.cf/bgm/V6TS8ZC3&quot;&gt;&lt;/iframe</summary>
+    <summary type="html">&lt;p align=&quot;center&quot;&gt;&lt;p align=&quot;center&quot;&gt;&lt;img id=&quot;artimage&quot; src=&quot;https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/高二学年总结/0003.jpg&quot;&gt;&lt;/img&gt;</summary>
       
     
     
     
     <category term="日记" scheme="http://ccjfun.cf/categories/%E6%97%A5%E8%AE%B0/"/>
     
+    
+    <category term="高中" scheme="http://ccjfun.cf/tags/%E9%AB%98%E4%B8%AD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>19-06 月记</title>
+    <link href="http://ccjfun.cf/posts/10266/"/>
+    <id>http://ccjfun.cf/posts/10266/</id>
+    <published>2019-06-30T05:41:00.000Z</published>
+    <updated>2020-12-07T05:41:51.829Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="07"><a href="#07" class="headerlink" title="07"></a>07</h1><p>第一次网购、<br>（拼夕夕真是个好东西</p><h1 id="29"><a href="#29" class="headerlink" title="29"></a>29</h1><p>Gimdong.Cloud<br>（P3有彩虹）</p><p>15 DAYS<br>-每天都有的毽子局，给累得要死的市统复习消掉了许多压力。虽然作为一个🥬🐣，但每天最期盼的就是下课来一句[憨笑]<br>-以全副精力迎接市统测！（略微小资的买一送一星巴克[咖啡]）<br>-当一回志愿者<br>-又见J栋<br>-一起留宿，一起加油！[机智]<br>-宿舍违禁行为（[嘘]）<br>-准高三了，希望“31902”能像初三的”91203”一样为我护航吧[奋斗]<br>-最后四天！<br>-凑张图[得意]</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;07&quot;&gt;&lt;a href=&quot;#07&quot; class=&quot;headerlink&quot; title=&quot;07&quot;&gt;&lt;/a&gt;07&lt;/h1&gt;&lt;p&gt;第一次网购、&lt;br&gt;（拼夕夕真是个好东西&lt;/p&gt;
+&lt;h1 id=&quot;29&quot;&gt;&lt;a href=&quot;#29&quot; class=&quot;headerlink&quot; </summary>
+      
+    
+    
+    
+    <category term="日记" scheme="http://ccjfun.cf/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+    <category term="生活" scheme="http://ccjfun.cf/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="高中" scheme="http://ccjfun.cf/tags/%E9%AB%98%E4%B8%AD/"/>
+    
+    <category term="摄影" scheme="http://ccjfun.cf/tags/%E6%91%84%E5%BD%B1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>19-05 月记</title>
+    <link href="http://ccjfun.cf/posts/17973/"/>
+    <id>http://ccjfun.cf/posts/17973/</id>
+    <published>2019-05-30T05:40:00.000Z</published>
+    <updated>2020-12-07T05:42:10.590Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="01"><a href="#01" class="headerlink" title="01"></a>01</h1><p>New Profile<br>“Flerken”</p><p>看惊奇队长就是为了看这只喵的，太可爱了3<br>“谁是最可爱的小猫咪呀？”</p><h1 id="03"><a href="#03" class="headerlink" title="03"></a>03</h1><p>嘿嘿嘿</p><h1 id="11"><a href="#11" class="headerlink" title="11"></a>11</h1><p>滑铁卢<br>高二最差一次<br>不过，意料之中，哎</p><h1 id="18"><a href="#18" class="headerlink" title="18"></a>18</h1><h1 id="19"><a href="#19" class="headerlink" title="19"></a>19</h1><p>NICE</p><h1 id="26"><a href="#26" class="headerlink" title="26"></a>26</h1><p>This week</p><p>Just like a whole new one.</p><p>The last Children’s Day[啤酒]<br>Though something bad happened[尴尬]<br>Thank you three guys![憨笑]</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;01&quot;&gt;&lt;a href=&quot;#01&quot; class=&quot;headerlink&quot; title=&quot;01&quot;&gt;&lt;/a&gt;01&lt;/h1&gt;&lt;p&gt;New Profile&lt;br&gt;“Flerken”&lt;/p&gt;
+&lt;p&gt;看惊奇队长就是为了看这只喵的，太可爱了3&lt;br&gt;“谁是最可爱的小猫咪呀？”&lt;</summary>
+      
+    
+    
+    
+    <category term="日记" scheme="http://ccjfun.cf/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+    <category term="生活" scheme="http://ccjfun.cf/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="高中" scheme="http://ccjfun.cf/tags/%E9%AB%98%E4%B8%AD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>19-04 月记</title>
+    <link href="http://ccjfun.cf/posts/61851/"/>
+    <id>http://ccjfun.cf/posts/61851/</id>
+    <published>2019-04-30T05:39:00.000Z</published>
+    <updated>2020-12-07T05:42:29.713Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="04"><a href="#04" class="headerlink" title="04"></a>04</h1><p>一起坐公交<br>老哥，生日快乐！🎂<br>（迟到了三个星期的pyq）</p><p>附赠孙晶体师的作品[啤酒]</p><h1 id="05"><a href="#05" class="headerlink" title="05"></a>05</h1><p>New Profile<br>“A Secretly Exploring Squirrel”<br>对这个蓝色调得很满意</p><h1 id="07"><a href="#07" class="headerlink" title="07"></a>07</h1><p>创造节骚操作<br>“CCJ &amp; his friends”</p><h1 id="13"><a href="#13" class="headerlink" title="13"></a>13</h1><p>乱七八糟的一周<br>在迷宫般的二食逛了一圈，找到了几处考不好可以去的地方[奸笑]<br>说好1130送到的外卖，1400才送到，高二19午写聚餐局[皱眉]<br>时隔一年多首次冲粿条汤[发抖]<br>宿舍换空调，中午插座通电，偷偷强行开启空调[阴险]<br>好像没什么好写的，就再🍻一下安全把手机藏了一个星期吧🍻</p><p>第一个由好朋友给我过的生日<br>ABSOLUTELY THANK [太阳] &amp; [猪头] !<br>看完DC的电影然后去吃漫威的主题餐厅<br>似乎有些奇怪<br>那么，C位的图，强行暗示[害羞]<br>COMING 17，DREAM COMING TRUE[啤酒]</p><h1 id="21"><a href="#21" class="headerlink" title="21"></a>21</h1><p>第二个收到礼物的生日<br>谢谢你们啦[胜利]</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;04&quot;&gt;&lt;a href=&quot;#04&quot; class=&quot;headerlink&quot; title=&quot;04&quot;&gt;&lt;/a&gt;04&lt;/h1&gt;&lt;p&gt;一起坐公交&lt;br&gt;老哥，生日快乐！🎂&lt;br&gt;（迟到了三个星期的pyq）&lt;/p&gt;
+&lt;p&gt;附赠孙晶体师的作品[啤酒]&lt;/p&gt;
+&lt;h1 id=&quot;</summary>
+      
+    
+    
+    
+    <category term="日记" scheme="http://ccjfun.cf/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+    <category term="生活" scheme="http://ccjfun.cf/tags/%E7%94%9F%E6%B4%BB/"/>
     
     <category term="高中" scheme="http://ccjfun.cf/tags/%E9%AB%98%E4%B8%AD/"/>
     
@@ -962,11 +1026,11 @@
     
     <category term="生活" scheme="http://ccjfun.cf/tags/%E7%94%9F%E6%B4%BB/"/>
     
+    <category term="高中" scheme="http://ccjfun.cf/tags/%E9%AB%98%E4%B8%AD/"/>
+    
     <category term="摄影" scheme="http://ccjfun.cf/tags/%E6%91%84%E5%BD%B1/"/>
     
     <category term="数码" scheme="http://ccjfun.cf/tags/%E6%95%B0%E7%A0%81/"/>
-    
-    <category term="高中" scheme="http://ccjfun.cf/tags/%E9%AB%98%E4%B8%AD/"/>
     
   </entry>
   
@@ -992,9 +1056,9 @@
     
     <category term="生活" scheme="http://ccjfun.cf/tags/%E7%94%9F%E6%B4%BB/"/>
     
-    <category term="摄影" scheme="http://ccjfun.cf/tags/%E6%91%84%E5%BD%B1/"/>
-    
     <category term="高中" scheme="http://ccjfun.cf/tags/%E9%AB%98%E4%B8%AD/"/>
+    
+    <category term="摄影" scheme="http://ccjfun.cf/tags/%E6%91%84%E5%BD%B1/"/>
     
   </entry>
   
@@ -1021,9 +1085,9 @@
     
     <category term="生活" scheme="http://ccjfun.cf/tags/%E7%94%9F%E6%B4%BB/"/>
     
-    <category term="摄影" scheme="http://ccjfun.cf/tags/%E6%91%84%E5%BD%B1/"/>
-    
     <category term="高中" scheme="http://ccjfun.cf/tags/%E9%AB%98%E4%B8%AD/"/>
+    
+    <category term="摄影" scheme="http://ccjfun.cf/tags/%E6%91%84%E5%BD%B1/"/>
     
   </entry>
   
@@ -1050,9 +1114,9 @@
     
     <category term="生活" scheme="http://ccjfun.cf/tags/%E7%94%9F%E6%B4%BB/"/>
     
-    <category term="摄影" scheme="http://ccjfun.cf/tags/%E6%91%84%E5%BD%B1/"/>
-    
     <category term="高中" scheme="http://ccjfun.cf/tags/%E9%AB%98%E4%B8%AD/"/>
+    
+    <category term="摄影" scheme="http://ccjfun.cf/tags/%E6%91%84%E5%BD%B1/"/>
     
   </entry>
   
@@ -1079,11 +1143,11 @@
     
     <category term="生活" scheme="http://ccjfun.cf/tags/%E7%94%9F%E6%B4%BB/"/>
     
+    <category term="高中" scheme="http://ccjfun.cf/tags/%E9%AB%98%E4%B8%AD/"/>
+    
     <category term="摄影" scheme="http://ccjfun.cf/tags/%E6%91%84%E5%BD%B1/"/>
     
     <category term="数码" scheme="http://ccjfun.cf/tags/%E6%95%B0%E7%A0%81/"/>
-    
-    <category term="高中" scheme="http://ccjfun.cf/tags/%E9%AB%98%E4%B8%AD/"/>
     
   </entry>
   
@@ -1111,11 +1175,11 @@
     
     <category term="生活" scheme="http://ccjfun.cf/tags/%E7%94%9F%E6%B4%BB/"/>
     
-    <category term="摄影" scheme="http://ccjfun.cf/tags/%E6%91%84%E5%BD%B1/"/>
-    
     <category term="高中" scheme="http://ccjfun.cf/tags/%E9%AB%98%E4%B8%AD/"/>
     
     <category term="网络" scheme="http://ccjfun.cf/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+    <category term="摄影" scheme="http://ccjfun.cf/tags/%E6%91%84%E5%BD%B1/"/>
     
   </entry>
   

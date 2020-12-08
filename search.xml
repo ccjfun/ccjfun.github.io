@@ -318,9 +318,9 @@
             
             <tag> 飞机 </tag>
             
-            <tag> 广州 </tag>
-            
             <tag> 美食 </tag>
+            
+            <tag> 广州 </tag>
             
             <tag> 旅行 </tag>
             
@@ -384,9 +384,9 @@
             
             <tag> SCUT </tag>
             
-            <tag> 广州 </tag>
-            
             <tag> 美食 </tag>
+            
+            <tag> 广州 </tag>
             
         </tags>
       
@@ -443,6 +443,35 @@
             <tag> 猫 </tag>
             
             <tag> SCUT </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Swatow Party</title>
+      <link href="posts/3758/"/>
+      <url>posts/3758/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 视频 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 摄影 </tag>
+            
+            <tag> 潮汕 </tag>
+            
+            <tag> 美食 </tag>
             
         </tags>
       
@@ -510,8 +539,8 @@
     
     <entry>
       <title>哪个男孩不想拥有一个不花一分钱搭建的高逼格网站呢？</title>
-      <link href="posts/31884/"/>
-      <url>posts/31884/</url>
+      <link href="posts/3188/"/>
+      <url>posts/3188/</url>
       
         <content type="html"><![CDATA[<p>在这个互联网社会，网站作为一个重要的面对公众的窗口，是其拥有者的最佳展示工具之一。我相信很多人都想拥有自己的网站，用以展示自己的生活点滴。但是，一般建站需要大量的HTML知识作为基础，网站还需要购买服务器存放，为了便于访问还要有自己的顶级域名，这两项都要有足够的资金做后盾。不过，这些统统能够通过这篇文章的方法解决！</p><p>主要内容：Hexo博客生成器+GitHub Pages静态网页服务作为服务器+Freenom免费顶级域名+DNSPod 免费DNS解析</p><p>文章目录：<br>1.本方法的一些限制<br>2.博客环境搭建（Git、NodeJS、Hexo）<br>3.创建一个基本博客<br>4.部署博客至GitHub并开启访问<br>5.注册一个顶级域名并绑定</p><p>1.本方法的一些限制</p><p>①    首先，我们要清楚静态网页与动态网页的区别，这里由于篇幅限制不展开。Hexo是一个静态网页生成器，GitHub Pages也只支持静态网页。所以如果你想做一个动态网站还是老老实实花钱买服务器吧🙃，可以选择WordPress之类的环境创作动态网页，免费域名则仍可以参考本文。<br>②    由于众所周知的原因，GitHub在国内的访问速度不理想（国外正常），关于速度优化的方法会在今后的进阶篇介绍。除了GitHub Pages，类似的服务还有腾讯云的Coding Pages和码云的Gitee Pages，下面的表格是三项服务的对比，从中也可看出我选择GitHub Pages的原因。<br>③    百度不收录免费域名的网站，如果你有这方面需求请购买com一类的域名。 </p><p>2.博客环境搭建（Git、NodeJS、Hexo）<br>①安装Git<br>1.进入Git官网 <a href="https://git-scm.com/%EF%BC%8C%E7%BD%91%E9%A1%B5%E5%BA%94%E8%AF%A5%E4%BC%9A%E8%87%AA%E5%8A%A8%E8%AF%86%E5%88%AB%E4%BD%A0%E7%9A%84%E7%B3%BB%E7%BB%9F%E7%89%88%E6%9C%AC%EF%BC%8C%E7%9B%B4%E6%8E%A5%E7%82%B9%E5%87%BB%E5%8F%B3%E4%B8%8B%E8%A7%92%E7%9A%84%E6%98%BE%E7%A4%BA%E5%99%A8Download%E5%B0%B1%E8%A1%8C%E4%BA%86%E3%80%82">https://git-scm.com/，网页应该会自动识别你的系统版本，直接点击右下角的显示器Download就行了。</a></p><p>2.打开安装程序，一路Next就行了，不需要自己调整。<br>②安装NodeJS<br>1.进入NodeJS官网 <a href="https://nodejs.org/%EF%BC%8C%E7%BD%91%E9%A1%B5%E5%BA%94%E8%AF%A5%E4%BC%9A%E8%87%AA%E5%8A%A8%E8%AF%86%E5%88%AB%E4%BD%A0%E7%9A%84%E7%B3%BB%E7%BB%9F%E7%89%88%E6%9C%AC%EF%BC%8C%E7%9B%B4%E6%8E%A5%E7%82%B9%E5%87%BB%E7%BB%BF%E8%89%B2%E6%8C%89%E9%92%AE%E4%B8%8B%E8%BD%BD%E5%B0%B1%E8%A1%8C%E4%BA%86%E3%80%82%EF%BC%88LTS%E6%98%AF%E7%A8%B3%E5%AE%9A%E7%89%88%EF%BC%8CCurrent%E6%98%AF%E6%9C%80%E6%96%B0%E7%89%88%EF%BC%89">https://nodejs.org/，网页应该会自动识别你的系统版本，直接点击绿色按钮下载就行了。（LTS是稳定版，Current是最新版）</a></p><p>2.打开安装程序，一路Next就行了，不需要自己调整。<br>③安装Hexo<br>1.进入Hexo官网 <a href="https://hexo.io/%EF%BC%8C%E5%A4%8D%E5%88%B6%E5%91%BD%E4%BB%A4npm">https://hexo.io/，复制命令npm</a> install hexo-cli -g。</p><p>2.打开终端，粘贴命令并执行。</p><p>PS：npm默认使用国外的软件源，速度如果较慢，可以在终端执行这个命令：npm config set registry <a href="https://registry.npm.taobao.org/">https://registry.npm.taobao.org</a> 替换为国内镜像。<br>3.创建一个基本博客<br>①推荐你给Windows右键菜单加上“在此处打开命令提示符”，这样今后的操作都会方便很多。（可以使用一些右键菜单管理软件实现）<br>②在你想要存放博客文件夹的位置打开终端，依次执行红框中的命令（请把“CCJFun”替换为你自定义的名称）。</p><p>③进入博客文件夹，以下是文件目录：</p><p>④打开_config.yml，介绍几项基础的自定义。（主题会在今后的进阶篇介绍）</p><p>⑤在博客文件夹根目录打开终端，执行 hexo s，在浏览器输入<a href="http://localhost:4000看看网站效果。">http://localhost:4000看看网站效果。</a></p><p>⑥网站自带了一个HELLO WORLD，现在我们要来创建一篇自己的文章了。</p><ol><li>在博客文件夹根目录打开终端，执行 hexo new “文章名称”</li></ol><p>2.进入source文件夹中的_post文件夹，打开刚刚创建的文件。<br>PS：*.md文件是Markdown文件格式，即Hexo使用的主要语法，今后在写文章时需要使用Markdown语法写作（如果不熟悉Markdown语法，可以安装Markdown Pad这款编辑器，支持通过按钮自动添加Markdown语法）</p><p>3.对于标准文件头部的解释：</p><p>PS：不同的主题会有其不同的自定义头部条目，但以上四项是最基本通用的四项。<br>4.随便写一篇文章示例~</p><p>创建博客最基本的步骤已经完成了，接下来就要把它部署到网上以供访问了。<br>4.部署博客至GitHub并开启访问<br>①创建一个GitHub仓库。</p><p>②注意，仓库名称为 owner.github.io，GitHub分配给这个仓库的网址才是一个纯域名。仓库要公开，为了调试方便勾选创建README。<br>PS：仓库名称：abc，仓库Pages网址：owner.github.io/abc</p><p>③开启GitHub Pages服务。</p><p>④点击出现的网址，查看效果。如果出现蓝色的仓库名称则说明成功（此时显示的是README文件）。<br>⑤随意打开一个文件夹，右键Git Bash，依次执行以下命令。</p><p>⑥如图找到所示文件，用记事本打开。复制全部内容。</p><p>⑦打开GitHub个人设置，进入SSH Key设置，点击New SSH key。粘贴密钥后确认。</p><p>⑧在博客文件夹根目录打开终端，执行 npm install hexo-deployer-git –save</p><p>⑨在GitHub仓库主页点击Code，复制仓库的SSH链接。</p><p>⑩打开_config.yml，如图所示进行修改。</p><p>11.<br>11. 在博客文件夹根目录打开终端，执行 hexo d -g</p><p>12.出现以下界面即成功。</p><p>13.在浏览器刷新一下，一个属于你自己的网站已经上线了！<br>5.注册一个顶级域名并绑定<br>然而，这个网站使用的是github的默认域名，虽说名字起得好的话也不是特别难记，但怎么说还是不利于推广。所以我们还要一个属于自己的顶级域名。不过目前也仅有Freenom提供免费的顶级域名了，包括以下五种：ga、gq、tk、ml、cf。<br>操作提示：Freenom由于一些原因封禁了大陆IP地址的注册权限（网站可以正常访问），所以你需要通过非大陆的VPN访问Freenom。Freenom没有注册入口，你需要先搜索网址后再提交工单时才会出现注册选项。<br>①单击Get it now!加入购物车。</p><p>②在Period一项最长可选择免费12个月。</p><p>大陆IP会在这一步被卡住。</p><p>③填写个人资料。警告：这些资料都是会被公开的！填完之后即可完成注册。进入My Domains即可看到你拥有的域名。</p><p>④点击Manage Domain，进入Management Tools-Nameservers页面，按下图填写后保存。</p><p>⑤有了域名，我们就需要DNS将域名和我们的网站绑定了。腾讯云提供免费的DNS服务。注册腾讯云账号，进入控制台，选择DNS解析（<a href="https://console.cloud.tencent.com/cns%EF%BC%89%EF%BC%8C%E6%B7%BB%E5%8A%A0%E4%BD%A0%E5%88%9A%E5%88%9A%E6%B3%A8%E5%86%8C%E7%9A%84%E5%9F%9F%E5%90%8D%E3%80%82">https://console.cloud.tencent.com/cns），添加你刚刚注册的域名。</a></p><p>⑥按下图添加解析记录，注意把记录值换成你自己的GitHub地址。假设你注册的域名是abc.tk，这样你的网站将可以从abc.tk访问。</p><p>PS：你也可以将@换为www，这样你的网站将可以从<a href="http://www.abc.tk访问./">www.abc.tk访问。</a><br>⑦打开博客的source文件夹，创建一个CNAME文件（不带后缀），输入你的域名。同时修改_config.yml，保存后部署博客。</p><p>⑧进入GitHub仓库的Pages设置查看是否更改成功。（HTTPS在更改自定义域名后需要时间生效）</p><p>⑨在浏览器输入你的自定义域名，查看效果。大功告成！</p><p>至此，你成功地拥有了一个属于自己的网站！</p><p>关于网站的各方面有话请参阅我今后发布的进阶篇。</p><p>感谢阅读，记得三连！</p>]]></content>
       
@@ -591,8 +620,8 @@
     
     <entry>
       <title>高三下 记录</title>
-      <link href="posts/52911/"/>
-      <url>posts/52911/</url>
+      <link href="posts/5291/"/>
+      <url>posts/5291/</url>
       
         <content type="html"><![CDATA[<h1 id="2020"><a href="#2020" class="headerlink" title="2020"></a>2020</h1><h1 id="01"><a href="#01" class="headerlink" title="01"></a>01</h1><h2 id="19"><a href="#19" class="headerlink" title="19"></a>19</h2><p>OK</p><p>📷</p><h2 id="24"><a href="#24" class="headerlink" title="24"></a>24</h2><p>鼠年第一疑惑</p><h2 id="25"><a href="#25" class="headerlink" title="25"></a>25</h2><p>新年快乐</p><h1 id="02"><a href="#02" class="headerlink" title="02"></a>02</h1><h2 id="07"><a href="#07" class="headerlink" title="07"></a>07</h2><p>但愿高考不延期<br>快点开学</p><h2 id="10"><a href="#10" class="headerlink" title="10"></a>10</h2><p>四年心愿！<br>IT IS DONE !</p><h2 id="21"><a href="#21" class="headerlink" title="21"></a>21</h2><p>Take a breath.</p><h2 id="28"><a href="#28" class="headerlink" title="28"></a>28</h2><h2 id="29"><a href="#29" class="headerlink" title="29"></a>29</h2><p>无纸化首役</p><p>还好有kindle，不然我眼睛要瞎了</p><p>熄灯了</p><h1 id="03"><a href="#03" class="headerlink" title="03"></a>03</h1><h2 id="01-1"><a href="#01-1" class="headerlink" title="01"></a>01</h2><p>多看BBC,NYT的好處？[奸笑]</p><h2 id="03-1"><a href="#03-1" class="headerlink" title="03"></a>03</h2><p>拼多多YES！</p><h2 id="04"><a href="#04" class="headerlink" title="04"></a>04</h2><h2 id="05"><a href="#05" class="headerlink" title="05"></a>05</h2><h2 id="06"><a href="#06" class="headerlink" title="06"></a>06</h2><p>但愿高考延期<br>快点开学😰😰😰</p><h2 id="10-1"><a href="#10-1" class="headerlink" title="10"></a>10</h2><p>A4纸的正确打开方式[好的]</p><h2 id="18"><a href="#18" class="headerlink" title="18"></a>18</h2><p>改到吐血终于搞定</p><h2 id="20"><a href="#20" class="headerlink" title="20"></a>20</h2><p>我爱了</p><h2 id="23"><a href="#23" class="headerlink" title="23"></a>23</h2><p>如果这种直面的回应能越来越多，也就能渐渐从内外媒体的各种立场中淘出焦点事件的真相吧，一概藏着掖着可能反倒会降低政府公信力。</p><h2 id="27"><a href="#27" class="headerlink" title="27"></a>27</h2><p>谷歌相机，i了</p><p>YES！</p><h2 id="31"><a href="#31" class="headerlink" title="31"></a>31</h2><p>nice</p><h1 id="04-1"><a href="#04-1" class="headerlink" title="04"></a>04</h1><h2 id="07-1"><a href="#07-1" class="headerlink" title="07"></a>07</h2><p>解决了喝酸奶的舔盖问题</p><h2 id="13"><a href="#13" class="headerlink" title="13"></a>13</h2><p>谢谢小破站送的“生日礼物”[奸笑]<br>（不过这个时候送没什么用[捂脸]</p><h2 id="15"><a href="#15" class="headerlink" title="15"></a>15</h2><h2 id="17"><a href="#17" class="headerlink" title="17"></a>17</h2><p>可学车了</p><h2 id="20-1"><a href="#20-1" class="headerlink" title="20"></a>20</h2><p>现在我才意识到我18岁了</p><h2 id="22"><a href="#22" class="headerlink" title="22"></a>22</h2><p>打扰了，我就不该问您有多少电脑</p><h1 id="05-1"><a href="#05-1" class="headerlink" title="05"></a>05</h1><h2 id="09"><a href="#09" class="headerlink" title="09"></a>09</h2><p>我居然第一个出校门哈哈哈</p><p>The Only Satisfaction.</p><p>拍张照夸一下</p><h2 id="16"><a href="#16" class="headerlink" title="16"></a>16</h2><p>白 嫖 境 界</p><h1 id="06-1"><a href="#06-1" class="headerlink" title="06"></a>06</h1><h2 id="04-2"><a href="#04-2" class="headerlink" title="04"></a>04</h2><p>嚣张</p><h2 id="08"><a href="#08" class="headerlink" title="08"></a>08</h2><h2 id="04-3"><a href="#04-3" class="headerlink" title="04"></a>04</h2><p>嚣张</p><h2 id="08-1"><a href="#08-1" class="headerlink" title="08"></a>08</h2>]]></content>
       
@@ -768,7 +797,7 @@
       <link href="posts/d698/"/>
       <url>posts/d698/</url>
       
-        <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><blockquote><p>本来百度云分享文件时都可以选择<code>私密(有提取码)</code>或<code>公开(无提取码)</code>。后来网页端只能分享私密，客户端还能无提取码。好嘛，现在连客户端也只能私密了。问题是我要分享的公开就行了，输提取码多此一举，还麻烦。</p></blockquote><p>So，我又要开始强力破解了~</p><h2 id="1"><a href="#1" class="headerlink" title="1."></a>1.</h2><p>打开网页版。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/1.jpg"></img></p><h2 id="2"><a href="#2" class="headerlink" title="2."></a>2.</h2><p>点击分享出现以下界面。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/2.jpg"></img></p><h2 id="3"><a href="#3" class="headerlink" title="3."></a>3.</h2><p>按键盘上的F12，出现以下界面。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/3.jpg"></img></p><h2 id="4"><a href="#4" class="headerlink" title="4."></a>4.</h2><p>点击右上角Element右边的Console，出现以下界面。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/4.jpg"></img></p><h2 id="5"><a href="#5" class="headerlink" title="5."></a>5.</h2><p>复制下面代码，粘贴，回车。</p><pre><code>if(document.getElementById(&quot;share-method-private&quot;))&#123;document.getElementById(&quot;share-method-private&quot;).value=&quot;public&quot;;alert(&quot;OK!点击“创建链接”生成公开链接!&quot;)&#125;</code></pre><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/5.jpg"></img></p><h2 id="6"><a href="#6" class="headerlink" title="6."></a>6.</h2><p>屏幕上方会出现提示。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/6.jpg"></img></p><h2 id="7"><a href="#7" class="headerlink" title="7."></a>7.</h2><p>这时选择有效期后点击分享就能生成无提取码的链接啦~</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/7.jpg"></img></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><blockquote><p>本来百度云分享文件时都可以选择<code>私密(有提取码)</code>或<code>公开(无提取码)</code>。后来网页端只能分享私密，客户端还能无提取码。好嘛，现在连客户端也只能私密了。问题是我要分享的公开就行了，输提取码多此一举，还麻烦。</p></blockquote><p>So，我又要开始强力破解了~</p><h2 id="1"><a href="#1" class="headerlink" title="1."></a>1.</h2><p>打开网页版。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/1.jpg"></img></p><h2 id="2"><a href="#2" class="headerlink" title="2."></a>2.</h2><p>点击分享出现以下界面。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/2.jpg"></img></p><h2 id="3"><a href="#3" class="headerlink" title="3."></a>3.</h2><p>按键盘上的F12，出现以下界面。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/3.jpg"></img></p><h2 id="4"><a href="#4" class="headerlink" title="4."></a>4.</h2><p>点击右上角Element右边的Console，出现以下界面。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/4.jpg"></img></p><h2 id="5"><a href="#5" class="headerlink" title="5."></a>5.</h2><p>复制下面代码，粘贴，回车。</p><pre class="line-numbers language-none"><code class="language-none">if(document.getElementById(&quot;share-method-private&quot;))&#123;document.getElementById(&quot;share-method-private&quot;).value&#x3D;&quot;public&quot;;alert(&quot;OK!点击“创建链接”生成公开链接!&quot;)&#125;<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/5.jpg"></img></p><h2 id="6"><a href="#6" class="headerlink" title="6."></a>6.</h2><p>屏幕上方会出现提示。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/6.jpg"></img></p><h2 id="7"><a href="#7" class="headerlink" title="7."></a>7.</h2><p>这时选择有效期后点击分享就能生成无提取码的链接啦~</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/7.jpg"></img></p>]]></content>
       
       
       <categories>
@@ -824,31 +853,6 @@
     
     
     <entry>
-      <title>Taylor Swift - The Man 性转</title>
-      <link href="posts/479b/"/>
-      <url>posts/479b/</url>
-      
-        <content type="html"><![CDATA[<p>那个男人他真的变成男人了！</p><p><code>The Man</code> 性转版本</p><hr><link href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video-js.css" rel="stylesheet" /><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-http-streaming.min.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-resolution-switcher.js'></script><video id="welcomeVideo" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">      <source id="source" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/videos/life/TylorSwiftTheMan/video.m3u8" type="application/x-mpegURL"></video><script>  var w = document.getElementById("welcomeVideo").parentNode.offsetWidth;  var myVideo = videojs('welcomeVideo', {    loop: false,    controls: true,    preload: 'auto',    autoplay: false,    width: w,    height: 0.5625*w,    playbackRates: [0.5,1,1.5,2,3],  })</script><hr>]]></content>
-      
-      
-      <categories>
-          
-          <category> 视频 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Taylor Swift </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>如何以爱国的姿势访问一些外网优质资源</title>
       <link href="posts/d799/"/>
       <url>posts/d799/</url>
@@ -877,8 +881,8 @@
     
     <entry>
       <title>高三上 记忆</title>
-      <link href="posts/44847/"/>
-      <url>posts/44847/</url>
+      <link href="posts/4484/"/>
+      <url>posts/4484/</url>
       
         <content type="html"><![CDATA[<h1 id="08"><a href="#08" class="headerlink" title="08"></a>08</h1><h2 id="03"><a href="#03" class="headerlink" title="03"></a>03</h2><p>⛅🌧️🌈</p><h2 id="17"><a href="#17" class="headerlink" title="17"></a>17</h2><p>😁</p><h2 id="24"><a href="#24" class="headerlink" title="24"></a>24</h2><p>I   A B U S E   M Y S E L F  √</p><p>100天 √</p><p>L O V E R √</p><p>台风前 · 万里晴空 · 海市蜃楼 √</p><p>台风前 · 猩红苍穹 √</p><h2 id="31"><a href="#31" class="headerlink" title="31"></a>31</h2><p>忙活半天 15s要渲染3h[猪头] 不过效果还可以</p><h1 id="09"><a href="#09" class="headerlink" title="09"></a>09</h1><h2 id="22"><a href="#22" class="headerlink" title="22"></a>22</h2><p>ferry</p><p>？<br>谢谢小哲</p><p>想不到TX居然还能出个这么好的APP<br>播放界面貌似有点抄Apple Music<br>比自家的QQ音乐好看多了<br>而且没有广告和乱七八糟的评论区<br>(还有每天羊毛VIP，嘻嘻</p><h1 id="10"><a href="#10" class="headerlink" title="10"></a>10</h1><h2 id="01"><a href="#01" class="headerlink" title="01"></a>01</h2><p>70</p><p>帅爆！</p><h2 id="19"><a href="#19" class="headerlink" title="19"></a>19</h2><p>一场以为是月考的期中考：<br>古文默写从3分被按成6分（嘘<br>实验题把答题卡当草稿纸，阴差阳错撸了个10分<br>英语终于一次名正言顺130+<br>不过嘛，总的还是那个鬼亚子（哎</p><p>骚涛化学课：<br>分子分割为原子，原子分割为原子核和电子，原子核分割为质子和中子，质子分割为夸克……<br>（停顿5s）<br>不能分割的是我和我的祖国……<br>（但貌似这个梗是我火星了）</p><p>给你</p><p>假装自己做了个app</p><h2 id="11"><a href="#11" class="headerlink" title="11"></a>11</h2><h2 id="16"><a href="#16" class="headerlink" title="16"></a>16</h2><p>感觉像掉进了华为博物馆</p><h2 id="23"><a href="#23" class="headerlink" title="23"></a>23</h2><p>考前看电影的“好”习惯</p><h2 id="30"><a href="#30" class="headerlink" title="30"></a>30</h2><p>§ 公交车线倒了过来，终于在高三体验到首站上车的舒适<br>§ 六分钟从高三楼五楼到渡口是种怎样的体验[骷髅]<br>§ 麦当劳的鲜煮[咖啡]比星巴克的还提神[月亮]<br>§ 语文古文常识这个坑，武则天，差点跳进去，多亏她侄子武三思“不合时宜”地出现<br>§ 数学白送了12分（小哲好久不见）<br>§ 理综先写选做题，写物理实验时涛涛在旁边愣了好久（也许在想这个B怎么写那么慢[抠鼻]），生物最后大题直接抄21班卷子有点可怕，铃响后趁涛涛长篇大论+第一排收卷赶紧把答案默进去[嘘]<br>§ 我都记不起这是第几次写老年痴呆的完形填空了（后面四篇直接拿衡水的卷子也太瞧得起我们了吧）七选五排除两个正确选项直接炸掉，短文填空也是[骷髅]阅读又回到错三个的年代，还错了贝佐斯对PPT评价的那道题（我可是看过这句话的分析的啊）（平均分警告）<br>§ 附带几个隐藏的小蓝表情包[敲打]</p><h1 id="12"><a href="#12" class="headerlink" title="12"></a>12</h1><h2 id="31-1"><a href="#31-1" class="headerlink" title="31"></a>31</h2><p>放飞体检<br>扫黄般的男外科[流汗]<br>像一群不良青年一样在外面逛[嘘]<br>和三个女生挤后排的奇怪体验[发抖]</p><p>2019 ，E.N.D.</p><p>①体检闯荡苏宁时来自WBB的偷拍👀 </p><p>②热身测试唯一发挥好的科目，把总排从极差拉回了很差[咖啡]。XJL念出我名字后的邪魅一笑真是难以忘怀[微笑]。</p><p>③Comfortable~</p>]]></content>
       
@@ -908,10 +912,10 @@
     
     <entry>
       <title>19-07 月记</title>
-      <link href="posts/58587/"/>
-      <url>posts/58587/</url>
+      <link href="posts/5858/"/>
+      <url>posts/5858/</url>
       
-        <content type="html"><![CDATA[<h1 id="13"><a href="#13" class="headerlink" title="13"></a>13</h1><h1 id="17"><a href="#17" class="headerlink" title="17"></a>17</h1><p>Tiresome🧐</p><h1 id="24"><a href="#24" class="headerlink" title="24"></a>24</h1><p>🍭</p><p>A Small Egg of 404</p><h1 id="28"><a href="#28" class="headerlink" title="28"></a>28</h1><p>我爱黄旭亮[微笑]（强装微笑）</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="13"><a href="#13" class="headerlink" title="13"></a>13</h1><p align="center"><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/高二学年总结/0003.jpg"></img></p><p><code>高二</code>转眼之间就这么结束，也许是最<code>风云莫测</code>的一年</p><p>以<code>志同道合</code>开头，收获一段<code>迄今最好</code>的友谊，却以<code>反目</code>结束</p><p>随之是<code>好的开端</code>，朝着<code>目标</code>一步一个脚印迈进，却最终从顶峰<code>坠入谷底</code></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/高二学年总结/0002.jpg"></img></p><p>这时，为之<code>追逐一年</code>的<code>目标</code>突然失去，反而成为一个<code>好消息</code></p><p>不过，多亏<code>身在19</code>，有<code>各位</code>一同度过，与你们一起<code>聊骚</code>度日，相互<code>勉励</code>，把毽子踢飞<code>（划掉）</code>，在高二这年我真的收获了很多以前<code>想不到</code>的东西</p><p>看到最近空间纷纷<code>复活</code>的学长们，明白了一些事情，嗯</p><p>最后，借用<code>他</code>的一句话吧</p><blockquote><p>“我会证明我往日的辉煌并不是运气”</p></blockquote><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/高二学年总结/0004.jpg"></img></p><hr><p>再谢谢<code>小哲</code>的本子~</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/高二学年总结/0005.jpg"></img></p><h1 id="17"><a href="#17" class="headerlink" title="17"></a>17</h1><p>Tiresome🧐/<br>累死我了😜</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/累死我了/0001.jpg"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/累死我了/0002.jpg"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/累死我了/0003.jpg"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/累死我了/0004.jpg"></img></p><h1 id="18"><a href="#18" class="headerlink" title="18"></a>18</h1><p>今天真是有趣的一天</p><ul><li>来自大洋彼岸的轮子电话（难道我的Facebook或Twitter信息泄露了？）</li></ul><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/有趣的一天/0001.jpg"></img></p><ul><li>一个制作精湛的钓鱼网站（用iOS键盘是歧视安卓用户吗？）</li></ul><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/有趣的一天/0002.jpg"></img></p><h1 id="24"><a href="#24" class="headerlink" title="24"></a>24</h1><p>🍭</p><p>A Small Egg of 404</p><h1 id="28"><a href="#28" class="headerlink" title="28"></a>28</h1><p>我爱黄旭亮[微笑]（强装微笑）</p>]]></content>
       
       
       <categories>
@@ -930,83 +934,6 @@
             <tag> 摄影 </tag>
             
             <tag> 天文 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>有趣的一天</title>
-      <link href="posts/a152/"/>
-      <url>posts/a152/</url>
-      
-        <content type="html"><![CDATA[<iframe width="100%" height="50" scrolling="no" border="0" frameborder="no" framespacing="0" src="https://p.ccjfun.cf/bgm/Q0FH13J5"></iframe><p>今天真是有趣的一天</p><ul><li>来自大洋彼岸的轮子电话（难道我的Facebook或Twitter信息泄露了？）</li></ul><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/有趣的一天/0001.jpg"></img></p><ul><li>一个制作精湛的钓鱼网站（用iOS键盘是歧视安卓用户吗？）</li></ul><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/有趣的一天/0002.jpg"></img></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 日记 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 生活 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>累死我了</title>
-      <link href="posts/eb48/"/>
-      <url>posts/eb48/</url>
-      
-        <content type="html"><![CDATA[<p>累死我了😜</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/累死我了/0001.jpg"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/累死我了/0002.jpg"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/累死我了/0003.jpg"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/累死我了/0004.jpg"></img></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 日记 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 摄影 </tag>
-            
-            <tag> 天文 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>高二学年总结</title>
-      <link href="posts/3818/"/>
-      <url>posts/3818/</url>
-      
-        <content type="html"><![CDATA[<p align="center"><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/高二学年总结/0003.jpg"></img></p><p><code>高二</code>转眼之间就这么结束，也许是最<code>风云莫测</code>的一年</p><p>以<code>志同道合</code>开头，收获一段<code>迄今最好</code>的友谊，却以<code>反目</code>结束</p><p>随之是<code>好的开端</code>，朝着<code>目标</code>一步一个脚印迈进，却最终从顶峰<code>坠入谷底</code></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/高二学年总结/0002.jpg"></img></p><p>这时，为之<code>追逐一年</code>的<code>目标</code>突然失去，反而成为一个<code>好消息</code></p><p>不过，多亏<code>身在19</code>，有<code>各位</code>一同度过，与你们一起<code>聊骚</code>度日，相互<code>勉励</code>，把毽子踢飞<code>（划掉）</code>，在高二这年我真的收获了很多以前<code>想不到</code>的东西</p><p>看到最近空间纷纷<code>复活</code>的学长们，明白了一些事情，嗯</p><p>最后，借用<code>他</code>的一句话吧</p><blockquote><p>“我会证明我往日的辉煌并不是运气”</p></blockquote><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/高二学年总结/0004.jpg"></img></p><hr><p>再谢谢<code>小哲</code>的本子~</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/高二学年总结/0005.jpg"></img></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 日记 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 高中 </tag>
             
         </tags>
       
@@ -1016,8 +943,8 @@
     
     <entry>
       <title>19-06 月记</title>
-      <link href="posts/10266/"/>
-      <url>posts/10266/</url>
+      <link href="posts/1026/"/>
+      <url>posts/1026/</url>
       
         <content type="html"><![CDATA[<h1 id="07"><a href="#07" class="headerlink" title="07"></a>07</h1><p>第一次网购、<br>（拼夕夕真是个好东西</p><h1 id="29"><a href="#29" class="headerlink" title="29"></a>29</h1><p>Gimdong.Cloud<br>（P3有彩虹）</p><p>15 DAYS<br>-每天都有的毽子局，给累得要死的市统复习消掉了许多压力。虽然作为一个🥬🐣，但每天最期盼的就是下课来一句[憨笑]<br>-以全副精力迎接市统测！（略微小资的买一送一星巴克[咖啡]）<br>-当一回志愿者<br>-又见J栋<br>-一起留宿，一起加油！[机智]<br>-宿舍违禁行为（[嘘]）<br>-准高三了，希望“31902”能像初三的”91203”一样为我护航吧[奋斗]<br>-最后四天！<br>-凑张图[得意]</p>]]></content>
       
@@ -1045,8 +972,8 @@
     
     <entry>
       <title>19-05 月记</title>
-      <link href="posts/17973/"/>
-      <url>posts/17973/</url>
+      <link href="posts/1797/"/>
+      <url>posts/1797/</url>
       
         <content type="html"><![CDATA[<h1 id="01"><a href="#01" class="headerlink" title="01"></a>01</h1><p>New Profile<br>“Flerken”</p><p>看惊奇队长就是为了看这只喵的，太可爱了3<br>“谁是最可爱的小猫咪呀？”</p><h1 id="03"><a href="#03" class="headerlink" title="03"></a>03</h1><p>嘿嘿嘿</p><h1 id="11"><a href="#11" class="headerlink" title="11"></a>11</h1><p>滑铁卢<br>高二最差一次<br>不过，意料之中，哎</p><h1 id="18"><a href="#18" class="headerlink" title="18"></a>18</h1><h1 id="19"><a href="#19" class="headerlink" title="19"></a>19</h1><p>NICE</p><h1 id="26"><a href="#26" class="headerlink" title="26"></a>26</h1><p>This week</p><p>Just like a whole new one.</p><p>The last Children’s Day[啤酒]<br>Though something bad happened[尴尬]<br>Thank you three guys![憨笑]</p>]]></content>
       
@@ -1072,8 +999,8 @@
     
     <entry>
       <title>19-04 月记</title>
-      <link href="posts/61851/"/>
-      <url>posts/61851/</url>
+      <link href="posts/6185/"/>
+      <url>posts/6185/</url>
       
         <content type="html"><![CDATA[<h1 id="04"><a href="#04" class="headerlink" title="04"></a>04</h1><p>一起坐公交<br>老哥，生日快乐！🎂<br>（迟到了三个星期的pyq）</p><p>附赠孙晶体师的作品[啤酒]</p><h1 id="05"><a href="#05" class="headerlink" title="05"></a>05</h1><p>New Profile<br>“A Secretly Exploring Squirrel”<br>对这个蓝色调得很满意</p><h1 id="07"><a href="#07" class="headerlink" title="07"></a>07</h1><p>创造节骚操作<br>“CCJ &amp; his friends”</p><h1 id="13"><a href="#13" class="headerlink" title="13"></a>13</h1><p>乱七八糟的一周<br>在迷宫般的二食逛了一圈，找到了几处考不好可以去的地方[奸笑]<br>说好1130送到的外卖，1400才送到，高二19午写聚餐局[皱眉]<br>时隔一年多首次冲粿条汤[发抖]<br>宿舍换空调，中午插座通电，偷偷强行开启空调[阴险]<br>好像没什么好写的，就再🍻一下安全把手机藏了一个星期吧🍻</p><p>第一个由好朋友给我过的生日<br>ABSOLUTELY THANK [太阳] &amp; [猪头] !<br>看完DC的电影然后去吃漫威的主题餐厅<br>似乎有些奇怪<br>那么，C位的图，强行暗示[害羞]<br>COMING 17，DREAM COMING TRUE[啤酒]</p><h1 id="21"><a href="#21" class="headerlink" title="21"></a>21</h1><p>第二个收到礼物的生日<br>谢谢你们啦[胜利]</p>]]></content>
       
@@ -1130,8 +1057,8 @@
     
     <entry>
       <title>19-02 月记</title>
-      <link href="posts/56091/"/>
-      <url>posts/56091/</url>
+      <link href="posts/5609/"/>
+      <url>posts/5609/</url>
       
         <content type="html"><![CDATA[<h1 id="01"><a href="#01" class="headerlink" title="01"></a>01</h1><h1 id="03"><a href="#03" class="headerlink" title="03"></a>03</h1><p>冬令营回家后这几天的时间都花在这件事上了<br>莫名其妙比之前累了好多😑<br>不过总算搞定了<br>理综和学业摆在那里，也许开不了四级单词了😶</p><h1 id="04"><a href="#04" class="headerlink" title="04"></a>04</h1><p>数天不见，甚是思念<br>（假的一匹）</p><p>绝世默契[害羞]<br>爱死他了[亲亲]<br>顺道🐷列表各位新年快乐[啤酒]</p><h1 id="05"><a href="#05" class="headerlink" title="05"></a>05</h1><p>在家看柯南</p><h1 id="06"><a href="#06" class="headerlink" title="06"></a>06</h1><p>对生物失去动力</p><p>东海岸<br>（电量7%的挣扎</p><p>低龄化[微笑]</p><h1 id="07"><a href="#07" class="headerlink" title="07"></a>07</h1><p>当时差撞上了奇怪的行程。。。</p><p>一波黄色滤镜</p><p>Together</p><h1 id="08"><a href="#08" class="headerlink" title="08"></a>08</h1><h1 id="10"><a href="#10" class="headerlink" title="10"></a>10</h1><p>车位已满，太可怕了</p><h1 id="12"><a href="#12" class="headerlink" title="12"></a>12</h1><p>晚安[月亮]<br>期待明天[太阳]<br>🤔</p><h1 id="13"><a href="#13" class="headerlink" title="13"></a>13</h1><p>A CAPITALIST DAY WITH [太阳]<br>THE HAPPIEST DAY OF WINTER VACATION 🍭</p><h1 id="14"><a href="#14" class="headerlink" title="14"></a>14</h1><p>“年满十六岁的骄傲”</p><h1 id="16"><a href="#16" class="headerlink" title="16"></a>16</h1><p>New Blog</p><h1 id="17"><a href="#17" class="headerlink" title="17"></a>17</h1><p>A Whole New Term [奋斗]</p><h1 id="23"><a href="#23" class="headerlink" title="23"></a>23</h1><p>想了许久，还是把开学第一周的想法记录下来<br>¹终于坐回了久违的第一排，不过小哲中止了我和她关于不换同桌的约定，但我猜是她出于班上比较复杂的关系而做出的隐性选择。和新的同桌并没有一开始想象的不适应，相处得很好，“你和mq水平差不多，你们该多交流学习。”，的确有个势均力敌的同桌（jm也很nb[捂脸]）更激励我用功。<br>²“走了两个，你完全有机会冲我们班尖子的。”也是，既然阿非和他同桌去了21，我更要让我的班排往前挪。定了个目标，希望至少能实现一次。这算是这学期每次考试的阶段性动力吧。<br>³“要知道，学校很有可能再办一个理科培优班，希望你想进。”那是当然，这算得上，前途，吧。在某些客观因素还有“我应该为自己而努力”这个主观因素的影响下，我放弃了原先的动力。新的动力主要是寒假以来发生的一系列事情所带给我的思考，让我产生了去这个班的一个目的，和几个要好的朋友（请你们为我保密）说了，能公开的就是我想冒一个险。这是促使我这学期所有考试都要奋斗，保持上学期的发挥，这学期放手一搏的长久动力。<br>⁴他告诉了我一个秘密，算是证明了我一个一直以来的想法。因为我要保守秘密，所以有些你们无法理解的事情我无法对你们讲清楚，也请你们不要总是乱猜测。我和他还是彼此最好的companion，更要做兄弟。寒假第一天晚上我的很多想法现在想起来是对的，我有一片刻的冷静让我明白了我到底需要什么样的人。这件事情让我不禁联想到郑渊洁一篇童话，希望我会是那个结局之一。</p><p>“宇宙无垠<br>总有几颗星为你而亮<br>不仅最亮的那一颗<br>每一颗的光辉都值得你凝望”</p><p>（等等，我的生物钟啊！</p><h1 id="28"><a href="#28" class="headerlink" title="28"></a>28</h1><p>The end of Feb.<br>随手乱拍</p><p>单独一条</p>]]></content>
       
@@ -1159,8 +1086,8 @@
     
     <entry>
       <title>19-01 月记</title>
-      <link href="posts/52827/"/>
-      <url>posts/52827/</url>
+      <link href="posts/5282/"/>
+      <url>posts/5282/</url>
       
         <content type="html"><![CDATA[<h1 id="01"><a href="#01" class="headerlink" title="01"></a>01</h1><p>新年快乐吧！</p><h1 id="26"><a href="#26" class="headerlink" title="26"></a>26</h1><p>金山五日游<br>能和他做一回上下铺和同桌，这学期没有遗憾了😘</p><h1 id="28"><a href="#28" class="headerlink" title="28"></a>28</h1><p>Morning，world.</p><h1 id="29"><a href="#29" class="headerlink" title="29"></a>29</h1><h1 id="31"><a href="#31" class="headerlink" title="31"></a>31</h1>]]></content>
       
@@ -1188,8 +1115,8 @@
     
     <entry>
       <title>18-12 月记</title>
-      <link href="posts/46866/"/>
-      <url>posts/46866/</url>
+      <link href="posts/4686/"/>
+      <url>posts/4686/</url>
       
         <content type="html"><![CDATA[<h1 id="01"><a href="#01" class="headerlink" title="01"></a>01</h1><p>和塬的第一张合影）<br>兄弟加油啊，我等着你的星爸爸呢[咖啡]</p><h1 id="08"><a href="#08" class="headerlink" title="08"></a>08</h1><p>S . K . Y</p><p>①实验室 ，下课洗个手假装自己做了实验[捂脸]<br>②P1：班排第一场，从25：26到28：26的刺激，拜远贵的逆向乌鸦嘴所赐，开门红而且这周三场比赛大获全胜，不愧是我给买早餐的排球队（强行扯上关系[奸笑]）。不过为什么会有这种因为紧张和怕被球砸到就靠在我身上的班主任。。。<br>③高考调研写到万念俱灰-4个多小时写了大本的一个课时<br>④P2：用蓝笔写作业真舒服（模仿嘉健巨神）<br>⑤喜欢洗衣液带来的xwy不散的感觉<br>⑥P3：作为期中考语文全班第三拿了本读后感集（膜一下各路神仙），语文真是个考试纯靠运气的科目[机智]<br>⑦P4（这是一张一千多块的照片[红包]）：理科越来越让我绝望了，还是乖乖把课外练习买了吧。不过我还没刷题呢就被小哲说“不要整天就只会刷题不会总结”</p><h1 id="15"><a href="#15" class="headerlink" title="15"></a>15</h1><p>不想写名字的后果</p><p>这是一篇拖了两个小时的周更~<br>①忘记带眼镜，上课看着锐度为负的PPT和板书真心难受。😭让老爸送来了眼镜，顺便把电池抱恙的⌚换了。<br>②0教室和宿舍散发的诱人的土豆泥的味道让我剁了两盒，好吃是好吃，味道极其浓郁，但吃着心疼啊。给某人冲了一盒，结果某人居然不吃，太没意思了。🙃<br>③星期三完成排球队早餐采购后，排在后面的学弟发出一声感叹：“十几个人终于排完了！”😂<br>④投篮真让我绝望，50个定点只进了3个，渣死了；王合的俯卧撑训练，刺激。😐<br>⑤把iPod的充电线弄丢了😥，没得充电，没有闹钟，痛苦；回到家插上那条连编织网都破了的充电线，点亮屏幕，播出第一首歌时，😝。<br>⑥终于搞定了字帖和短文填空。😇<br>⑦写给排球赛：要给比赛前训练了好几个月的队员们点赞，说起来我好像也没去看过她们训练（惭愧）。“死亡小组”的称号果然不是吹的（到处都能听到其他班的议论），虽然在四强赛中输给了16班，但其他的5场比赛19班的女排超棒的！第三名，很棒了啊！“我来！”、“没有关<del>xī</del>”、“一<del>点</del>关<del>xī</del>都没有~”、“19班！加油！”、“好发！”、“好接！”、“好球！”、“HOGIUA!”……队员之间的相互鼓励与安慰，n体委、w几何、c化表、c英表还有其他所有人的呐喊助威，真的感觉19班是个凝聚力很强的集体。十九独尊，扫定乾坤！</p><h1 id="22"><a href="#22" class="headerlink" title="22"></a>22</h1><p>①星期天晚上换了座位，真是的，我还没把靠窗的椅子捂热和享受柜子呢。不过阿非坐在我旁边，开心<br>②我在无烟学校捡烟头<br>③花了三天补完了高考调研的第二章，那三个专题简直就不是给人写的<br>④托各种聚汤圆的福，又是连A栋一楼都要排队的日子，不过谢谢pz帮我站了各位，感动<br>⑤体验伪留宿生活，差点没反应到高三放学了。补了不少作业吧，但还是没补完<br>⑥时隔n个月再次和塬去吃临食<br>⑦本周单曲循环😶</p><h1 id="30"><a href="#30" class="headerlink" title="30"></a>30</h1><p>P1：社徽掉了块漆，索性强迫症刮掉了全部，顺便刻上了纹理<br>P2：花了一个中午找雨伞：落在小卖部，然后被某个无脑女生拿走了，翻遍了整栋高一楼找不到，绝望之际走到高二1班门口，欸熟悉的颜色和手柄，翻过来，熟悉的黄色标签，YEAH！<br>P3：什么乱七八糟口味<br>P4：Merry Christmas！<br>P5：两年的新晚都忘记带眼镜。去年至少还能偷溜回去拿，今年被挤得动不了，只能坚持新晚建立U势的传统了，效率居然还出奇的高，两个小时解决了两张周练，海星<br>P6：凑图。塬塬赐我补完11面高调的力量吧[爱心]</p><h1 id="31"><a href="#31" class="headerlink" title="31"></a>31</h1><p>hOt dOg</p>]]></content>
       
@@ -1217,8 +1144,8 @@
     
     <entry>
       <title>18-11 月记</title>
-      <link href="posts/41554/"/>
-      <url>posts/41554/</url>
+      <link href="posts/4155/"/>
+      <url>posts/4155/</url>
       
         <content type="html"><![CDATA[<h1 id="03"><a href="#03" class="headerlink" title="03"></a>03</h1><p>放学冒着站着回家的风险和儿子一起走，不过事实证明还是能坐的（挑不了位置不爽），顺便体验了一回金中公交车和潮实幼儿园校车高速公路竞速</p><p>iPod的30w像素真感人，还贴心地抹掉了紫色，我还得盖一个紫色滤镜上去。。。（台风前的傍晚）</p><p>①发烧说来就来，在家休养了半天，顺带多浪了半天[跳跳]<br>②翻生物课本都能被割到手指，真佩服我自己<br>③橡皮屑跑到kindle屏幕缝里去了，抠半天抠不出来，一怒之下把前面板暴力翘了出来，这家伙真是个胶水怪物。。。还用超强胶水。。。手残把密封胶带撕了，面板松松垮垮简直是逼死强迫症的节奏。。。居然还得给我的kindle贴上双面胶<br>④塬真是我的酸奶担当[太阳]，顺便晾一下我的小yuán卡（请莫在意P1的30w感人画质）。谢谢他来帮他爸爸换座位哈，不过我对现在的座位很不爽[困]<br>⑤发糖了~谢谢Miss Fang送的甜点s[玫瑰]（唔被我立马一口吃掉了），P2中间那四行（一点都不）丑字是我涂上去的[猪头]<br>⑥时间过得真快啊，一个月就这么过去了，感觉Miss Fang刚来没多久，这周末就要走了啊[可怜]。。。还给我们班每个人送了个纪念品（P3），定！制！的！真的感动哇！听到“每个上面有你们自己的名字，下课自己来领”，全班都惊了啊[害羞]，祝她能在一所自己喜欢的学校当上一名棒极了的老师！[小狗]</p><h1 id="10"><a href="#10" class="headerlink" title="10"></a>10</h1><p>This morning.</p><p>带了相机凑图就简单多了[阴险]，不过某些吃饱了撑的家伙开始抓相机了[擦汗]。。。<br>P1：终于找到iPod光速掉电的原因了，解决之后一整天都有电真舒服，再也不用一天N充或者用充电宝听歌了（误）[坏笑]。<br>P2：体验了一把kindle的自定义字体功能，换个手写体看Steve Jobs真爽。<br>P3：久违的一食煎蛋（拍摄角度差评），久违的临食卤味（没有鸡排差评），久违的鸡肉盖饭（没有牛肉意面差评）。<br>P4：用Onedrive的直链下载来搭建博客的文件分享页真棒。<br>P5：Nothing want to say.<br>P6：小卖部联网（据说由于某个sd高一在某主面前干类似的事情被抓，导致高一已禁kindle，，，千万别殃及高二）的时候，自动给我推送了5.10系统，电量增加了百分比显示，四大金刚键增加了中文名称显示，主页增加了“你知道吗”，还行。但，是，，把电子书字体弄成这样几个意思？？？还偏偏只有.azw3格式出问题，.mobi就好端端的，亏我还那么支持.azw3，，，还是乖乖把电子书弄成.mobi好了[鄙视]。<br>P7：一大叠卡，一大堆白色污染（划掉）。话说刷豆浆时像连连看一样地刷饭卡爽翻[机智]，顺便谢谢小超超帮我提豆浆和挂上去[愉快]。<br>P8：C219的剪影s.①6:45开始晚修那天6:20的教室。②晚修政治5P（不是）。③为什么会有这种把指示剂直接滴试剂瓶里的笨蛋（虽然挺好看的）。④Two DLs’ show time.⑤物理科代表的少女心。⑥还是物表，令人受宠若惊的褒奖[发抖]。（不就多了半道物理选择题的分吗，，，）⑦5:55的教学楼[哈欠]。<br>P9：日常啰嗦。</p><h1 id="11"><a href="#11" class="headerlink" title="11"></a>11</h1><p>11.11的精神粮食[咖啡]</p><p>昨晚第一次补作业补到1点（但连语文都没补完[流泪]），到了资源的下载时间段了，就把自己想要的（还有给塬的光棍节礼物）那几本书弄下来了（这三本还得自己加cover差评）</p><p>①IIII的肉体粮食（强烈安利黑松露薄脆！）<br>②11+11=22（令人讨厌的排片时间，发张海报假装自己看过了）<br>③给塬的光棍节礼物</p><h1 id="17"><a href="#17" class="headerlink" title="17"></a>17</h1><p>哈，同桌回来了，上课终于有人能聊骚了[皱眉]</p><p>①养生之课<br>②奇异生物（请无视手动虚化背景）<br>③绝望[流泪]<br>④实验课撸的LED<br>⑤两次跟结婚证炫耀了塬的酸奶[爱心]<br>⑥某节英语课：<br>脑洞大开的远贵:”Changjun, can you retell this story?”<br>连书都没翻开的我:”Sorry I can’t.”（一脸坏笑）<br>远贵（没听清）:”Can you retell the story?”（日常重复问题）<br>我（提高音量）:”No I can’t!”<br>远贵（一脸无奈）:”OK, sit down please. Siqian, canyou retell this story…”<br>（再次一脸坏笑）</p><h1 id="18"><a href="#18" class="headerlink" title="18"></a>18</h1><p>新的一天，，，<br>终于把论文肝完了，，，<br>虽然仓促之下copy了很多，，，<br>（解脱的组长）</p><h1 id="24"><a href="#24" class="headerlink" title="24"></a>24</h1><p>①弱珂大佬的BUFF[发抖]<br>②给小超超过了生日，16岁了，天天开心[蛋糕]<br>③哈，我的小K回来了[太阳]</p>]]></content>
       
@@ -1248,8 +1175,8 @@
     
     <entry>
       <title>18-10 月记</title>
-      <link href="posts/28307/"/>
-      <url>posts/28307/</url>
+      <link href="posts/2830/"/>
+      <url>posts/2830/</url>
       
         <content type="html"><![CDATA[<h1 id="01"><a href="#01" class="headerlink" title="01"></a>01</h1><p>Start，Flag</p><p>COMPANION</p><h1 id="02"><a href="#02" class="headerlink" title="02"></a>02</h1><p>开始自习室生活<br>好像得4年没来过了吧<br>看到这场面不知所措<br>还好占得到位子<br>顺便吐槽一下汕头公交的延时<br>明明在家看还有三个站<br>走到小区门口就看到它到站了<br>不过司机很好一直等到我冲到站<br>一下车车上几乎全部人都下了<br>都是来图书馆的[发抖]<br>啊，好好学习，好好学习，好好学习</p><p>同桌加油！<br>将来别忘了给我寄清华的明信片哦！<br>国庆后又要开始一个人上课的日子了[晕]</p><h1 id="03"><a href="#03" class="headerlink" title="03"></a>03</h1><p>The 400th day.[害羞]</p><h1 id="05"><a href="#05" class="headerlink" title="05"></a>05</h1><p>难得有一次搞定了Flag[流泪][流泪][流泪]</p><h1 id="13"><a href="#13" class="headerlink" title="13"></a>13</h1><p>2018第41周周更<br>又是一个连读的星期。<br>这星期比较长，事情比较多，所以能凑出一篇周更来，嘻嘻。当然，这亦是我博客的第一篇日志。<br>【感谢lipin同学提供的单反（我快把她烦死了）。不得不说，单反的清晰度看起来真·爽（不！不爽！我要浇灭这个败家的念头！）】</p><h1 id="14"><a href="#14" class="headerlink" title="14"></a>14</h1><p>换了个主题，舒服</p><h1 id="21"><a href="#21" class="headerlink" title="21"></a>21</h1><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/2018第42周/0001.jpg"></img></p><p>我觉得我还是养成每周一更的（好）习惯吧，把这东东当成周记来做，锻炼记忆力（？）。</p><p>好的，又扯远了。</p><h2 id="月考"><a href="#月考" class="headerlink" title="月考"></a>月考</h2><p>这星期首要的当然就是月考咯。这是我上高中以来发挥得最好的一次了（而且终于不是以该死的进步奖出现在级会的PPT上了），实现了尘封已久的目标，呼。我觉得几个原因还是可以总结一下的：</p><p>上星期刚开始因为一些事情觉得自己处理不好或者和自己的心意不符而搞得自己闷闷不乐，不过后来想明白了也就没事了。总的来说考试那几天心情还是不错的，毕竟每天和塬搞在一起（援引<code>peizhao</code>的原话，当然我是拒绝这种说法的）的时候是最棒的（￣︶￣）↗　！我爱我的塬儿:)</p><p>这次考试范围比较小，大部分只涉及到新学期教的东西。我自认为开学以来的状态很好，特别是能挤出时间来预习（顺带偷写作业体会全错的绝望），听课效果不错。而且国庆和塬去图书馆自习，没有在家荒废（唔），基本上把这学期学过的东西复习了一遍，效率和在学校差不多（嗯），考试前也基本有再复习一遍，考试时感觉还是卡拉OK（Guiglish）的。</p><p>我总觉得我吸跑了塬的欧气，让他这次发挥不好，so guity。还要谢谢班里各位神仙这次考试放水，把我推到班里第二【纵然有boost让我<code>脱胎换骨</code>（这个愚蠢的词到底是谁先说的……），还是打不动正常发挥的<code>辛boss</code>啊(⊙﹏⊙)】</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/2018第42周/0002.jpg"></img></p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/2018第42周/0003.jpg"></img></p><h3 id="语文"><a href="#语文" class="headerlink" title="语文"></a>语文</h3><p>成绩稳定在105±4，Just let it go(￣_,￣ )</p><h3 id="数学"><a href="#数学" class="headerlink" title="数学"></a>数学</h3><p>上星期的某节数学课，我正在补高考调研，连课本都没拿出来，这时，“2号，说一下这道题怎么做”，啊？？？哪道题？？？慌张中拿出课本，和数学老师尴尬对视，还好她没说什么（。当时我就想，我月考数学一定不能砸，要给她留个好印象，还好最终没有打脸，虽说非智力性失分还有14分，和African Brother还差了9分，但总归是班里第2，还行，，</p><h3 id="英语"><a href="#英语" class="headerlink" title="英语"></a>英语</h3><p>阅读连错4道，7选5错4道，WHAT THE HELL?!刷题越多，考得越烂？</p><h3 id="物理"><a href="#物理" class="headerlink" title="物理"></a>物理</h3><p>第一道题就崩了，6分啊啊啊；计算题思路没错，整道题的4都写成2，14分啊啊啊……我可以大言不惭地说：我物理本来可以100的……</p><h3 id="化学"><a href="#化学" class="headerlink" title="化学"></a>化学</h3><p>只比平均分多了1分，考的是高中倒数第二差的一次了，直接毁掉开学以来苦心营造的化学学得还不错的假象（；′д｀）ゞ</p><h3 id="生物"><a href="#生物" class="headerlink" title="生物"></a>生物</h3><p>我们班的生物真的恐怖，比如：班排比开学考退1名，级排退200+名；班排进5名，级排退53名（倒二光环）。</p><p>扯太多了，现在，目的已达，我要继续去浪了……</p><h2 id="公交卡"><a href="#公交卡" class="headerlink" title="公交卡"></a>公交卡</h2><p>上周充完公交卡把它绑在了大行李箱上，结果我拖去学校的是小行李箱，还好有peizhao和塬的卡来刷，但去学生处说明情况的时候遇到了一个理解能力极低的老师，我的天，她阅读理解应该0分吧，解释了半天，呼……</p><h2 id="16-5岁？"><a href="#16-5岁？" class="headerlink" title="16.5岁？"></a>16.5岁？</h2><p>这周三塬给我过了16.5岁生日（奇怪的约定），本来想一起上体育课的（我体检他体育），结果该死的雨…倒是很听话地什么都没送给我（嗯），据他托辞是信纸还没到，好吧，翘首以盼。（我没有用拭目以待，所以你必须给我写信 ￣へ￣ ）</p><h2 id="洗衣机"><a href="#洗衣机" class="headerlink" title="洗衣机"></a>洗衣机</h2><p>对了，糊里糊涂的被他的败家理论给说服了，居然开始用洗衣机了……有两次是一起洗的，然后衣服染上了他的衣服久褪不去的消毒水味，穿着那件上课有种他在我旁边阴魂不散的感觉(lll￢ω￢)。</p><h2 id="刷英语"><a href="#刷英语" class="headerlink" title="刷英语"></a>刷英语</h2><p>现在每当写作业感觉不在状态的时候，“写字帖吧”“写英语全优吧”，然后糊里糊涂的就放下了作业，糊里糊涂地写完了选修6……写字帖的时候还写到了一句，嗯，（secret）。</p><h2 id="体检"><a href="#体检" class="headerlink" title="体检"></a>体检</h2><p>嗯，的确不是全班最高的（也就差了1cm嘛），肺活量居然是全班最大的…</p><p>扯得差不多了吧，end.</p><p><em>——长风破浪会有时，直挂云帆济沧海</em></p><hr><p>终于把长长的GitHub二级域名换掉了，哈。（如果我在计划表里写整晚都在弄这个会不会被小哲打死~~）</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/2018第42周/0004.jpg"></img></p><iframe width="100%" height="0" scrolling="no" border="0" frameborder="no" framespacing="0" id="welcomeVideo"></iframe><h1 id="27"><a href="#27" class="headerlink" title="27"></a>27</h1><p>嗯，敷衍但满是真心话的一封信，还是很感动的。<br>但鉴于他昨天的所作所为，我就不夸他了🙃。<br>我们要一起努力，帮我实现我的愿望啊！<br>完。（我也来敷衍）<br>——吾已惰于思诗句</p>]]></content>
       
@@ -1279,8 +1206,8 @@
     
     <entry>
       <title>18-09 月记</title>
-      <link href="posts/37982/"/>
-      <url>posts/37982/</url>
+      <link href="posts/3798/"/>
+      <url>posts/3798/</url>
       
         <content type="html"><![CDATA[<h1 id="01"><a href="#01" class="headerlink" title="01"></a>01</h1><p>雨后金山顶</p><h1 id="09"><a href="#09" class="headerlink" title="09"></a>09</h1><p>缝得有点丑啊。。</p><h1 id="14"><a href="#14" class="headerlink" title="14"></a>14</h1><p>Quanyou of Required 5, done.</p><p>Dinner before typhoon.</p><h1 id="15"><a href="#15" class="headerlink" title="15"></a>15</h1><p>P1:Homework doing in typhoon.<br>P2:Together to a closed 24-hour-open bookstore.[捂脸]<br>P3:XWY’s second bizzare bike.</p><h1 id="16"><a href="#16" class="headerlink" title="16"></a>16</h1><p>挺住！</p><p>高级玩意儿</p><h1 id="23"><a href="#23" class="headerlink" title="23"></a>23</h1><p>啊为什么</p><p>试了下<br>一天背250个<br>好累啊</p><h1 id="24"><a href="#24" class="headerlink" title="24"></a>24</h1><p>中秋（补作业）快乐！</p><p>胡乱使用滤镜</p><h1 id="30"><a href="#30" class="headerlink" title="30"></a>30</h1><p>嘻嘻</p>]]></content>
       
@@ -1306,8 +1233,8 @@
     
     <entry>
       <title>18-08 月记</title>
-      <link href="posts/22687/"/>
-      <url>posts/22687/</url>
+      <link href="posts/2268/"/>
+      <url>posts/2268/</url>
       
         <content type="html"><![CDATA[<h1 id="08"><a href="#08" class="headerlink" title="08"></a>08</h1><p>真的不敢开窗了，才多久啊，积灰成这样，擦房间擦了一天累死了</p><h1 id="19"><a href="#19" class="headerlink" title="19"></a>19</h1><p>希望暑假结束前能突破1111吧[拳头]<br>话说我不就是把单词表里会的一些先[菜刀]掉，为什么会算进今天背的单词[擦汗]<br>但是你们应该记住这个数字（我也不知道为什么刚刚好是417[憨笑]</p><h1 id="29"><a href="#29" class="headerlink" title="29"></a>29</h1><p>刚刚好</p>]]></content>
       

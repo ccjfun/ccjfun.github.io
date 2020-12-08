@@ -565,6 +565,33 @@
   </entry>
   
   <entry>
+    <title>我们的19班</title>
+    <link href="http://ccjfun.cf/posts/eaaf/"/>
+    <id>http://ccjfun.cf/posts/eaaf/</id>
+    <published>2020-07-07T16:00:00.000Z</published>
+    <updated>2020-12-08T01:52:55.554Z</updated>
+    
+    <content type="html"><![CDATA[<p>我们的<code>19</code>班</p><hr><link href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-playlist-ui.min.css" rel="stylesheet" /><link href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video-js.css" rel="stylesheet" /><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-http-streaming.min.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-playlist.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-playlist-ui.min.js'></script><style>.player-container{background:#1a1a1a;overflow:auto;}@media only screen and (min-width: 1000px) {.video-js{float: left;width: 75%;}}@media only screen and (min-width: 1000px) {.vjs-playlist{float: right;width: 25%;max-height:500px;}}@media only screen and (max-width: 1000px) {.video-js{float: left;width: 100%;}}@media only screen and (max-width: 1000px) {.vjs-playlist{float: right;width: 100%;}}.vjs-playlist-item{border: 1px solid #FFFFFF;}.vjs-playlist .vjs-selected{border: 1px solid #00FF00;}.vjs-playlist .vjs-selected img{opacity: .5;}</style><div id="welcomeVideo" class="player-container"><video id="theVideo" class="video-js vjs-default-skin vjs-big-play-centered vjs-v7 vjs-user-active" width="100%" height="100%"></video><div class="vjs-playlist playlist-container" id="videolist"></div></div><script>  var w = document.getElementById("welcomeVideo").offsetWidth;  var myVideo = videojs('theVideo', {    loop: false,    controls: true,    preload: 'auto',    autoplay: false,    width: w,    height: 0.5625*w,    playbackRates: [0.5,1,1.5,2,3]  });  myVideo.playlist([  {name: '高一春季学期',sources: [{src: 'https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@latest/200708-Class19/g1s2/video.m3u8',type: 'application/x-mpegURL'}]},  {name: '2018.12.19班a人',sources: [{src: 'https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@latest/200708-Class19/181219alb/video.m3u8',type: 'application/x-mpegURL'}]},  {name: '高二上学期',sources: [{src: 'https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@latest/200708-Class19/g2s1/video.m3u8',type: 'application/x-mpegURL'}]},   {name: '鲤鱼跃龙门',sources: [{src: 'https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@latest/200708-Class19/ceego/video.m3u8',type: 'application/x-mpegURL'}]},   {name: 'A栋A人',sources: [{src: 'https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@latest/200708-Class19/daalb.mp4',type: 'video/mp4'}]},  {name: '我们是十九班',sources: [{src: 'https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@latest/200708-Class19/weR19/video.m3u8',type: 'application/x-mpegURL'}]}  ]);  myVideo.playlistUi();</script><hr>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;我们的&lt;code&gt;19&lt;/code&gt;班&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;link href=&quot;https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-playlist-ui.min.css&quot; rel=&quot;styl</summary>
+      
+    
+    
+    
+    <category term="视频" scheme="http://ccjfun.cf/categories/%E8%A7%86%E9%A2%91/"/>
+    
+    
+    <category term="高中" scheme="http://ccjfun.cf/tags/%E9%AB%98%E4%B8%AD/"/>
+    
+  </entry>
+  
+  <entry>
     <title>高三下 记录</title>
     <link href="http://ccjfun.cf/posts/52911/"/>
     <id>http://ccjfun.cf/posts/52911/</id>
@@ -591,33 +618,6 @@
     <category term="摄影" scheme="http://ccjfun.cf/tags/%E6%91%84%E5%BD%B1/"/>
     
     <category term="软件" scheme="http://ccjfun.cf/tags/%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>我们的19班</title>
-    <link href="http://ccjfun.cf/posts/eaaf/"/>
-    <id>http://ccjfun.cf/posts/eaaf/</id>
-    <published>2020-04-25T16:00:00.000Z</published>
-    <updated>2020-05-10T04:17:19.990Z</updated>
-    
-    <content type="html"><![CDATA[<p>我们的<code>19</code>班</p><hr><link href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-playlist-ui.min.css" rel="stylesheet" /><link href="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video-js.css" rel="stylesheet" /><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/video.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-http-streaming.min.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-playlist.js'></script><script src='https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-playlist-ui.min.js'></script><style>.player-container{background:#1a1a1a;overflow:auto;}@media only screen and (min-width: 1000px) {.video-js{float: left;width: 75%;}}@media only screen and (min-width: 1000px) {.vjs-playlist{float: right;width: 25%;max-height:500px;}}@media only screen and (max-width: 1000px) {.video-js{float: left;width: 100%;}}@media only screen and (max-width: 1000px) {.vjs-playlist{float: right;width: 100%;}}.vjs-playlist-item{border: 1px solid #FFFFFF;}.vjs-playlist .vjs-selected{border: 1px solid #00FF00;}.vjs-playlist .vjs-selected img{opacity: .5;}</style><div id="welcomeVideo" class="player-container"><video id="theVideo" class="video-js vjs-default-skin vjs-big-play-centered vjs-v7 vjs-user-active" width="100%" height="100%"></video><div class="vjs-playlist playlist-container" id="videolist"></div></div><script>  var w = document.getElementById("welcomeVideo").offsetWidth;  var myVideo = videojs('theVideo', {    loop: false,    controls: true,    preload: 'auto',    autoplay: false,    width: w,    height: 0.5625*w,    playbackRates: [0.5,1,1.5,2,3]  });  myVideo.playlist([  {name: '19班高一春季学期',sources: [{src: 'https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/videos/life/19班高一春季学期/video.m3u8',type: 'application/x-mpegURL'}]},   {name: '2018.12.19班a人',sources: [{src: 'https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/videos/life/2018.12.19班a人/video.m3u8',type: 'application/x-mpegURL'}]},   {name: 'A栋A人',sources: [{src: 'https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/videos/life/A栋A人.mp4',type: 'video/mp4'}]},  {sources: [{src: 'https://rnwdwsfj-my.sharepoint.com/personal/ccjfun_nide_men/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fccjfun%5Fnide%5Fmen%2FDocuments%2FVideos%2FFilms%2F%E6%98%9F%E6%88%98%2FStar%2EWars%2E9%2EThe%2ERise%2Eof%2ESkywalker%2E2019%2Ewebm',type: 'video/webm'}]}  ]);  myVideo.playlistUi();</script><hr>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;我们的&lt;code&gt;19&lt;/code&gt;班&lt;/p&gt;
-&lt;hr&gt;
-
-&lt;link href=&quot;https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/css-js/videojs-playlist-ui.min.css&quot; rel=&quot;styl</summary>
-      
-    
-    
-    
-    <category term="视频" scheme="http://ccjfun.cf/categories/%E8%A7%86%E9%A2%91/"/>
-    
-    
-    <category term="高中" scheme="http://ccjfun.cf/tags/%E9%AB%98%E4%B8%AD/"/>
     
   </entry>
   
@@ -767,7 +767,7 @@
     <link href="http://ccjfun.cf/posts/d698/"/>
     <id>http://ccjfun.cf/posts/d698/</id>
     <published>2020-03-04T16:00:00.000Z</published>
-    <updated>2020-12-08T00:35:11.551Z</updated>
+    <updated>2020-12-08T01:56:13.232Z</updated>
     
     <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><blockquote><p>本来百度云分享文件时都可以选择<code>私密(有提取码)</code>或<code>公开(无提取码)</code>。后来网页端只能分享私密，客户端还能无提取码。好嘛，现在连客户端也只能私密了。问题是我要分享的公开就行了，输提取码多此一举，还麻烦。</p></blockquote><p>So，我又要开始强力破解了~</p><h2 id="1"><a href="#1" class="headerlink" title="1."></a>1.</h2><p>打开网页版。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/1.jpg"></img></p><h2 id="2"><a href="#2" class="headerlink" title="2."></a>2.</h2><p>点击分享出现以下界面。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/2.jpg"></img></p><h2 id="3"><a href="#3" class="headerlink" title="3."></a>3.</h2><p>按键盘上的F12，出现以下界面。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/3.jpg"></img></p><h2 id="4"><a href="#4" class="headerlink" title="4."></a>4.</h2><p>点击右上角Element右边的Console，出现以下界面。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/4.jpg"></img></p><h2 id="5"><a href="#5" class="headerlink" title="5."></a>5.</h2><p>复制下面代码，粘贴，回车。</p><pre><code>if(document.getElementById(&quot;share-method-private&quot;))&#123;document.getElementById(&quot;share-method-private&quot;).value=&quot;public&quot;;alert(&quot;OK!点击“创建链接”生成公开链接!&quot;)&#125;</code></pre><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/5.jpg"></img></p><h2 id="6"><a href="#6" class="headerlink" title="6."></a>6.</h2><p>屏幕上方会出现提示。</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/6.jpg"></img></p><h2 id="7"><a href="#7" class="headerlink" title="7."></a>7.</h2><p>这时选择有效期后点击分享就能生成无提取码的链接啦~</p><p align="center"><img id="artimage" src="https://cdn.jsdelivr.net/gh/ccjpro/storage@latest/images/百度网盘无提取码，Show Yourself！/7.jpg"></img></p>]]></content>
     

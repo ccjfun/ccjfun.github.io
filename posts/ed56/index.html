@@ -288,10 +288,104 @@
 
 
 
-<main class="container content">
+<main class="post-container content">
 
     
-    <!-- 文章内容详情 -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ccjfun/ccjfun.github.io@latest/libs/tocbot/tocbot.css">
+<style>
+    #articleContent h1::before,
+    #articleContent h2::before,
+    #articleContent h3::before,
+    #articleContent h4::before,
+    #articleContent h5::before,
+    #articleContent h6::before {
+        display: block;
+        content: " ";
+        height: 100px;
+        margin-top: -100px;
+        visibility: hidden;
+    }
+
+    #articleContent :focus {
+        outline: none;
+    }
+
+    .toc-fixed {
+        position: fixed;
+        top: 64px;
+    }
+
+    .toc-widget {
+        width: 345px;
+        padding-left: 20px;
+    }
+
+    .toc-widget .toc-title {
+        padding: 35px 0 15px 17px;
+        font-size: 1.5rem;
+        font-weight: bold;
+        line-height: 1.5rem;
+    }
+
+    .toc-widget ol {
+        padding: 0;
+        list-style: none;
+    }
+
+    #toc-content {
+        padding-bottom: 30px;
+        overflow: auto;
+    }
+
+    #toc-content ol {
+        padding-left: 10px;
+    }
+
+    #toc-content ol li {
+        padding-left: 10px;
+    }
+
+    #toc-content .toc-link:hover {
+        color: #708090;
+        font-weight: 700;
+        text-decoration: underline;
+    }
+
+    #toc-content .toc-link::before {
+        background-color: transparent;
+        max-height: 25px;
+
+        position: absolute;
+        right: 23.5vw;
+        display: block;
+    }
+
+    #toc-content .is-active-link {
+        color: #708090;
+    }
+
+    #floating-toc-btn {
+        position: fixed;
+        right: 15px;
+        bottom: 76px;
+        padding-top: 15px;
+        margin-bottom: 0;
+        z-index: 998;
+    }
+
+    #floating-toc-btn .btn-floating {
+        width: 48px;
+        height: 48px;
+    }
+
+    #floating-toc-btn .btn-floating i {
+        line-height: 48px;
+        font-size: 1.4rem;
+    }
+</style>
+<div class="row">
+    <div id="main-content" class="col s12 m12 l9">
+        <!-- 文章内容详情 -->
 <div id="artDetail">
     <div class="card">
         <div class="card-content article-info">
@@ -350,7 +444,7 @@
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    494
+                    384
                 </div>
                 
 
@@ -380,44 +474,72 @@
 
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <h1 id="07"><a href="#07" class="headerlink" title="07"></a>07</h1><h2 id="08"><a href="#08" class="headerlink" title="08"></a>08</h2><p>这第一个出校门太尴尬了[汗]<br>（然后就在操场堵到40分[哈欠]）</p>
-<p>Names, memories.<br>It’s lucky to meet you, all.<br>Unwillingly but, Happy Graduation!</p>
-<h2 id="10"><a href="#10" class="headerlink" title="10"></a>10</h2><p>想吃开乐吧🙃<br>吃不到了，有点难受</p>
-<h2 id="13"><a href="#13" class="headerlink" title="13"></a>13</h2><p>看看我的笔记本还能不能再战四年[旺柴]</p>
-<h2 id="18"><a href="#18" class="headerlink" title="18"></a>18</h2><p>第一局玩到不想玩的罗刹方块[捂脸]</p>
-<h2 id="22"><a href="#22" class="headerlink" title="22"></a>22</h2><p>👀</p>
-<h2 id="24"><a href="#24" class="headerlink" title="24"></a>24</h2><p>今日外晃</p>
+                <h1 id="07"><a href="#07" class="headerlink" title="07"></a>07</h1><h2 id="08"><a href="#08" class="headerlink" title="08"></a>08</h2><p>这第一个出校门太尴尬了（然后就在操场堵到40分）</p>
 <ul>
-<li>重逢两个月未坐的轮渡[社会社会]</li>
-<li>度过两年最好时光的地方[好的]</li>
-<li>时隔三年再登飘然亭，累死但值了[旺柴]</li>
+<li>Names, memories.</li>
+<li>It’s lucky to meet you, all.</li>
+<li>Unwillingly but, Happy Graduation!</li>
 </ul>
-<h1 id="08-1"><a href="#08-1" class="headerlink" title="08"></a>08</h1><h2 id="07-1"><a href="#07-1" class="headerlink" title="07"></a>07</h2><p>√</p>
-<h2 id="09"><a href="#09" class="headerlink" title="09"></a>09</h2><h2 id="13-1"><a href="#13-1" class="headerlink" title="13"></a>13</h2><p>真香</p>
-<h2 id="16"><a href="#16" class="headerlink" title="16"></a>16</h2><p>华工，emmm</p>
-<p>搞点蛋挞压压惊</p>
-<p>离同济就差一分，wdnmd（</p>
-<h2 id="17"><a href="#17" class="headerlink" title="17"></a>17</h2><p>不幸中的万幸🤔</p>
-<h2 id="18-1"><a href="#18-1" class="headerlink" title="18"></a>18</h2><p>奇怪的体验+1<br>大雨天在大马路上换轮胎</p>
-<p>四年国际校区感觉很香</p>
-<h2 id="19"><a href="#19" class="headerlink" title="19"></a>19</h2><p>现在开始是正版玩家了[好的]</p>
-<p>我赌你们绝对猜不到我拿什么做的蹭饭图[旺柴]</p>
-<h2 id="20"><a href="#20" class="headerlink" title="20"></a>20</h2><p>今日份早餐<br>鳕鱼薯条乱炖+奶盖玄米茶<br>(只不过奶盖是沉在下面的[Emm]</p>
-<p>不得不说，时间过得真快</p>
-<p>心心念念的相机到手[好的]<br>买港行发了个国行给我，血赚[奸笑]<br>40x光变真的舒服</p>
-<h2 id="22-1"><a href="#22-1" class="headerlink" title="22"></a>22</h2><p>晚安[月亮]</p>
-<h2 id="23"><a href="#23" class="headerlink" title="23"></a>23</h2><p>挑战全网最简洁(han suan)录取通知书[Emm]</p>
-<p>杀青[吃瓜]<br>现在开始有我这个剪辑忙死的了[Emm]</p>
-<h2 id="24-1"><a href="#24-1" class="headerlink" title="24"></a>24</h2><p>[哇]</p>
-<h2 id="26"><a href="#26" class="headerlink" title="26"></a>26</h2><p>松了一口气[旺柴]<br>想想一星期前，我连Pr怎么创建项目都不会[捂脸]<br>谢谢xxx同学的催命鬼附体[奸笑]</p>
-<h2 id="28"><a href="#28" class="headerlink" title="28"></a>28</h2><p>我 关 我 自 己</p>
-<h2 id="30"><a href="#30" class="headerlink" title="30"></a>30</h2><p>二剪完毕<br>大刀砍掉了3分钟整<br>没错，我就是个强迫症🧐<br>感觉还是挺长</p>
-<p>（Pr 爆肝修炼者）</p>
-<h1 id="09-1"><a href="#09-1" class="headerlink" title="09"></a>09</h1><h2 id="01"><a href="#01" class="headerlink" title="01"></a>01</h2><p>感受40倍光变[吃瓜]</p>
-<h2 id="03"><a href="#03" class="headerlink" title="03"></a>03</h2><p>黑苹果YES[好的]</p>
-<p>Windows副屏也不是什么问题[吃瓜]</p>
-<h2 id="05"><a href="#05" class="headerlink" title="05"></a>05</h2><p>窝工宿舍一直看不了是我的锅(误)<br>开学前最后搞一次料理，本来想做薯条的，怕过火翻得有点快就成了土豆泥[捂脸]</p>
-<p><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/032.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/033.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/034.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/035.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/036.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/054.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/055.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/056.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/057.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/058.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/059.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/060.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/061.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/062.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/063.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/064.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/065.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/066.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/067.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/068.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/069.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/070.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/071.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/072.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/073.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/074.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/075.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/076.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/077.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/078.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/079.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/080.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/081.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/082.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/083.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/084.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/085.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/086.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/087.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/088.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/089.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/090.webp"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/032.webp"></p>
+<h2 id="10"><a href="#10" class="headerlink" title="10"></a>10</h2><ul>
+<li>想吃开乐吧🙃</li>
+<li>吃不到了，有点难受</li>
+</ul>
+<h2 id="13"><a href="#13" class="headerlink" title="13"></a>13</h2><p>看看我的笔记本还能不能再战四年[旺柴]<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/033.webp"></p>
+<h2 id="18"><a href="#18" class="headerlink" title="18"></a>18</h2><p>第一局玩到不想玩的罗刹方块[捂脸]<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/034.webp"></p>
+<h2 id="22"><a href="#22" class="headerlink" title="22"></a>22</h2><p>👀<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/035.webp"></p>
+<h1 id="08-1"><a href="#08-1" class="headerlink" title="08"></a>08</h1><h2 id="07-1"><a href="#07-1" class="headerlink" title="07"></a>07</h2><p>√<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/036.webp"></p>
+<h2 id="09"><a href="#09" class="headerlink" title="09"></a>09</h2><p><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/054.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/055.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/056.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/057.webp"></p>
+<h2 id="13-1"><a href="#13-1" class="headerlink" title="13"></a>13</h2><p>真香<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/058.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/059.webp"></p>
+<h2 id="16"><a href="#16" class="headerlink" title="16"></a>16</h2><ul>
+<li>华工，emmm</li>
+<li>搞点蛋挞压压惊</li>
+</ul>
+<p><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/060.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/061.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/062.webp"></p>
+<p>离同济就差一分，wd（</p>
+<h2 id="17"><a href="#17" class="headerlink" title="17"></a>17</h2><p>不幸中的万幸🤔<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/063.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/064.webp"></p>
+<h2 id="18-1"><a href="#18-1" class="headerlink" title="18"></a>18</h2><ul>
+<li>奇怪的体验+1</li>
+<li>大雨天在大马路上换轮胎</li>
+</ul>
+<h2 id="19"><a href="#19" class="headerlink" title="19"></a>19</h2><p>现在开始是正版玩家了[好的]<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/066.webp"><br>我赌你们绝对猜不到我拿什么做的蹭饭图<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/065.webp"></p>
+<h2 id="20"><a href="#20" class="headerlink" title="20"></a>20</h2><ul>
+<li>今日份早餐</li>
+<li>鳕鱼薯条乱炖+奶盖玄米茶(只不过奶盖是沉在下面的[Emm]</li>
+</ul>
+<p><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/067.webp"></p>
+<p>不得不说，时间过得真快<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/068.webp"></p>
+<ul>
+<li>心心念念的相机到手[好的]</li>
+<li>买港行发了个国行给我，血赚[奸笑]</li>
+<li>40x光变真的舒服</li>
+</ul>
+<p><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/069.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/070.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/071.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/072.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/073.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/074.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/075.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/076.webp"></p>
+<h2 id="23"><a href="#23" class="headerlink" title="23"></a>23</h2><p>挑战全网最简洁(han suan)录取通知书[Emm]<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/079.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/080.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/081.webp"></p>
+<ul>
+<li>杀青[吃瓜]</li>
+<li>现在开始有我这个剪辑忙死的了[Emm]</li>
+</ul>
+<p><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/077.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/078.webp"></p>
+<h2 id="24"><a href="#24" class="headerlink" title="24"></a>24</h2><p>哇~iPad Pro到手<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/084.webp"></p>
+<h2 id="26"><a href="#26" class="headerlink" title="26"></a>26</h2><ul>
+<li>松了一口气[旺柴]</li>
+<li>想想一星期前，我连Pr怎么创建项目都不会[捂脸]</li>
+<li>谢谢xxx同学的催命鬼附体[奸笑]</li>
+</ul>
+<p><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/082.webp"></p>
+<h2 id="28"><a href="#28" class="headerlink" title="28"></a>28</h2><p>我 关 我 自 己<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/083.webp"></p>
+<h2 id="30"><a href="#30" class="headerlink" title="30"></a>30</h2><ul>
+<li>二剪完毕</li>
+<li>大刀砍掉了3分钟整</li>
+<li>没错，我就是个强迫症🧐</li>
+<li>感觉还是挺长</li>
+<li></li>
+<li>（Pr 爆肝修炼者）</li>
+</ul>
+<p><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/085.webp"></p>
+<h1 id="09-1"><a href="#09-1" class="headerlink" title="09"></a>09</h1><h2 id="01"><a href="#01" class="headerlink" title="01"></a>01</h2><p>感受40倍光变[吃瓜]<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/086.webp"></p>
+<h2 id="03"><a href="#03" class="headerlink" title="03"></a>03</h2><p>黑苹果YES[好的]<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/087.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/088.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/089.webp"><br>Windows副屏也不是什么问题[吃瓜]<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjohny.github.io@master/200905-CEESummer/090.webp"></p>
 
                 
             </div>
@@ -933,6 +1055,100 @@
 <script type="text/javascript" src="/libs/codeBlock/codeShrink.js"></script>
 
 
+    </div>
+    <div id="toc-aside" class="expanded col l3 hide-on-med-and-down">
+        <div class="toc-widget card" style="background-color: white;">
+            <div class="toc-title"><i class="far fa-list-alt"></i>&nbsp;&nbsp;目录</div>
+            <div id="toc-content"></div>
+        </div>
+    </div>
+</div>
+
+<!-- TOC 悬浮按钮. -->
+
+<div id="floating-toc-btn" class="hide-on-med-and-down">
+    <a class="btn-floating btn-large bg-color">
+        <i class="fas fa-list-ul"></i>
+    </a>
+</div>
+
+
+<script src="https://cdn.jsdelivr.net/gh/ccjfun/ccjfun.github.io@latest/libs/tocbot/tocbot.min.js"></script>
+<script>
+    $(function () {
+        tocbot.init({
+            tocSelector: '#toc-content',
+            contentSelector: '#articleContent',
+            headingsOffset: -($(window).height() * 0.4 - 45),
+            collapseDepth: Number('2'),
+            headingSelector: 'h1, h2, h3, h4'
+        });
+
+        // modify the toc link href to support Chinese.
+        let i = 0;
+        let tocHeading = 'toc-heading-';
+        $('#toc-content a').each(function () {
+            $(this).attr('href', '#' + tocHeading + (++i));
+        });
+
+        // modify the heading title id to support Chinese.
+        i = 0;
+        $('#articleContent').children('h1, h2, h3, h4').each(function () {
+            $(this).attr('id', tocHeading + (++i));
+        });
+
+        // Set scroll toc fixed.
+        let tocHeight = parseInt($(window).height() * 0.4 - 64);
+        let $tocWidget = $('.toc-widget');
+        $(window).scroll(function () {
+            let scroll = $(window).scrollTop();
+            /* add post toc fixed. */
+            if (scroll > tocHeight) {
+                $tocWidget.addClass('toc-fixed');
+            } else {
+                $tocWidget.removeClass('toc-fixed');
+            }
+        });
+
+        
+        /* 修复文章卡片 div 的宽度. */
+        let fixPostCardWidth = function (srcId, targetId) {
+            let srcDiv = $('#' + srcId);
+            if (srcDiv.length === 0) {
+                return;
+            }
+
+            let w = srcDiv.width();
+            if (w >= 450) {
+                w = w + 21;
+            } else if (w >= 350 && w < 450) {
+                w = w + 18;
+            } else if (w >= 300 && w < 350) {
+                w = w + 16;
+            } else {
+                w = w + 14;
+            }
+            $('#' + targetId).width(w);
+        };
+
+        // 切换TOC目录展开收缩的相关操作.
+        const expandedClass = 'expanded';
+        let $tocAside = $('#toc-aside');
+        let $mainContent = $('#main-content');
+        $('#floating-toc-btn .btn-floating').click(function () {
+            if ($tocAside.hasClass(expandedClass)) {
+                $tocAside.removeClass(expandedClass).hide();
+                $mainContent.removeClass('l9');
+            } else {
+                $tocAside.addClass(expandedClass).show();
+                $mainContent.addClass('l9');
+            }
+            fixPostCardWidth('artDetail', 'prenext-posts');
+        });
+        
+    });
+</script>
+
     
 
 </main>
@@ -953,7 +1169,7 @@
             <br>
             
             &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                class="white-color">22k</span>&nbsp;字
+                class="white-color">21.8k</span>&nbsp;字
             
             
             

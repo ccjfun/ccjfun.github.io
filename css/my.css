@@ -1,7 +1,7 @@
 /* Here is your custom css styles. */
 @font-face{
     font-family: 'rhrc';
-    src: url(https://cdn.jsdelivr.net/gh/ccjpro/resources/rhrc.ttf);
+    src: url(https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/rhrc.ttf);
 }
 
 /** 表示全局使用，如果不想全局使用不要添加该段 */

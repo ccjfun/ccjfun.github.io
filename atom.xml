@@ -130,13 +130,13 @@
     <category term="日记" scheme="http://ccjfun.cf/categories/%E6%97%A5%E8%AE%B0/"/>
     
     
+    <category term="手机" scheme="http://ccjfun.cf/tags/%E6%89%8B%E6%9C%BA/"/>
+    
     <category term="生活" scheme="http://ccjfun.cf/tags/%E7%94%9F%E6%B4%BB/"/>
     
     <category term="摄影" scheme="http://ccjfun.cf/tags/%E6%91%84%E5%BD%B1/"/>
     
     <category term="数码" scheme="http://ccjfun.cf/tags/%E6%95%B0%E7%A0%81/"/>
-    
-    <category term="手机" scheme="http://ccjfun.cf/tags/%E6%89%8B%E6%9C%BA/"/>
     
   </entry>
   
@@ -160,6 +160,8 @@
     <category term="日记" scheme="http://ccjfun.cf/categories/%E6%97%A5%E8%AE%B0/"/>
     
     
+    <category term="手机" scheme="http://ccjfun.cf/tags/%E6%89%8B%E6%9C%BA/"/>
+    
     <category term="生活" scheme="http://ccjfun.cf/tags/%E7%94%9F%E6%B4%BB/"/>
     
     <category term="摄影" scheme="http://ccjfun.cf/tags/%E6%91%84%E5%BD%B1/"/>
@@ -167,8 +169,6 @@
     <category term="数码" scheme="http://ccjfun.cf/tags/%E6%95%B0%E7%A0%81/"/>
     
     <category term="潮汕" scheme="http://ccjfun.cf/tags/%E6%BD%AE%E6%B1%95/"/>
-    
-    <category term="手机" scheme="http://ccjfun.cf/tags/%E6%89%8B%E6%9C%BA/"/>
     
     <category term="华工影忆 CMOS" scheme="http://ccjfun.cf/tags/%E5%8D%8E%E5%B7%A5%E5%BD%B1%E5%BF%86-CMOS/"/>
     
@@ -218,6 +218,8 @@
     <category term="日记" scheme="http://ccjfun.cf/categories/%E6%97%A5%E8%AE%B0/"/>
     
     
+    <category term="手机" scheme="http://ccjfun.cf/tags/%E6%89%8B%E6%9C%BA/"/>
+    
     <category term="生活" scheme="http://ccjfun.cf/tags/%E7%94%9F%E6%B4%BB/"/>
     
     <category term="摄影" scheme="http://ccjfun.cf/tags/%E6%91%84%E5%BD%B1/"/>
@@ -225,8 +227,6 @@
     <category term="数码" scheme="http://ccjfun.cf/tags/%E6%95%B0%E7%A0%81/"/>
     
     <category term="美食" scheme="http://ccjfun.cf/tags/%E7%BE%8E%E9%A3%9F/"/>
-    
-    <category term="手机" scheme="http://ccjfun.cf/tags/%E6%89%8B%E6%9C%BA/"/>
     
   </entry>
   
@@ -313,7 +313,7 @@
     <link href="http://ccjfun.cf/posts/3b0c/"/>
     <id>http://ccjfun.cf/posts/3b0c/</id>
     <published>2020-10-20T11:02:00.000Z</published>
-    <updated>2020-12-14T05:53:26.388Z</updated>
+    <updated>2021-01-23T10:30:06.712Z</updated>
     
     <content type="html"><![CDATA[<link href="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist-ui.min.css" rel="stylesheet"></link><link href="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/video-js.css" rel="stylesheet"></link><script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/video.js'></script><script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-http-streaming.min.js'></script><script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist.js'></script><script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist-ui.min.js'></script><p><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201020-CasPicAlb/113.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201020-CasPicAlb/114.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201020-CasPicAlb/115.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201020-CasPicAlb/116.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201020-CasPicAlb/117.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201020-CasPicAlb/118.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201020-CasPicAlb/119.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201020-CasPicAlb/120.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201020-CasPicAlb/121.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201020-CasPicAlb/122.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201020-CasPicAlb/123.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201020-CasPicAlb/124.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201020-CasPicAlb/125.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201020-CasPicAlb/126.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201020-CasPicAlb/127.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201020-CasPicAlb/128.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201020-CasPicAlb/129.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201020-CasPicAlb/130.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201020-CasPicAlb/131.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201020-CasPicAlb/132.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201020-CasPicAlb/133.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201020-CasPicAlb/134.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201020-CasPicAlb/135.webp"></p><video id="welcomeVideo" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">      <source id="source" src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/201020-CasPicAlb/c54810ba865db05f3421fdc80fedb943.mp4" type="video/mp4"></video><script>  var w = document.getElementById("welcomeVideo").parentNode.offsetWidth;  var myVideo = videojs('welcomeVideo', {    loop: false,    controls: true,    preload: 'auto',    autoplay: false,    width: w,    height: 0.5625*w,    playbackRates: [0.5,1,1.5,2,3],  })</script><video id="welcomeVideo2" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">      <source id="source" src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/201020-CasPicAlb/5d1c2ea45cdb6ba7b57859f5665cef92.mp4" type="video/mp4"></video><script>  var w2 = document.getElementById("welcomeVideo2").parentNode.offsetWidth;  var myVideo = videojs('welcomeVideo2', {    loop: false,    controls: true,    preload: 'auto',    autoplay: false,    width: w2,    height: 0.5625*w2,    playbackRates: [0.5,1,1.5,2,3],  })</script><video id="welcomeVideo3" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">      <source id="source" src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/201020-CasPicAlb/56ce16163d531d6ee3b58c6c6b1467cf.mp4" type="video/mp4"></video><script>  var w3 = document.getElementById("welcomeVideo3").parentNode.offsetWidth;  var myVideo = videojs('welcomeVideo3', {    loop: false,    controls: true,    preload: 'auto',    autoplay: false,    width: w3,    height: 0.5625*w3,    playbackRates: [0.5,1,1.5,2,3],  })</script><video id="welcomeVideo4" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">      <source id="source" src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/201020-CasPicAlb/e92c45d05e3f9b540e5bca97d265c3fe.mp4" type="video/mp4"></video><script>  var w4 = document.getElementById("welcomeVideo4").parentNode.offsetWidth;  var myVideo = videojs('welcomeVideo4', {    loop: false,    controls: true,    preload: 'auto',    autoplay: false,    width: w4,    height: 0.5625*w4,    playbackRates: [0.5,1,1.5,2,3],  })</script><video id="welcomeVideo5" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">      <source id="source" src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/201020-CasPicAlb/8ff0181cfd2f4067105bafdb0145248b.mp4" type="video/mp4"></video><script>  var w5 = document.getElementById("welcomeVideo5").parentNode.offsetWidth;  var myVideo = videojs('welcomeVideo5', {    loop: false,    controls: true,    preload: 'auto',    autoplay: false,    width: w5,    height: 0.5625*w5,    playbackRates: [0.5,1,1.5,2,3],  })</script>]]></content>
     
@@ -330,6 +330,8 @@
     <category term="日记" scheme="http://ccjfun.cf/categories/%E6%97%A5%E8%AE%B0/"/>
     
     
+    <category term="手机" scheme="http://ccjfun.cf/tags/%E6%89%8B%E6%9C%BA/"/>
+    
     <category term="摄影" scheme="http://ccjfun.cf/tags/%E6%91%84%E5%BD%B1/"/>
     
     <category term="数码" scheme="http://ccjfun.cf/tags/%E6%95%B0%E7%A0%81/"/>
@@ -337,8 +339,6 @@
     <category term="汽车" scheme="http://ccjfun.cf/tags/%E6%B1%BD%E8%BD%A6/"/>
     
     <category term="飞机" scheme="http://ccjfun.cf/tags/%E9%A3%9E%E6%9C%BA/"/>
-    
-    <category term="手机" scheme="http://ccjfun.cf/tags/%E6%89%8B%E6%9C%BA/"/>
     
   </entry>
   
@@ -373,14 +373,17 @@
     <link href="http://ccjfun.cf/posts/949a/"/>
     <id>http://ccjfun.cf/posts/949a/</id>
     <published>2020-10-02T15:19:00.000Z</published>
-    <updated>2020-12-14T06:05:47.561Z</updated>
+    <updated>2021-01-23T10:29:38.002Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/099.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/100.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/101.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/102.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/103.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/104.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/105.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/106.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/107.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/108.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/109.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/110.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/111.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/112.webp"></p><link href="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist-ui.min.css" rel="stylesheet"></link><link href="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/video-js.css" rel="stylesheet"></link><script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/video.js'></script><script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-http-streaming.min.js'></script><script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist.js'></script><script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist-ui.min.js'></script><video id="welcomeVideo" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">      <source id="source" src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/201002-CanFeel/canfeel/video.m3u8" type="application/x-mpegURL"></video><script>  var w = document.getElementById("welcomeVideo").parentNode.offsetWidth;  var myVideo = videojs('welcomeVideo', {    loop: false,    controls: true,    preload: 'auto',    autoplay: false,    width: w,    height: 0.5625*w,    playbackRates: [0.5,1,1.5,2,3],  })</script>]]></content>
+    <content type="html"><![CDATA[<p>这里是广州<br>Here is Canton</p><p>我开始大学四年的城市<br>Where my university located</p><p>为了了解它<br>To touch it</p><p>我和我的伙伴<br>My partners and I</p><p>带上相机<br>Pick up our cameras</p><p>探寻我们的广州印象<br>Go and find our Canton Feeling</p><p>iPad拍摄+剪辑+发布の尝试</p><p><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/099.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/100.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/101.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/102.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/103.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/104.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/105.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/106.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/107.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/108.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/109.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/110.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/111.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/112.webp"></p><link href="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist-ui.min.css" rel="stylesheet"></link><link href="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/video-js.css" rel="stylesheet"></link><script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/video.js'></script><script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-http-streaming.min.js'></script><script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist.js'></script><script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist-ui.min.js'></script><video id="welcomeVideo" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">      <source id="source" src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/201002-CanFeel/canfeel/video.m3u8" type="application/x-mpegURL"></video><script>  var w = document.getElementById("welcomeVideo").parentNode.offsetWidth;  var myVideo = videojs('welcomeVideo', {    loop: false,    controls: true,    preload: 'auto',    autoplay: false,    width: w,    height: 0.5625*w,    playbackRates: [0.5,1,1.5,2,3],  })</script>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/099.webp&quot;&gt;&lt;br&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/CCJoh</summary>
+    <summary type="html">&lt;p&gt;这里是广州&lt;br&gt;Here is Canton&lt;/p&gt;
+&lt;p&gt;我开始大学四年的城市&lt;br&gt;Where my university located&lt;/p&gt;
+&lt;p&gt;为了了解它&lt;br&gt;To touch it&lt;/p&gt;
+&lt;p&gt;我和我的伙伴&lt;br&gt;My partners and I&lt;/</summary>
       
     
     
@@ -390,13 +393,13 @@
     
     <category term="摄影" scheme="http://ccjfun.cf/tags/%E6%91%84%E5%BD%B1/"/>
     
+    <category term="飞机" scheme="http://ccjfun.cf/tags/%E9%A3%9E%E6%9C%BA/"/>
+    
     <category term="美食" scheme="http://ccjfun.cf/tags/%E7%BE%8E%E9%A3%9F/"/>
     
     <category term="广州" scheme="http://ccjfun.cf/tags/%E5%B9%BF%E5%B7%9E/"/>
     
     <category term="旅行" scheme="http://ccjfun.cf/tags/%E6%97%85%E8%A1%8C/"/>
-    
-    <category term="飞机" scheme="http://ccjfun.cf/tags/%E9%A3%9E%E6%9C%BA/"/>
     
   </entry>
   
@@ -522,7 +525,7 @@
     <link href="http://ccjfun.cf/posts/3758/"/>
     <id>http://ccjfun.cf/posts/3758/</id>
     <published>2020-09-11T06:49:00.000Z</published>
-    <updated>2020-12-14T06:03:50.996Z</updated>
+    <updated>2021-01-23T10:20:16.266Z</updated>
     
     <content type="html"><![CDATA[<link href="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist-ui.min.css" rel="stylesheet"></link><link href="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/video-js.css" rel="stylesheet"></link><script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/video.js'></script><script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-http-streaming.min.js'></script><script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist.js'></script><script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist-ui.min.js'></script><video id="welcomeVideo" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">      <source id="source" src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/200911-STParty/video.m3u8" type="application/x-mpegURL"></video><script>  var w = document.getElementById("welcomeVideo").parentNode.offsetWidth;  var myVideo = videojs('welcomeVideo', {    loop: false,    controls: true,    preload: 'auto',    autoplay: false,    width: w,    height: 0.5625*w,    playbackRates: [0.5,1,1.5,2,3],  })</script>]]></content>
     
@@ -541,9 +544,9 @@
     
     <category term="摄影" scheme="http://ccjfun.cf/tags/%E6%91%84%E5%BD%B1/"/>
     
-    <category term="美食" scheme="http://ccjfun.cf/tags/%E7%BE%8E%E9%A3%9F/"/>
-    
     <category term="潮汕" scheme="http://ccjfun.cf/tags/%E6%BD%AE%E6%B1%95/"/>
+    
+    <category term="美食" scheme="http://ccjfun.cf/tags/%E7%BE%8E%E9%A3%9F/"/>
     
   </entry>
   
@@ -598,15 +601,15 @@
     <category term="日记" scheme="http://ccjfun.cf/categories/%E6%97%A5%E8%AE%B0/"/>
     
     
+    <category term="城市天际线" scheme="http://ccjfun.cf/tags/%E5%9F%8E%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF/"/>
+    
     <category term="摄影" scheme="http://ccjfun.cf/tags/%E6%91%84%E5%BD%B1/"/>
     
     <category term="数码" scheme="http://ccjfun.cf/tags/%E6%95%B0%E7%A0%81/"/>
     
-    <category term="美食" scheme="http://ccjfun.cf/tags/%E7%BE%8E%E9%A3%9F/"/>
-    
-    <category term="城市天际线" scheme="http://ccjfun.cf/tags/%E5%9F%8E%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF/"/>
-    
     <category term="潮汕" scheme="http://ccjfun.cf/tags/%E6%BD%AE%E6%B1%95/"/>
+    
+    <category term="美食" scheme="http://ccjfun.cf/tags/%E7%BE%8E%E9%A3%9F/"/>
     
   </entry>
   
@@ -633,6 +636,34 @@
     <category term="高中" scheme="http://ccjfun.cf/tags/%E9%AB%98%E4%B8%AD/"/>
     
     <category term="摄影" scheme="http://ccjfun.cf/tags/%E6%91%84%E5%BD%B1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo超简易搭建自己的网站（基础篇）</title>
+    <link href="http://ccjfun.cf/posts/3188/"/>
+    <id>http://ccjfun.cf/posts/3188/</id>
+    <published>2020-08-06T14:17:00.000Z</published>
+    <updated>2021-01-23T10:17:45.615Z</updated>
+    
+    <content type="html"><![CDATA[<p>在这个互联网社会，网站作为一个重要的面对公众的窗口，是其拥有者的最佳展示工具之一。我相信很多人都想拥有自己的网站，用以展示自己的生活点滴。但是，一般建站需要大量的HTML知识作为基础，网站还需要购买服务器存放，为了便于访问还要有自己的顶级域名，这两项都要有足够的资金做后盾。不过，这些统统能够通过这篇文章的方法解决！</p><h1 id="主要内容"><a href="#主要内容" class="headerlink" title="主要内容"></a>主要内容</h1><p><code>Hexo</code>博客生成器 + <code>GitHub Pages</code>静态网页服务作为服务器 + <code>Freenom</code>免费顶级域名 + <code>DNSPod</code>免费DNS解析</p><h1 id="文章目录"><a href="#文章目录" class="headerlink" title="文章目录"></a>文章目录</h1><p>1.本方法的一些限制<br>2.博客环境搭建（<code>Git</code>、<code>NodeJS</code>、<code>Hexo</code>）<br>3.创建一个基本博客<br>4.部署博客至<code>GitHub</code>并开启访问<br>5.注册一个顶级域名并绑定</p><h1 id="1-本方法的一些限制"><a href="#1-本方法的一些限制" class="headerlink" title="1.本方法的一些限制"></a>1.本方法的一些限制</h1><p>①首先，我们要清楚<code>静态网页</code>与<code>动态网页</code>的区别，这里由于篇幅限制不展开。<code>Hexo</code>是一个静态网页生成器，<code>GitHub Pages</code>也只支持静态网页。所以如果你想做一个动态网站还是老老实实花钱买服务器吧🙃，可以选择<code>WordPress</code>之类的环境创作动态网页，免费域名则仍可以参考本文。<br>②由于众所周知的原因，<code>GitHub</code>在国内的访问速度不理想（国外正常），关于速度优化的方法会在今后的进阶篇介绍。除了<code>GitHub Pages</code>，类似的服务还有腾讯云的<code>Coding Pages</code>和码云的<code>Gitee Pages</code>，下面的表格是三项服务的对比，从中也可看出我选择<code>GitHub Pages</code>的原因。<br>③<code>百度</code>不收录免费域名的网站，如果你有这方面需求请购买<code>.com</code>一类的域名。<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200806-CreAHexo/site01.webp"></p><h1 id="2-博客环境搭建（Git、NodeJS、Hexo）"><a href="#2-博客环境搭建（Git、NodeJS、Hexo）" class="headerlink" title="2.博客环境搭建（Git、NodeJS、Hexo）"></a>2.博客环境搭建（Git、NodeJS、Hexo）</h1><h2 id="①安装Git"><a href="#①安装Git" class="headerlink" title="①安装Git"></a>①安装Git</h2><p>1.进入Git官网 <a href="https://git-scm.com/">https://git-scm.com/</a> ，网页应该会自动识别你的系统版本，直接点击右下角的显示器<code>Download</code>就行了。<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200806-CreAHexo/site02.webp"></p><p>2.打开安装程序，一路<code>Next</code>就行了，不需要自己调整。</p><h2 id="②安装NodeJS"><a href="#②安装NodeJS" class="headerlink" title="②安装NodeJS"></a>②安装NodeJS</h2><p>1.进入<code>NodeJS</code>官网 <a href="https://nodejs.org/">https://nodejs.org/</a> ，网页应该会自动识别你的系统版本，直接点击绿色按钮下载就行了。（LTS是稳定版，Current是最新版）<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200806-CreAHexo/site03.webp"></p><p>2.打开安装程序，一路<code>Next</code>就行了，不需要自己调整。</p><h2 id="③安装Hexo"><a href="#③安装Hexo" class="headerlink" title="③安装Hexo"></a>③安装Hexo</h2><p>1.进入<code>Hexo</code>官网 <a href="https://hexo.io/">https://hexo.io/</a> ，复制命令npm install hexo-cli -g。<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200806-CreAHexo/site04.webp"></p><p>2.打开终端，粘贴命令并执行。<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200806-CreAHexo/site05.webp"></p><p>PS：<code>npm</code>默认使用国外的软件源，速度如果较慢，可以在终端执行这个命令：<br><code>npm config set registry https://registry.npm.taobao.org</code><br>替换为国内镜像。</p><h1 id="3-创建一个基本博客"><a href="#3-创建一个基本博客" class="headerlink" title="3.创建一个基本博客"></a>3.创建一个基本博客</h1><p>①推荐你给Windows右键菜单加上<code>在此处打开命令提示符</code>，这样今后的操作都会方便很多。（可以使用一些右键菜单管理软件实现）</p><p>②在你想要存放博客文件夹的位置打开终端，依次执行红框中的命令（请把<code>CCJFun</code>替换为你自定义的名称）。<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200806-CreAHexo/site06.webp"></p><p>③进入博客文件夹，以下是文件目录：<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200806-CreAHexo/site07.webp"></p><p>④打开<code>_config.yml</code>，介绍几项基础的自定义。（主题会在今后的进阶篇介绍）<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200806-CreAHexo/site08.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200806-CreAHexo/site09.webp"></p><p>⑤在博客文件夹根目录打开终端，执行<code>hexo s</code>，在浏览器打开<a href="http://localhost:4000/">http://localhost:4000</a> 看看网站效果。<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200806-CreAHexo/site10.webp"></p><p>⑥网站自带了一个HELLO WORLD，现在我们要来创建一篇自己的文章了。<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200806-CreAHexo/site11.webp"></p><p>1.在博客文件夹根目录打开终端，执行<code>hexo new &quot;文章名称&quot;</code><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200806-CreAHexo/site12.webp"></p><p>2.进入<code>source</code>文件夹中的<code>_post</code>文件夹，打开刚刚创建的文件。<br>PS：<code>*.md</code>文件是<code>Markdown</code>文件格式，即<code>Hexo</code>使用的主要语法，今后在写文章时需要使用<code>Markdown</code>语法写作（如果不熟悉Markdown语法，可以安装<code>Markdown Pad 2</code>这款编辑器，支持通过按钮自动添加Markdown语法）<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200806-CreAHexo/site13.webp"></p><p>3.对于标准文件头部的解释：<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200806-CreAHexo/site14.webp"></p><p>PS：不同的主题会有其不同的自定义头部条目，但以上四项是最基本通用的四项。</p><p>4.随便写一篇文章示例~<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200806-CreAHexo/site15.webp"></p><p>创建博客最基本的步骤已经完成了，接下来就要把它部署到网上以供访问了。</p><h1 id="4-部署博客至GitHub并开启访问"><a href="#4-部署博客至GitHub并开启访问" class="headerlink" title="4.部署博客至GitHub并开启访问"></a>4.部署博客至GitHub并开启访问</h1><p>①创建一个<code>GitHub</code>仓库。<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200806-CreAHexo/site16.webp"></p><p>②注意，仓库名称为<code>owner.github.io</code>，<code>GitHub</code>分配给这个仓库的网址才是一个<strong>纯域名</strong>。仓库要<strong>公开</strong>，为了调试方便勾选<code>创建README</code>。<br>PS：仓库名称：<code>abc</code>，仓库Pages网址：<code>owner.github.io/abc</code><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200806-CreAHexo/site17.webp"></p><p>③开启<code>GitHub Pages</code>服务。<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200806-CreAHexo/site18.webp"></p><p>④点击出现的网址，查看效果。如果出现蓝色的仓库名称则说明成功（此时显示的是README文件）。</p><p>⑤随意打开一个文件夹，右键<code>Git Bash</code>，依次执行以下命令。<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200806-CreAHexo/site19.webp"></p><p>⑥如图找到所示文件，用记事本打开。复制全部内容。<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200806-CreAHexo/site20.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200806-CreAHexo/site21.webp"></p><p>⑦打开GitHub<code>个人设置</code>，进入<code>SSH Key</code>设置，点击<code>New SSH key</code>。粘贴密钥后确认。<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200806-CreAHexo/site22.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200806-CreAHexo/site23.webp"></p><p>⑧在博客文件夹根目录打开终端，执行<code>npm install hexo-deployer-git --save</code><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200806-CreAHexo/site24.webp"></p><p>⑨在GitHub仓库主页点击<code>Code</code>，复制仓库的SSH链接。<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200806-CreAHexo/site25.webp"></p><p>⑩打开<code>_config.yml</code>，如图所示进行修改。<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200806-CreAHexo/site26.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200806-CreAHexo/site27.webp"></p><p>11.在博客文件夹根目录打开终端，执行<code>hexo d -g</code><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200806-CreAHexo/site28.webp"></p><p>12.出现以下界面即成功。<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200806-CreAHexo/site29.webp"></p><p>13.在浏览器刷新一下，一个属于你自己的网站已经上线了！</p><h1 id="5-注册一个顶级域名并绑定"><a href="#5-注册一个顶级域名并绑定" class="headerlink" title="5.注册一个顶级域名并绑定"></a>5.注册一个顶级域名并绑定</h1><p>然而，这个网站使用的是Github的默认域名，虽说<strong>名字起得好</strong>的话也不是特别难记，但怎么说还是不利于<strong>推广</strong>。所以我们还要一个属于自己<strong>的顶级域名</strong>。不过目前也仅有<code>Freenom</code>提供<strong>免费</strong>的顶级域名了，包括以下五种：<code>ga、gq、tk、ml、cf</code>。<br>操作提示：Freenom由于一些原因封禁了<strong>大陆IP地址的注册权限</strong>（网站可以正常访问），所以你需要通过<strong>非大陆的VPN</strong>访问Freenom。Freenom没有注册入口，你需要<strong>先搜索网址后再提交工单</strong>时才会出现注册选项。</p><p>①单击<code>Get it now!</code>加入购物车。<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200806-CreAHexo/site30.webp"></p><p>②在<code>Period</code>一项最长可选择免费12个月。<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200806-CreAHexo/site31.webp"></p><p><code>大陆IP</code>会在这一步被卡住。<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200806-CreAHexo/site32.webp"></p><p>③填写<code>个人资料</code>。警告：这些资料都是会被<strong>公开</strong>的！填完之后即可完成注册。进入<code>My Domains</code>即可看到你拥有的域名。<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200806-CreAHexo/site33.webp"></p><p>④点击<code>Manage Domain</code>，进入<code>Management Tools</code>-<code>Nameservers</code>页面，按下图填写后保存。<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200806-CreAHexo/site34.webp"></p><p>⑤有了域名，我们就需要<code>DNS</code>将域名和我们的网站绑定了。<code>腾讯云</code>提供免费的DNS服务。注册腾讯云账号，进入<code>控制台</code>，选择<code>DNS解析</code>（ <a href="https://console.cloud.tencent.com/cns">https://console.cloud.tencent.com/cns</a> ），添加你刚刚注册的域名。<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200806-CreAHexo/site35.webp"></p><p>⑥按下图添加解析记录，注意把记录值换成你自己的GitHub地址。假设你注册的域名是<strong>abc.tk</strong>，这样你的网站将可以从<strong>abc.tk</strong>访问。<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200806-CreAHexo/site36.webp"></p><p>PS：你也可以将<code>@</code>换为<code>www</code>，这样你的网站将可以从<code>www.abc.tk</code>访问。</p><p>⑦打开博客的<code>source</code>文件夹，创建一个<code>CNAME</code>文件（<strong>不带后缀</strong>），输入你的域名。同时修改<code>_config.yml</code>，保存后部署博客。<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200806-CreAHexo/site37.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200806-CreAHexo/site38.webp"></p><p>⑧进入GitHub仓库的Pages设置查看是否更改成功。（HTTPS在更改自定义域名后<strong>需要时间</strong>生效）<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200806-CreAHexo/site39.webp"></p><p>⑨在浏览器输入你的自定义域名，查看效果。大功告成！<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200806-CreAHexo/site40.webp"></p><p>至此，你成功地拥有了一个属于自己的网站！</p><p>关于网站的各方面优化请参阅我今后发布的<strong>进阶篇</strong>。</p><p><strong>感谢阅读，记得三连！</strong></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;在这个互联网社会，网站作为一个重要的面对公众的窗口，是其拥有者的最佳展示工具之一。我相信很多人都想拥有自己的网站，用以展示自己的生活点滴。但是，一般建站需要大量的HTML知识作为基础，网站还需要购买服务器存放，为了便于访问还要有自己的顶级域名，这两项都要有足够的资金做后盾。</summary>
+      
+    
+    
+    
+    <category term="教程" scheme="http://ccjfun.cf/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="网络" scheme="http://ccjfun.cf/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+    <category term="程序" scheme="http://ccjfun.cf/tags/%E7%A8%8B%E5%BA%8F/"/>
+    
+    <category term="工具" scheme="http://ccjfun.cf/tags/%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
@@ -696,6 +727,38 @@
   </entry>
   
   <entry>
+    <title>通吃市面上几乎所有加密格式音乐的解密方法（1）</title>
+    <link href="http://ccjfun.cf/posts/6a69/"/>
+    <id>http://ccjfun.cf/posts/6a69/</id>
+    <published>2020-04-10T12:00:00.000Z</published>
+    <updated>2021-01-23T10:40:12.534Z</updated>
+    
+    <content type="html"><![CDATA[<p>unlock-music项目是以学习和技术研究的初衷创建的，在浏览器中解锁加密的音乐文件。原链接：<a href="https://github.com/ix64/unlock-music/">https://github.com/ix64/unlock-music/</a></p><link href="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist-ui.min.css" rel="stylesheet"></link><link href="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/video-js.css" rel="stylesheet"></link><script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/video.js'></script><script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-http-streaming.min.js'></script><script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist.js'></script><script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist-ui.min.js'></script><video id="welcomeVideo" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">      <source id="source" src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/200410-CrackMus/vid/video.m3u8" type="application/x-mpegURL"></video><script>  var w = document.getElementById("welcomeVideo").parentNode.offsetWidth;  var myVideo = videojs('welcomeVideo', {    loop: false,    controls: true,    preload: 'auto',    autoplay: false,    width: w,    height: 0.5625*w,    playbackRates: [0.5,1,1.5,2,3],  })</script><ul><li>在浏览器中解锁加密的音乐文件。 Unlock encrypted music file in the browser. </li><li>unlock-music项目是以学习和技术研究的初衷创建的，修改、再分发时请遵循<a href="https://github.com/ix64/unlock-music/blob/master/LICENSE">License</a></li><li>Unlock Music的CLI版本正在开发中。</li><li>我们新建了Telegram群组，欢迎加入！<a href="https://t.me/unlock_music_chat">https://t.me/unlock_music_chat</a></li><li><a href="https://github.com/unlock-music/cli">CLI版本 Alpha</a> 大批量转换建议使用CLI版本</li></ul><h1 id="特性"><a href="#特性" class="headerlink" title="特性"></a>特性</h1><h2 id="支持的格式"><a href="#支持的格式" class="headerlink" title="支持的格式"></a>支持的格式</h2><ul><li><input checked="" disabled="" type="checkbox"> QQ音乐 (.qmc0/.qmc2/.qmc3/.qmcflac/.qmcogg/<a href="https://github.com/ix64/unlock-music/issues/9">.tkm</a>)<ul><li><input checked="" disabled="" type="checkbox"> 写入封面图片</li></ul></li><li><input checked="" disabled="" type="checkbox"> Moo音乐格式 (<a href="https://github.com/ix64/unlock-music/issues/11">.bkcmp3/.bkcflac</a>)</li><li><input checked="" disabled="" type="checkbox"> QQ音乐Tm格式 (.tm0/.tm2/.tm3/.tm6)</li><li><input checked="" disabled="" type="checkbox"> QQ音乐新格式 (实验性支持)<ul><li><input checked="" disabled="" type="checkbox"> .mflac </li><li><input checked="" disabled="" type="checkbox"> <a href="https://github.com/ix64/unlock-music/issues/3">.mgg</a></li></ul></li><li><input checked="" disabled="" type="checkbox"> 网易云音乐格式 (.ncm)<ul><li><input checked="" disabled="" type="checkbox"> 补全ncm的ID3/FlacMeta信息</li></ul></li><li><input checked="" disabled="" type="checkbox"> 虾米音乐格式 (.xm) (测试阶段)</li><li><input checked="" disabled="" type="checkbox"> 酷我音乐格式 (.kwm) (测试阶段)</li><li><input checked="" disabled="" type="checkbox"> 酷狗音乐格式 (.kgm) (<a href="https://github.com/ix64/unlock-music/wiki/%E5%85%B6%E4%BB%96%E9%9F%B3%E4%B9%90%E6%A0%BC%E5%BC%8F%E5%B7%A5%E5%85%B7#%E9%85%B7%E7%8B%97%E9%9F%B3%E4%B9%90-kgmvpr%E8%A7%A3%E9%94%81%E5%B7%A5%E5%85%B7">CLI版本</a>)</li></ul><h2 id="其他特性"><a href="#其他特性" class="headerlink" title="其他特性"></a>其他特性</h2><ul><li><input checked="" disabled="" type="checkbox"> 在浏览器中解锁</li><li><input checked="" disabled="" type="checkbox"> 拖放文件</li><li><input checked="" disabled="" type="checkbox"> 在线播放</li><li><input checked="" disabled="" type="checkbox"> 批量解锁</li><li><input checked="" disabled="" type="checkbox"> 渐进式Web应用</li><li><input checked="" disabled="" type="checkbox"> 多线程 </li></ul><blockquote><p><a href="/plugins/mdx/">立即使用</a></p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;unlock-music项目是以学习和技术研究的初衷创建的，在浏览器中解锁加密的音乐文件。原链接：&lt;a href=&quot;https://github.com/ix64/unlock-music/&quot;&gt;https://github.com/ix64/unlock-music/&lt;/a</summary>
+      
+    
+    
+    
+    <category term="教程" scheme="http://ccjfun.cf/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="网络" scheme="http://ccjfun.cf/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+    <category term="程序" scheme="http://ccjfun.cf/tags/%E7%A8%8B%E5%BA%8F/"/>
+    
+    <category term="破解" scheme="http://ccjfun.cf/tags/%E7%A0%B4%E8%A7%A3/"/>
+    
+    <category term="音乐" scheme="http://ccjfun.cf/tags/%E9%9F%B3%E4%B9%90/"/>
+    
+    <category term="工具" scheme="http://ccjfun.cf/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
+  
+  <entry>
     <title>游戏者的视频</title>
     <link href="http://ccjfun.cf/posts/bc11/"/>
     <id>http://ccjfun.cf/posts/bc11/</id>
@@ -720,6 +783,33 @@
     <category term="城市天际线" scheme="http://ccjfun.cf/tags/%E5%9F%8E%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF/"/>
     
     <category term="游戏" scheme="http://ccjfun.cf/tags/%E6%B8%B8%E6%88%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何以爱国的姿势访问一些外网优质资源</title>
+    <link href="http://ccjfun.cf/posts/d799/"/>
+    <id>http://ccjfun.cf/posts/d799/</id>
+    <published>2020-02-22T16:00:00.000Z</published>
+    <updated>2021-01-23T12:15:08.125Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><blockquote><p>众所周知，由于<code>帝国主义势力</code>长期对我国采取敌视态度，其爪牙——<code>境外媒体</code>常常抹黑我国的方方面面。因此，为了维护国内稳定，政府隔绝了一些境外链接，不过也在同时导致一些国外优质而国内没有的资源同时被屏蔽。有的人会采用<code>VPN</code>的方式上外网，然而这种方式属于<code>使用非法定信道进行国际联网</code>，貌似是<code>违法</code>的，而且<code>好用的收钱，免费的龟速</code>。所以本文来介绍几种优质资源在国内的正确访问方式：</p></blockquote><pre class="language-none"><code class="language-none">1.Google系2.Instagram3.Steam Community</code></pre><h2 id="PS："><a href="#PS：" class="headerlink" title="PS："></a>PS：</h2><p>不要问我<code>FacebookTwitter</code>这些有反华色彩的东西，真正爬过梯子的人应该也知道。如果你是为了看这些，那请不要看我的文章。<code>禁止利用本文的方法进行危害社会治安国家安全的违法活动！</code></p><h1 id="1-Google系"><a href="#1-Google系" class="headerlink" title="1.Google系"></a>1.Google系</h1><p>由于谷歌不对政治方面的搜索结果做限制，所以emmm。<br>谷歌的一系列服务也无法接受我国政府监督，所以emmm。<br>但是，谷歌系的服务是真的好用（用过就知道，除了网络不好吊打国内的同类）。<br>而现在Chrome上有了一个插件，可以利用Chrome内置代理来访问谷歌系的服务：PP谷歌访问助手。其实这个插件本质上还是基于VPN，但是只能代理谷歌的网页。</p><h2 id="支持："><a href="#支持：" class="headerlink" title="支持："></a>支持：</h2><p>Google系的<code>几乎全部</code>内容（搜索、翻译、地图、地球、文档、邮箱、网盘、相册、日历等等）</p><h2 id="限制："><a href="#限制：" class="headerlink" title="限制："></a>限制：</h2><p>不支持<code>Youtube</code>（毕竟这个的危险系数比较高）</p><h2 id="官网链接："><a href="#官网链接：" class="headerlink" title="官网链接："></a>官网链接：</h2><p><a href="http://www.ppgoogle.net/">http://www.ppgoogle.net/</a></p><h2 id="警告："><a href="#警告：" class="headerlink" title="警告："></a>警告：</h2><p><code>不要尝试</code>包括但不限于使用谷歌搜索反动网页，浏览这些网页是<code>违法行为</code>。（而且搜出来的结果你也打不开）</p><h2 id="使用方法："><a href="#使用方法：" class="headerlink" title="使用方法："></a>使用方法：</h2><p>1.访问官网下载安装包。<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200223-InternoVPN/01.webp"></p><p>2.里面含有一个拓展名为<code>crx</code>的文件，右键用解压软件打开（7-Zip、WinRAR应该同理）。<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200223-InternoVPN/02.webp"></p><p>3.出现这么一堆东东。<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200223-InternoVPN/03.webp"></p><p>4.打开Chrome安装目录，一般位于<code>C:\Program Files (x86)\Google\Chrome</code>。<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200223-InternoVPN/04.webp"></p><p>5.新建一个<code>Extensions</code>文件夹，进入，打开<code>Bandizip</code>，按住<code>PP-Google-v1.8.crx</code>拖进资源管理器。<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200223-InternoVPN/05.webp"></p><p>6.在Chrome地址栏输入<code>chrome://extensions/</code>。<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200223-InternoVPN/06.webp"></p><p>7.打开右上角<code>开发者模式</code>：<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200223-InternoVPN/07.webp"></p><p>8.点击<code>加载已解压的拓展程序</code>，转到刚才解压出来的文件夹，点选择文件夹，稍后即可成功安装。<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200223-InternoVPN/08.webp"></p><p>9.打开拓展程序，界面如下：<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200223-InternoVPN/09.webp"></p><p>10.推荐这时先进入Chrome应用商店<code>重新安装</code>一遍，以获取最新版本并避免每次启动Chrome的弹窗提示。<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200223-InternoVPN/10.webp"></p><p>11.如果访问谷歌页面时出现如下情况，说明代理服务器连接失败。<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200223-InternoVPN/11.webp"></p><p>12.这时需要点击<code>刷新</code>。<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200223-InternoVPN/12.webp"></p><p>13.出现以下页面后会更换服务器，更换后即可访问。如果依旧连不上，重复刷新步骤直到连接成功。<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200223-InternoVPN/13.webp"></p><p>14.现在开始畅快访问谷歌的各项服务吧~</p><h1 id="2-Instagram"><a href="#2-Instagram" class="headerlink" title="2.Instagram"></a>2.Instagram</h1><p>这个不用我多说，好图汇聚地。好像是因为2014年的<code>占中事件</code>导致它被屏蔽的。<br>这是一个国内的<code>镜像站</code>，主要是为了粉丝追星用的，不过它也支持ins全部内容，<code>Adidas</code>、<code>Nike</code>、<code>BMW</code>、<code>Benz</code>、<code>Tesla</code>、<code>NASA</code>、<code>Taylor</code>等等都有。<br>还支持图片<code>下载</code>~</p><h2 id="官网链接：-1"><a href="#官网链接：-1" class="headerlink" title="官网链接："></a>官网链接：</h2><p><a href="https://www.veryins.com/">https://www.veryins.com/</a></p><h2 id="网页截图："><a href="#网页截图：" class="headerlink" title="网页截图："></a>网页截图：</h2><p><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200223-InternoVPN/22.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200223-InternoVPN/23.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200223-InternoVPN/24.webp"></p><h1 id="3-Steam-Community"><a href="#3-Steam-Community" class="headerlink" title="3.Steam Community"></a>3.Steam Community</h1><p>由于Steam Community依赖于<code>Facebook</code>相关的服务器，所以也一道被封。<br>SteamCommunity302工具依赖的是<code>hosts修改+端口监视</code>来实现访问（因为对Steam Community的屏蔽还不是很严所以可以做到），如果特殊情况无效也可以用软件内的<code>代理</code>（只能代理Steam Community，类似上文谷歌访问助手，而且这是作者自己搭建的，不要滥用）。<br>这样我们就可以访问Steam Community上的游戏mod了。（作为一名<code>城市天际线</code>玩家Steam Community对我来说就像这个游戏的灵魂~）</p><h2 id="官网链接：-2"><a href="#官网链接：-2" class="headerlink" title="官网链接："></a>官网链接：</h2><p><a href="https://www.dogfight360.com/blog/686/">https://www.dogfight360.com/blog/686/</a></p><h2 id="使用方法：-1"><a href="#使用方法：-1" class="headerlink" title="使用方法："></a>使用方法：</h2><p>1.访问官网下载程序（压缩包）<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200223-InternoVPN/25.webp"></p><p>2.解压后运行具体教程详见官网：）</p><iframe width="100%" height="0" scrolling="no" border="0" frameborder="no" framespacing="0" id="welcomeVideo"></iframe>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;众所周知，由于&lt;code&gt;帝国主义势力&lt;/code&gt;长期对我国采取敌视态度，其爪牙——&lt;code&gt;境外媒体&lt;/co</summary>
+      
+    
+    
+    
+    <category term="教程" scheme="http://ccjfun.cf/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="网络" scheme="http://ccjfun.cf/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+    <category term="程序" scheme="http://ccjfun.cf/tags/%E7%A8%8B%E5%BA%8F/"/>
     
   </entry>
   
@@ -1030,11 +1120,11 @@
     <category term="日记" scheme="http://ccjfun.cf/categories/%E6%97%A5%E8%AE%B0/"/>
     
     
+    <category term="网络" scheme="http://ccjfun.cf/tags/%E7%BD%91%E7%BB%9C/"/>
+    
     <category term="生活" scheme="http://ccjfun.cf/tags/%E7%94%9F%E6%B4%BB/"/>
     
     <category term="高中" scheme="http://ccjfun.cf/tags/%E9%AB%98%E4%B8%AD/"/>
-    
-    <category term="网络" scheme="http://ccjfun.cf/tags/%E7%BD%91%E7%BB%9C/"/>
     
     <category term="摄影" scheme="http://ccjfun.cf/tags/%E6%91%84%E5%BD%B1/"/>
     
@@ -1121,7 +1211,7 @@
     <link href="http://ccjfun.cf/posts/1d44/"/>
     <id>http://ccjfun.cf/posts/1d44/</id>
     <published>2014-12-31T16:00:00.000Z</published>
-    <updated>2020-12-13T08:00:10.042Z</updated>
+    <updated>2021-01-23T09:41:27.303Z</updated>
     
     <content type="html"><![CDATA[<p>2013年的新加坡之旅，包含了一些<code>图片与录像</code>，还有一些<code>旅行锦囊</code></p><p>2014年的日本之旅，包含了一些<code>图片与录像</code>，还有一些<code>景点介绍</code></p><p>2014年的香港之旅，包含了一些<code>图片与录像</code>，还有一些<code>景点介绍</code></p><hr><link href="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist-ui.min.css" rel="stylesheet" /><link href="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/video-js.css" rel="stylesheet" /><script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/video.js'></script><script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-http-streaming.min.js'></script><script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist.js'></script><script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist-ui.min.js'></script><style>.player-container{background:#1a1a1a;overflow:auto;}@media only screen and (min-width: 1000px) {.video-js{float: left;width: 75%;}}@media only screen and (min-width: 1000px) {.vjs-playlist{float: right;width: 25%;max-height:500px;}}@media only screen and (max-width: 1000px) {.video-js{float: left;width: 100%;}}@media only screen and (max-width: 1000px) {.vjs-playlist{float: right;width: 100%;}}.vjs-playlist-item{border: 1px solid #FFFFFF;}.vjs-playlist .vjs-selected{border: 1px solid #00FF00;}.vjs-playlist .vjs-selected img{opacity: .5;}</style><div id="welcomeVideo" class="player-container"><video id="theVideo" class="video-js vjs-default-skin vjs-big-play-centered vjs-v7 vjs-user-active" width="100%" height="100%"></video><div class="vjs-playlist playlist-container" id="videolist"></div></div><script>  var w = document.getElementById("welcomeVideo").offsetWidth;  var myVideo = videojs('theVideo', {    loop: false,    controls: true,    preload: 'auto',    autoplay: false,    width: w,    height: 0.5625*w,    playbackRates: [0.5,1,1.5,2,3]  });  myVideo.playlist([  {name: '新加坡之旅',sources: [{src: 'https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/150101-TripVids/sg/video.m3u8',type: 'application/x-mpegURL'}]},   {name: '日本之旅',sources: [{src: 'https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/150101-TripVids/jp/video.m3u8',type: 'application/x-mpegURL'}]},   {name: '香港之旅',sources: [{src: 'https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/150101-TripVids/hk/video.m3u8',type: 'application/x-mpegURL'}]}  ]);  myVideo.playlistUi();</script><hr>]]></content>
     

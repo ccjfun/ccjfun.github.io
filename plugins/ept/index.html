@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1">
+		<title>periodic-table</title>
+		<link rel="stylesheet" href="demo.css">
+	</head>
+	<body>
+<a class="floating" href="/"><input type="button" value="🏚 | 返回主页" style="width:3cm;height:1cm;margin:0 auto;position:fixed;bottom:5%;left:5%;z-index:100;border-radius:20px;border:0px grey solid;opacity:.7;" /></a>
+		<h1>元素周期表工具</h1>
+		<p>
+			Create a visible periodic table: <a href="javascript:createList(document.getElementById('elements'))">加载元素周期表</a>
+		</p>
+		<p>
+			Get the information of the element: 获取某个元素的信息<br>
+			<a href="javascript:getElementDemo()">Input & Click Me | 输入并点击我<input id="getElement" type="text" value="oxygen"></a><br>
+			You can put any of these in the input box above: "8" "o" "oxygen" "氧" "15.999"<br>
+			你可以输入这些表示方法："8" "o" "oxygen" "氧" "15.999"
+		</p>
+		<p>
+			Get the information of the compound: 获取某个化合物的信息<br>
+			<a href="javascript:getCompoundDemo()">Input & Click Me | 输入并点击我<input id="getCompound" type="text" value="carbon dioxide"></a><br>
+			You can put any of these in the input box above: "carbon dioxide" "CO2" "c o2" "二氧化碳"<br>
+			你可以输入这些表示方法："carbon dioxide" "CO2" "c o2" "二氧化碳"
+		</p>
+		<ul id="elements"></ul>
+		<script src="https://cdn.jsdelivr.net/gh/shangzhenyang/periodic-table/periodictable.min.js"></script>
+		<script src="demo.js"></script>
+	</body>
+</html>

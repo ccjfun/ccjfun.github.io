@@ -143,15 +143,15 @@
     <category term="日记" scheme="https://ccjfun.cf/categories/%E6%97%A5%E8%AE%B0/"/>
     
     
-    <category term="手机" scheme="https://ccjfun.cf/tags/%E6%89%8B%E6%9C%BA/"/>
+    <category term="生活" scheme="https://ccjfun.cf/tags/%E7%94%9F%E6%B4%BB/"/>
     
     <category term="网络" scheme="https://ccjfun.cf/tags/%E7%BD%91%E7%BB%9C/"/>
-    
-    <category term="生活" scheme="https://ccjfun.cf/tags/%E7%94%9F%E6%B4%BB/"/>
     
     <category term="摄影" scheme="https://ccjfun.cf/tags/%E6%91%84%E5%BD%B1/"/>
     
     <category term="SCUT" scheme="https://ccjfun.cf/tags/SCUT/"/>
+    
+    <category term="手机" scheme="https://ccjfun.cf/tags/%E6%89%8B%E6%9C%BA/"/>
     
     <category term="广州" scheme="https://ccjfun.cf/tags/%E5%B9%BF%E5%B7%9E/"/>
     
@@ -257,13 +257,13 @@
     <category term="日记" scheme="https://ccjfun.cf/categories/%E6%97%A5%E8%AE%B0/"/>
     
     
-    <category term="手机" scheme="https://ccjfun.cf/tags/%E6%89%8B%E6%9C%BA/"/>
-    
     <category term="生活" scheme="https://ccjfun.cf/tags/%E7%94%9F%E6%B4%BB/"/>
     
     <category term="摄影" scheme="https://ccjfun.cf/tags/%E6%91%84%E5%BD%B1/"/>
     
     <category term="数码" scheme="https://ccjfun.cf/tags/%E6%95%B0%E7%A0%81/"/>
+    
+    <category term="手机" scheme="https://ccjfun.cf/tags/%E6%89%8B%E6%9C%BA/"/>
     
   </entry>
   
@@ -287,8 +287,6 @@
     <category term="日记" scheme="https://ccjfun.cf/categories/%E6%97%A5%E8%AE%B0/"/>
     
     
-    <category term="手机" scheme="https://ccjfun.cf/tags/%E6%89%8B%E6%9C%BA/"/>
-    
     <category term="生活" scheme="https://ccjfun.cf/tags/%E7%94%9F%E6%B4%BB/"/>
     
     <category term="摄影" scheme="https://ccjfun.cf/tags/%E6%91%84%E5%BD%B1/"/>
@@ -296,6 +294,8 @@
     <category term="数码" scheme="https://ccjfun.cf/tags/%E6%95%B0%E7%A0%81/"/>
     
     <category term="潮汕" scheme="https://ccjfun.cf/tags/%E6%BD%AE%E6%B1%95/"/>
+    
+    <category term="手机" scheme="https://ccjfun.cf/tags/%E6%89%8B%E6%9C%BA/"/>
     
     <category term="华工影忆 CMOS" scheme="https://ccjfun.cf/tags/%E5%8D%8E%E5%B7%A5%E5%BD%B1%E5%BF%86-CMOS/"/>
     
@@ -345,13 +345,13 @@
     <category term="日记" scheme="https://ccjfun.cf/categories/%E6%97%A5%E8%AE%B0/"/>
     
     
-    <category term="手机" scheme="https://ccjfun.cf/tags/%E6%89%8B%E6%9C%BA/"/>
-    
     <category term="生活" scheme="https://ccjfun.cf/tags/%E7%94%9F%E6%B4%BB/"/>
     
     <category term="摄影" scheme="https://ccjfun.cf/tags/%E6%91%84%E5%BD%B1/"/>
     
     <category term="数码" scheme="https://ccjfun.cf/tags/%E6%95%B0%E7%A0%81/"/>
+    
+    <category term="手机" scheme="https://ccjfun.cf/tags/%E6%89%8B%E6%9C%BA/"/>
     
     <category term="美食" scheme="https://ccjfun.cf/tags/%E7%BE%8E%E9%A3%9F/"/>
     
@@ -457,8 +457,6 @@
     <category term="日记" scheme="https://ccjfun.cf/categories/%E6%97%A5%E8%AE%B0/"/>
     
     
-    <category term="手机" scheme="https://ccjfun.cf/tags/%E6%89%8B%E6%9C%BA/"/>
-    
     <category term="摄影" scheme="https://ccjfun.cf/tags/%E6%91%84%E5%BD%B1/"/>
     
     <category term="数码" scheme="https://ccjfun.cf/tags/%E6%95%B0%E7%A0%81/"/>
@@ -466,6 +464,8 @@
     <category term="汽车" scheme="https://ccjfun.cf/tags/%E6%B1%BD%E8%BD%A6/"/>
     
     <category term="飞机" scheme="https://ccjfun.cf/tags/%E9%A3%9E%E6%9C%BA/"/>
+    
+    <category term="手机" scheme="https://ccjfun.cf/tags/%E6%89%8B%E6%9C%BA/"/>
     
   </entry>
   
@@ -522,9 +522,9 @@
     
     <category term="飞机" scheme="https://ccjfun.cf/tags/%E9%A3%9E%E6%9C%BA/"/>
     
-    <category term="美食" scheme="https://ccjfun.cf/tags/%E7%BE%8E%E9%A3%9F/"/>
-    
     <category term="广州" scheme="https://ccjfun.cf/tags/%E5%B9%BF%E5%B7%9E/"/>
+    
+    <category term="美食" scheme="https://ccjfun.cf/tags/%E7%BE%8E%E9%A3%9F/"/>
     
     <category term="旅行" scheme="https://ccjfun.cf/tags/%E6%97%85%E8%A1%8C/"/>
     
@@ -586,9 +586,9 @@
     
     <category term="SCUT" scheme="https://ccjfun.cf/tags/SCUT/"/>
     
-    <category term="美食" scheme="https://ccjfun.cf/tags/%E7%BE%8E%E9%A3%9F/"/>
-    
     <category term="广州" scheme="https://ccjfun.cf/tags/%E5%B9%BF%E5%B7%9E/"/>
+    
+    <category term="美食" scheme="https://ccjfun.cf/tags/%E7%BE%8E%E9%A3%9F/"/>
     
   </entry>
   
@@ -728,8 +728,6 @@
     <category term="日记" scheme="https://ccjfun.cf/categories/%E6%97%A5%E8%AE%B0/"/>
     
     
-    <category term="城市天际线" scheme="https://ccjfun.cf/tags/%E5%9F%8E%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF/"/>
-    
     <category term="摄影" scheme="https://ccjfun.cf/tags/%E6%91%84%E5%BD%B1/"/>
     
     <category term="数码" scheme="https://ccjfun.cf/tags/%E6%95%B0%E7%A0%81/"/>
@@ -737,6 +735,8 @@
     <category term="潮汕" scheme="https://ccjfun.cf/tags/%E6%BD%AE%E6%B1%95/"/>
     
     <category term="美食" scheme="https://ccjfun.cf/tags/%E7%BE%8E%E9%A3%9F/"/>
+    
+    <category term="城市天际线" scheme="https://ccjfun.cf/tags/%E5%9F%8E%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF/"/>
     
   </entry>
   
@@ -851,11 +851,11 @@
     
     <category term="程序" scheme="https://ccjfun.cf/tags/%E7%A8%8B%E5%BA%8F/"/>
     
+    <category term="工具" scheme="https://ccjfun.cf/tags/%E5%B7%A5%E5%85%B7/"/>
+    
     <category term="破解" scheme="https://ccjfun.cf/tags/%E7%A0%B4%E8%A7%A3/"/>
     
     <category term="音乐" scheme="https://ccjfun.cf/tags/%E9%9F%B3%E4%B9%90/"/>
-    
-    <category term="工具" scheme="https://ccjfun.cf/tags/%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
@@ -1343,11 +1343,11 @@
     <category term="日记" scheme="https://ccjfun.cf/categories/%E6%97%A5%E8%AE%B0/"/>
     
     
-    <category term="网络" scheme="https://ccjfun.cf/tags/%E7%BD%91%E7%BB%9C/"/>
-    
     <category term="生活" scheme="https://ccjfun.cf/tags/%E7%94%9F%E6%B4%BB/"/>
     
     <category term="高中" scheme="https://ccjfun.cf/tags/%E9%AB%98%E4%B8%AD/"/>
+    
+    <category term="网络" scheme="https://ccjfun.cf/tags/%E7%BD%91%E7%BB%9C/"/>
     
     <category term="摄影" scheme="https://ccjfun.cf/tags/%E6%91%84%E5%BD%B1/"/>
     

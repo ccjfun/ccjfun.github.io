@@ -432,7 +432,7 @@
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    816
+                    839
                 </div>
                 
 
@@ -462,41 +462,50 @@
 
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <h2 id="视频教程"><a href="#视频教程" class="headerlink" title="视频教程"></a>视频教程</h2>
+                <h1 id="极客版"><a href="#极客版" class="headerlink" title="极客版"></a>极客版</h1><h2 id="视频教程"><a href="#视频教程" class="headerlink" title="视频教程"></a>视频教程</h2><hr>
+
 <link href="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist-ui.min.css" rel="stylesheet"></link>
 <link href="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/video-js.css" rel="stylesheet"></link>
+<link href="https://unpkg.com/@silvermine/videojs-quality-selector/dist/css/quality-selector.css" rel="stylesheet"></link>
+
 <script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/video.js'></script>
 <script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-http-streaming.min.js'></script>
 <script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist.js'></script>
 <script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist-ui.min.js'></script>
+<script src="https://unpkg.com/@silvermine/videojs-quality-selector/dist/js/silvermine-videojs-quality-selector.min.js"></script>
 
-<div class="player-container" id="welcomeVideo">
-<video id="theVideo" class="video-js vjs-default-skin vjs-big-play-centered vjs-v7 vjs-user-active" width="100%" height="100%"></video>
-<div class="vjs-playlist playlist-container" id="videolist">
-</div></div>
+<video id="welcomeVideo" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/200315-FastVid/gkvid/video.m3u8" type="application/x-mpegURL" label="线路1">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids/200315-FastVid/gkvid/video.m3u8" type="application/x-mpegURL" label="线路2" selected="true">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@latest/200315-FastVid/gkvid/video.m3u8" type="application/x-mpegURL" label="线路3">
+</video>
 
 <script>
-  var w = document.getElementById("welcomeVideo").offsetWidth;
-  var myVideo = videojs('theVideo', {
+  var w = document.getElementById("welcomeVideo").parentNode.offsetWidth;
+
+  var myVideo = videojs('welcomeVideo', {
     loop: false,
     controls: true,
     preload: 'auto',
     autoplay: false,
     width: w,
     height: 0.5625*w,
-    playbackRates: [0.5,1,1.5,2,3]
-  });
-  myVideo.playlist([
-  {name: '极客版',sources: [{src: 'https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/200315-FastVid/gkvid/video.m3u8',type: 'application/x-mpegURL'}]}, 
-  {name: '电脑版',sources: [{src: 'https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/200315-FastVid/pcvid/video.m3u8',type: 'application/x-mpegURL'}]}, 
-  {name: '手机版',sources: [{src: 'https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/200315-FastVid/mpvid/video.m3u8',type: 'application/x-mpegURL'}]}
-  ]);
-  myVideo.playlistUi();
+    playbackRates: [0.5,1,1.5,2,3],
+    controlBar: {
+       children: [
+          'playToggle',
+          'progressControl',
+          'volumePanel',
+          'qualitySelector',
+          'playbackRateMenuButton',
+          'fullscreenToggle',
+        ],
+     },
+  })
 </script>
 
-
-
-<h1 id="极客版"><a href="#极客版" class="headerlink" title="极客版"></a>极客版</h1><h2 id="1-推荐网址"><a href="#1-推荐网址" class="headerlink" title="1.推荐网址"></a>1.推荐网址</h2><p><code>http://editor.livegap.com/index.php?lan=zh-CN</code><br>这个工具是为了输入代码在线生成一个倍速播放器<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200315-FastVid/01.webp"></p>
+<hr>
+<h2 id="1-推荐网址"><a href="#1-推荐网址" class="headerlink" title="1.推荐网址"></a>1.推荐网址</h2><p><code>http://editor.livegap.com/index.php?lan=zh-CN</code><br>这个工具是为了输入代码在线生成一个倍速播放器<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200315-FastVid/01.webp"></p>
 <h2 id="2-代码"><a href="#2-代码" class="headerlink" title="2.代码"></a>2.代码</h2><p>全选代码然后复制（copy）</p>
 <pre class="language-html" data-language="html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>center</span><span class="token punctuation">></span></span>
 
@@ -533,7 +542,40 @@ diyspd<span class="token operator">=</span>document<span class="token punctuatio
 <h2 id="5-转到"><a href="#5-转到" class="headerlink" title="5.转到"></a>5.转到</h2><p>你想要看的网课<br>右键点击视频，点击复制视频链接（copy  address）<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200315-FastVid/03.webp"></p>
 <h2 id="6-在这里"><a href="#6-在这里" class="headerlink" title="6.在这里"></a>6.在这里</h2><p>替换掉<code>！把我替换为链接！</code><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200315-FastVid/04.webp"></p>
 <h2 id="7-输入框"><a href="#7-输入框" class="headerlink" title="7.输入框"></a>7.输入框</h2><p>可以输入你想要的倍速（0~100的整数或小数），试一下效果<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200315-FastVid/05.webp"></p>
-<h2 id="就这样"><a href="#就这样" class="headerlink" title="就这样~"></a>就这样~</h2><h1 id="电脑版"><a href="#电脑版" class="headerlink" title="电脑版"></a>电脑版</h1><blockquote>
+<h2 id="就这样"><a href="#就这样" class="headerlink" title="就这样~"></a>就这样~</h2><h1 id="电脑版"><a href="#电脑版" class="headerlink" title="电脑版"></a>电脑版</h1><h2 id="视频教程-1"><a href="#视频教程-1" class="headerlink" title="视频教程"></a>视频教程</h2><hr>
+
+<video id="welcomeVideo2" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/200315-FastVid/pcvid/video.m3u8" type="application/x-mpegURL" label="线路1">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids/200315-FastVid/pcvid/video.m3u8" type="application/x-mpegURL" label="线路2" selected="true">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@latest/200315-FastVid/pcvid/video.m3u8" type="application/x-mpegURL" label="线路3">
+</video>
+
+<script>
+  var w2 = document.getElementById("welcomeVideo2").parentNode.offsetWidth;
+
+  var myVideo2 = videojs('welcomeVideo2', {
+    loop: false,
+    controls: true,
+    preload: 'auto',
+    autoplay: false,
+    width: w2,
+    height: 0.5625*w2,
+    playbackRates: [0.5,1,1.5,2,3],
+    controlBar: {
+       children: [
+          'playToggle',
+          'progressControl',
+          'volumePanel',
+          'qualitySelector',
+          'playbackRateMenuButton',
+          'fullscreenToggle',
+        ],
+     },
+  })
+</script>
+
+<hr>
+<blockquote>
 <p>既然你们觉得打代码太复杂，直接用现成软件PotPlayer吧~</p>
 </blockquote>
 <h2 id="1"><a href="#1" class="headerlink" title="1."></a>1.</h2><p>打开你想倍速的网课的网页,右键复制视频链接<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200315-FastVid/06.webp"></p>
@@ -546,7 +588,40 @@ diyspd<span class="token operator">=</span>document<span class="token punctuatio
 <pre class="language-none"><code class="language-none">链接：https:&#x2F;&#x2F;pan.baidu.com&#x2F;videos&#x2F;1Tkj13K9dUw8cQSassFj1Dw
 提取码：gpwp</code></pre>
 
-<h1 id="手机版"><a href="#手机版" class="headerlink" title="手机版"></a>手机版</h1><h2 id="1-1"><a href="#1-1" class="headerlink" title="1."></a>1.</h2><p>用浏览器打开你想要倍速的网课网页<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200315-FastVid/12.webp"></p>
+<h1 id="手机版"><a href="#手机版" class="headerlink" title="手机版"></a>手机版</h1><h2 id="视频教程-2"><a href="#视频教程-2" class="headerlink" title="视频教程"></a>视频教程</h2><hr>
+
+<video id="welcomeVideo3" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/200315-FastVid/mpvid/video.m3u8" type="application/x-mpegURL" label="线路1">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids/200315-FastVid/mpvid/video.m3u8" type="application/x-mpegURL" label="线路2" selected="true">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@latest/200315-FastVid/mpvid/video.m3u8" type="application/x-mpegURL" label="线路3">
+</video>
+
+<script>
+  var w3 = document.getElementById("welcomeVideo3").parentNode.offsetWidth;
+
+  var myVideo3 = videojs('welcomeVideo3', {
+    loop: false,
+    controls: true,
+    preload: 'auto',
+    autoplay: false,
+    width: w3,
+    height: 0.5625*w3,
+    playbackRates: [0.5,1,1.5,2,3],
+    controlBar: {
+       children: [
+          'playToggle',
+          'progressControl',
+          'volumePanel',
+          'qualitySelector',
+          'playbackRateMenuButton',
+          'fullscreenToggle',
+        ],
+     },
+  })
+</script>
+
+<hr>
+<h2 id="1-1"><a href="#1-1" class="headerlink" title="1."></a>1.</h2><p>用浏览器打开你想要倍速的网课网页<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200315-FastVid/12.webp"></p>
 <h2 id="2-1"><a href="#2-1" class="headerlink" title="2."></a>2.</h2><p>长按视频下载<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200315-FastVid/13.webp"></p>
 <h2 id="3-2"><a href="#3-2" class="headerlink" title="3."></a>3.</h2><p>在下载详情页获得视频链接<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200315-FastVid/14.webp"></p>
 <h2 id="4-2"><a href="#4-2" class="headerlink" title="4."></a>4.</h2><p>打开MXPlayer<br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200315-FastVid/15.webp"></p>
@@ -1184,7 +1259,7 @@ diyspd<span class="token operator">=</span>document<span class="token punctuatio
             <br>
             
             &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                class="white-color">33.4k</span>&nbsp;字
+                class="white-color">34.5k</span>&nbsp;字
             
             
             

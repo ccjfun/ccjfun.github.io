@@ -436,14 +436,14 @@
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    822
+                    830
                 </div>
                 
 
                 
                 <div class="info-break-policy">
                     <i class="far fa-clock fa-fw"></i>阅读时长:&nbsp;&nbsp;
-                    2 分
+                    3 分
                 </div>
                 
 
@@ -474,20 +474,27 @@
 <h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><h2 id="注1："><a href="#注1：" class="headerlink" title="注1："></a>注1：</h2><p>本教程需要<code>root</code>，所以<code>iOS</code>小伙伴请在电脑上安装<code>安卓模拟器</code>解决~</p>
 <h2 id="注2："><a href="#注2：" class="headerlink" title="注2："></a>注2：</h2><p>当前版本的VMOS可能导致智学网<code>无法正常下载试题</code>的问题，如果需要用智学网获取试题请在电脑上安装<code>安卓模拟器</code>或<code>真机root</code>（不推荐）解决，然后跳到第5步！推荐<code>网易MUMU模拟器</code>，纯净没有广告~</p>
 <h2 id="注3："><a href="#注3：" class="headerlink" title="注3："></a>注3：</h2><p>部分模拟器（包括网易MUMU模拟器）会存在智学网下载试题后<code>无法打开</code>的情况，需要在模拟器内安装<code>office</code>~</p>
-<h1 id="视频教程"><a href="#视频教程" class="headerlink" title="视频教程"></a>视频教程</h1>
+<h1 id="视频教程"><a href="#视频教程" class="headerlink" title="视频教程"></a>视频教程</h1><hr>
+
 <link href="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist-ui.min.css" rel="stylesheet"></link>
 <link href="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/video-js.css" rel="stylesheet"></link>
+<link href="https://unpkg.com/@silvermine/videojs-quality-selector/dist/css/quality-selector.css" rel="stylesheet"></link>
+
 <script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/video.js'></script>
 <script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-http-streaming.min.js'></script>
 <script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist.js'></script>
 <script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist-ui.min.js'></script>
+<script src="https://unpkg.com/@silvermine/videojs-quality-selector/dist/js/silvermine-videojs-quality-selector.min.js"></script>
 
 <video id="welcomeVideo" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">
-      <source id="source" src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/200304-ZXYShow/vid/video.m3u8" type="application/x-mpegURL">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/200304-ZXYShow/vid/video.m3u8" type="application/x-mpegURL" label="线路1">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids/200304-ZXYShow/vid/video.m3u8" type="application/x-mpegURL" label="线路2" selected="true">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@latest/200304-ZXYShow/vid/video.m3u8" type="application/x-mpegURL" label="线路3">
 </video>
 
 <script>
   var w = document.getElementById("welcomeVideo").parentNode.offsetWidth;
+
   var myVideo = videojs('welcomeVideo', {
     loop: false,
     controls: true,
@@ -496,10 +503,20 @@
     width: w,
     height: 0.5625*w,
     playbackRates: [0.5,1,1.5,2,3],
+    controlBar: {
+       children: [
+          'playToggle',
+          'progressControl',
+          'volumePanel',
+          'qualitySelector',
+          'playbackRateMenuButton',
+          'fullscreenToggle',
+        ],
+     },
   })
 </script>
 
-
+<hr>
 <h1 id="每步图文"><a href="#每步图文" class="headerlink" title="每步图文"></a>每步图文</h1><p>前4步是给没有root的同学看的，不知道root是什么的也请看前4步</p>
 <h2 id="1-环境安装"><a href="#1-环境安装" class="headerlink" title="1.环境安装"></a>1.环境安装</h2><p>我是不推荐真机root的，除非你有把握，不然会把你的手机暴露在风险中。或者像我一样用锤子这些锁定Bootloader不让root的手机。所以第一步要在手机里安装一台虚拟机（相当于这个程序再加载了一个独立的手机系统），好处就是自带root而且改动不会影响手机。目前应该只有VMOS（中文：虚拟大师）这一款软件，不过它的技术挺成熟的我觉得。推荐的下载渠道是酷安，版本最新，手机自带应用商店可能搜不到或者版本太旧。</p>
 <p><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/200304-ZXYShow/01.webp"></p>
@@ -1156,7 +1173,7 @@
             <br>
             
             &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                class="white-color">33.4k</span>&nbsp;字
+                class="white-color">34.5k</span>&nbsp;字
             
             
             

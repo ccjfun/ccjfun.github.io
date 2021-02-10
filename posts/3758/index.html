@@ -342,7 +342,7 @@
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    33
+                    41
                 </div>
                 
 
@@ -373,20 +373,27 @@
         <div class="card-content article-card-content">
             <div id="articleContent">
                 <p><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@latest/200911-STParty/13d9eb2dc46aa02adf96bde2b3dd438.jpg"></p>
+<hr>
 
 <link href="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist-ui.min.css" rel="stylesheet"></link>
 <link href="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/video-js.css" rel="stylesheet"></link>
+<link href="https://unpkg.com/@silvermine/videojs-quality-selector/dist/css/quality-selector.css" rel="stylesheet"></link>
+
 <script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/video.js'></script>
 <script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-http-streaming.min.js'></script>
 <script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist.js'></script>
 <script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist-ui.min.js'></script>
+<script src="https://unpkg.com/@silvermine/videojs-quality-selector/dist/js/silvermine-videojs-quality-selector.min.js"></script>
 
 <video id="welcomeVideo" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">
-      <source id="source" src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/200911-STParty/video.m3u8" type="application/x-mpegURL">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/200911-STParty/video.m3u8" type="application/x-mpegURL" label="线路1">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids/200911-STParty/video.m3u8" type="application/x-mpegURL" label="线路2" selected="true">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@latest/200911-STParty/video.m3u8" type="application/x-mpegURL" label="线路3">
 </video>
 
 <script>
   var w = document.getElementById("welcomeVideo").parentNode.offsetWidth;
+
   var myVideo = videojs('welcomeVideo', {
     loop: false,
     controls: true,
@@ -395,10 +402,20 @@
     width: w,
     height: 0.5625*w,
     playbackRates: [0.5,1,1.5,2,3],
+    controlBar: {
+       children: [
+          'playToggle',
+          'progressControl',
+          'volumePanel',
+          'qualitySelector',
+          'playbackRateMenuButton',
+          'fullscreenToggle',
+        ],
+     },
   })
 </script>
 
-
+<hr>
 <p><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@latest/200911-STParty/13d9eb2dc46aa02adf96bde2b3dd439.jpg"></p>
 
                 
@@ -921,7 +938,7 @@
             <br>
             
             &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                class="white-color">33.4k</span>&nbsp;字
+                class="white-color">34.5k</span>&nbsp;字
             
             
             

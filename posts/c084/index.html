@@ -330,7 +330,7 @@
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    0
+                    105
                 </div>
                 
 
@@ -361,6 +361,38 @@
         <div class="card-content article-card-content">
             <div id="articleContent">
                 
+<link href="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist-ui.min.css" rel="stylesheet"></link>
+<link href="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/video-js.css" rel="stylesheet"></link>
+<script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/video.js'></script>
+<script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-http-streaming.min.js'></script>
+<script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist.js'></script>
+<script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist-ui.min.js'></script>
+
+<div class="player-container" id="welcomeVideo">
+<video id="theVideo" class="video-js vjs-default-skin vjs-big-play-centered vjs-v7 vjs-user-active" width="100%" height="100%"></video>
+<div class="vjs-playlist playlist-container" id="videolist">
+</div></div>
+
+<script>
+  var w = document.getElementById("welcomeVideo").offsetWidth;
+  var myVideo = videojs('theVideo', {
+    loop: false,
+    controls: true,
+    preload: 'auto',
+    autoplay: false,
+    width: w,
+    height: 0.5625*w,
+    playbackRates: [0.5,1,1.5,2,3]
+  });
+  myVideo.playlist([
+  {name: '极客版',sources: [{src: 'https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/200315-FastVid/gkvid/video.m3u8',type: 'video/webm'}]}, 
+  {name: '电脑版',sources: [{src: 'https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/200315-FastVid/pcvid/video.m3u8',type: 'video/webm'}]}, 
+  {name: '手机版',sources: [{src: 'https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/200315-FastVid/mpvid/video.m3u8',type: 'video/webm'}]}
+  ]);
+  myVideo.playlistUi();
+</script>
+
+
                 
             </div>
             <hr/>
@@ -768,16 +800,16 @@
         
         <div class="article col s12 m6" data-aos="fade-up">
             <div class="article-badge right-badge text-color">
-                本篇&nbsp;<i class="far fa-dot-circle"></i>
+                下一篇&nbsp;<i class="fas fa-chevron-right"></i>
             </div>
             <div class="card">
-                <a href="/posts/c084/">
+                <a href="/posts/10fb/">
                     <div class="card-image">
                         
                         
-                        <img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-res-photo@master/cover/05.webp" class="responsive-img" alt="阿汤哥主演作品合集">
+                        <img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-res-photo@master/cover/23.webp" class="responsive-img" alt="一些较为优秀的动画片">
                         
-                        <span class="card-title">阿汤哥主演作品合集</span>
+                        <span class="card-title">一些较为优秀的动画片</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
@@ -802,7 +834,6 @@
                         </span>
                     </div>
                 </div>
-
                 
             </div>
         </div>
@@ -852,7 +883,7 @@
             <br>
             
             &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                class="white-color">33.4k</span>&nbsp;字
+                class="white-color">34.5k</span>&nbsp;字
             
             
             

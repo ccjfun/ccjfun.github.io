@@ -350,7 +350,7 @@
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    106
+                    114
                 </div>
                 
 
@@ -388,20 +388,27 @@
 <p>探寻我们的广州印象<br>Go and find our Canton Feeling</p>
 <p>iPad拍摄+剪辑+发布の尝试</p>
 <p><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/099.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/100.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/101.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/102.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/103.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/104.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/105.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/106.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/107.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/108.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/109.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/110.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/111.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/201002-CanFeel/112.webp"></p>
+<hr>
 
 <link href="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist-ui.min.css" rel="stylesheet"></link>
 <link href="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/video-js.css" rel="stylesheet"></link>
+<link href="https://unpkg.com/@silvermine/videojs-quality-selector/dist/css/quality-selector.css" rel="stylesheet"></link>
+
 <script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/video.js'></script>
 <script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-http-streaming.min.js'></script>
 <script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist.js'></script>
 <script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist-ui.min.js'></script>
+<script src="https://unpkg.com/@silvermine/videojs-quality-selector/dist/js/silvermine-videojs-quality-selector.min.js"></script>
 
 <video id="welcomeVideo" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">
-      <source id="source" src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/201002-CanFeel/canfeel/video.m3u8" type="application/x-mpegURL">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/201002-CanFeel/canfeel/video.m3u8" type="application/x-mpegURL" label="线路1">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids/201002-CanFeel/canfeel/video.m3u8" type="application/x-mpegURL" label="线路2" selected="true">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@latest/201002-CanFeel/canfeel/video.m3u8" type="application/x-mpegURL" label="线路3">
 </video>
 
 <script>
   var w = document.getElementById("welcomeVideo").parentNode.offsetWidth;
+
   var myVideo = videojs('welcomeVideo', {
     loop: false,
     controls: true,
@@ -410,8 +417,20 @@
     width: w,
     height: 0.5625*w,
     playbackRates: [0.5,1,1.5,2,3],
+    controlBar: {
+       children: [
+          'playToggle',
+          'progressControl',
+          'volumePanel',
+          'qualitySelector',
+          'playbackRateMenuButton',
+          'fullscreenToggle',
+        ],
+     },
   })
 </script>
+
+<hr>
 
                 
             </div>
@@ -954,7 +973,7 @@
             <br>
             
             &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                class="white-color">33.4k</span>&nbsp;字
+                class="white-color">34.5k</span>&nbsp;字
             
             
             

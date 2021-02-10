@@ -338,14 +338,14 @@
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    976
+                    901
                 </div>
                 
 
                 
                 <div class="info-break-policy">
                     <i class="far fa-clock fa-fw"></i>阅读时长:&nbsp;&nbsp;
-                    4 分
+                    3 分
                 </div>
                 
 
@@ -371,42 +371,42 @@
                 
 <link href="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist-ui.min.css" rel="stylesheet"></link>
 <link href="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/video-js.css" rel="stylesheet"></link>
+<link href="https://unpkg.com/@silvermine/videojs-quality-selector/dist/css/quality-selector.css" rel="stylesheet"></link>
+
 <script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/video.js'></script>
 <script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-http-streaming.min.js'></script>
 <script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist.js'></script>
 <script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist-ui.min.js'></script>
-<style>
-.player-container{background:#1a1a1a;overflow:auto;}
-@media only screen and (min-width: 1000px) {.video-js{float: left;width: 75%;}}
-@media only screen and (min-width: 1000px) {.vjs-playlist{float: right;width: 25%;max-height:500px;}}
-@media only screen and (max-width: 1000px) {.video-js{float: left;width: 100%;}}
-@media only screen and (max-width: 1000px) {.vjs-playlist{float: right;width: 100%;}}
-.vjs-playlist-item{border: 1px solid #FFFFFF;}
-.vjs-playlist .vjs-selected{border: 1px solid #00FF00;}
-.vjs-playlist .vjs-selected img{opacity: .5;}
-</style>
-<div id="welcomeVideo" class="player-container">
-<video id="theVideo" class="video-js vjs-default-skin vjs-big-play-centered vjs-v7 vjs-user-active" width="100%" height="100%"></video>
-<div class="vjs-playlist playlist-container" id="videolist">
-</div></div>
+<script src="https://unpkg.com/@silvermine/videojs-quality-selector/dist/js/silvermine-videojs-quality-selector.min.js"></script>
+
+<video id="welcomeVideo" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/200316-GameVids/csl-ekc/video.m3u8" type="application/x-mpegURL" label="线路1">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids/200316-GameVids/csl-ekc/video.m3u8" type="application/x-mpegURL" label="线路2" selected="true">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@latest/200316-GameVids/csl-ekc/video.m3u8" type="application/x-mpegURL" label="线路3">
+</video>
 
 <script>
-  var w = document.getElementById("welcomeVideo").offsetWidth;
-  var myVideo = videojs('theVideo', {
+  var w = document.getElementById("welcomeVideo").parentNode.offsetWidth;
+
+  var myVideo = videojs('welcomeVideo', {
     loop: false,
     controls: true,
     preload: 'auto',
     autoplay: false,
     width: w,
     height: 0.5625*w,
-    playbackRates: [0.5,1,1.5,2,3]
-  });
-  myVideo.playlist([
-  {name: '东堪察加城',sources: [{src: 'https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/200316-GameVids/csl-ekc/video.m3u8',type: 'application/x-mpegURL'}]}, 
-  {name: '天际线GTA5',sources: [{src: 'https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/200316-GameVids/csl-gtav/video.m3u8',type: 'application/x-mpegURL'}]}, 
-  {name: '浴火银河2',sources: [{src: 'https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/200316-GameVids/gof23hpass/video.m3u8',type: 'application/x-mpegURL'}]}
-  ]);
-  myVideo.playlistUi();
+    playbackRates: [0.5,1,1.5,2,3],
+    controlBar: {
+       children: [
+          'playToggle',
+          'progressControl',
+          'volumePanel',
+          'qualitySelector',
+          'playbackRateMenuButton',
+          'fullscreenToggle',
+        ],
+     },
+  })
 </script>
 
 <hr>
@@ -420,8 +420,74 @@
 <p>**If you leave the EKC within 2 years , you have to pay the fees off.<br>**如果您在东勘察加城居住时间少于2年内离开，您需偿还以上费用。</p>
 <p>For more information , please visit : devabul.ek (404,????)<br>想获取更多信息请访问：devabul.ek（404，笑）</p>
 <p>当然，以上吹水均为虚构，而且这座城市早已被核弹摧毁。。。</p>
+<hr>
+
+<video id="welcomeVideo2" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/200316-GameVids/csl-gtav/video.m3u8" type="application/x-mpegURL" label="线路1">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids/200316-GameVids/csl-gtav/video.m3u8" type="application/x-mpegURL" label="线路2" selected="true">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@latest/200316-GameVids/csl-gtav/video.m3u8" type="application/x-mpegURL" label="线路3">
+</video>
+
+<script>
+  var w2 = document.getElementById("welcomeVideo2").parentNode.offsetWidth;
+
+  var myVideo2 = videojs('welcomeVideo2', {
+    loop: false,
+    controls: true,
+    preload: 'auto',
+    autoplay: false,
+    width: w2,
+    height: 0.5625*w2,
+    playbackRates: [0.5,1,1.5,2,3],
+    controlBar: {
+       children: [
+          'playToggle',
+          'progressControl',
+          'volumePanel',
+          'qualitySelector',
+          'playbackRateMenuButton',
+          'fullscreenToggle',
+        ],
+     },
+  })
+</script>
+
+<hr>
 <p><code>城市天际线：GTA5快闪</code></p>
 <p>来自国外大神的GTA5城市天际线地图，没有滤镜没有mod，感受原生CSL（还是加mod好~），再配上蜜汁踩点的BGM: <code>Taylor Swift - Bad Blood</code>，感受一下～</p>
+<hr>
+
+<video id="welcomeVideo3" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/200316-GameVids/gof23hpass/video.m3u8" type="application/x-mpegURL" label="线路1">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids/200316-GameVids/gof23hpass/video.m3u8" type="application/x-mpegURL" label="线路2" selected="true">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@latest/200316-GameVids/gof23hpass/video.m3u8" type="application/x-mpegURL" label="线路3">
+</video>
+
+<script>
+  var w3 = document.getElementById("welcomeVideo2").parentNode.offsetWidth;
+
+  var myVideo3 = videojs('welcomeVideo3', {
+    loop: false,
+    controls: true,
+    preload: 'auto',
+    autoplay: false,
+    width: w3,
+    height: 0.5625*w3,
+    playbackRates: [0.5,1,1.5,2,3],
+    controlBar: {
+       children: [
+          'playToggle',
+          'progressControl',
+          'volumePanel',
+          'qualitySelector',
+          'playbackRateMenuButton',
+          'fullscreenToggle',
+        ],
+     },
+  })
+</script>
+
+<hr>
 <p><code>浴火银河2-GOF2-3小时全剧情通关</code></p>
 <p>拜新冠疫情所赐，宅家一个多月，实在想找点事情干，于是翻出了这款经典。时隔3年，重新在安卓端找到了GOF2可用的汉化高清破解版</p>
 <p>【汉化：还是不习惯英文；高清：都1080P时代了，那么大的按钮和每页少得可怜的文字有点不爽；破解：国内安卓要付费有点麻烦】</p>
@@ -964,7 +1030,7 @@
             <br>
             
             &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                class="white-color">33.4k</span>&nbsp;字
+                class="white-color">34.5k</span>&nbsp;字
             
             
             

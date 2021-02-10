@@ -338,7 +338,7 @@
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    271
+                    199
                 </div>
                 
 
@@ -369,48 +369,114 @@
         <div class="card-content article-card-content">
             <div id="articleContent">
                 <p>2013年的新加坡之旅，包含了一些<code>图片与录像</code>，还有一些<code>旅行锦囊</code></p>
-<p>2014年的日本之旅，包含了一些<code>图片与录像</code>，还有一些<code>景点介绍</code></p>
-<p>2014年的香港之旅，包含了一些<code>图片与录像</code>，还有一些<code>景点介绍</code></p>
 <hr>
 
-<link href="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist-ui.min.css" rel="stylesheet" />
-<link href="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/video-js.css" rel="stylesheet" />
+<link href="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist-ui.min.css" rel="stylesheet"></link>
+<link href="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/video-js.css" rel="stylesheet"></link>
+<link href="https://unpkg.com/@silvermine/videojs-quality-selector/dist/css/quality-selector.css" rel="stylesheet"></link>
+
 <script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/video.js'></script>
 <script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-http-streaming.min.js'></script>
 <script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist.js'></script>
 <script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist-ui.min.js'></script>
-<style>
-.player-container{background:#1a1a1a;overflow:auto;}
-@media only screen and (min-width: 1000px) {.video-js{float: left;width: 75%;}}
-@media only screen and (min-width: 1000px) {.vjs-playlist{float: right;width: 25%;max-height:500px;}}
-@media only screen and (max-width: 1000px) {.video-js{float: left;width: 100%;}}
-@media only screen and (max-width: 1000px) {.vjs-playlist{float: right;width: 100%;}}
-.vjs-playlist-item{border: 1px solid #FFFFFF;}
-.vjs-playlist .vjs-selected{border: 1px solid #00FF00;}
-.vjs-playlist .vjs-selected img{opacity: .5;}
-</style>
-<div id="welcomeVideo" class="player-container">
-<video id="theVideo" class="video-js vjs-default-skin vjs-big-play-centered vjs-v7 vjs-user-active" width="100%" height="100%"></video>
-<div class="vjs-playlist playlist-container" id="videolist">
-</div></div>
+<script src="https://unpkg.com/@silvermine/videojs-quality-selector/dist/js/silvermine-videojs-quality-selector.min.js"></script>
+
+<video id="welcomeVideo" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/150101-TripVids/sg/video.m3u8" type="application/x-mpegURL" label="线路1">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids/150101-TripVids/sg/video.m3u8" type="application/x-mpegURL" label="线路2" selected="true">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@latest/150101-TripVids/sg/video.m3u8" type="application/x-mpegURL" label="线路3">
+</video>
 
 <script>
-  var w = document.getElementById("welcomeVideo").offsetWidth;
-  var myVideo = videojs('theVideo', {
+  var w = document.getElementById("welcomeVideo").parentNode.offsetWidth;
+
+  var myVideo = videojs('welcomeVideo', {
     loop: false,
     controls: true,
     preload: 'auto',
     autoplay: false,
     width: w,
     height: 0.5625*w,
-    playbackRates: [0.5,1,1.5,2,3]
-  });
-  myVideo.playlist([
-  {name: '新加坡之旅',sources: [{src: 'https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/150101-TripVids/sg/video.m3u8',type: 'application/x-mpegURL'}]}, 
-  {name: '日本之旅',sources: [{src: 'https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/150101-TripVids/jp/video.m3u8',type: 'application/x-mpegURL'}]}, 
-  {name: '香港之旅',sources: [{src: 'https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/150101-TripVids/hk/video.m3u8',type: 'application/x-mpegURL'}]}
-  ]);
-  myVideo.playlistUi();
+    playbackRates: [0.5,1,1.5,2,3],
+    controlBar: {
+       children: [
+          'playToggle',
+          'progressControl',
+          'volumePanel',
+          'qualitySelector',
+          'playbackRateMenuButton',
+          'fullscreenToggle',
+        ],
+     },
+  })
+</script>
+
+<hr>
+<p>2014年的日本之旅，包含了一些<code>图片与录像</code>，还有一些<code>景点介绍</code></p>
+<hr>
+
+<video id="welcomeVideo2" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/150101-TripVids/jp/video.m3u8" type="application/x-mpegURL" label="线路1">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids/150101-TripVids/jp/video.m3u8" type="application/x-mpegURL" label="线路2" selected="true">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@latest/150101-TripVids/jp/video.m3u8" type="application/x-mpegURL" label="线路3">
+</video>
+
+<script>
+  var w2 = document.getElementById("welcomeVideo2").parentNode.offsetWidth;
+
+  var myVideo2 = videojs('welcomeVideo2', {
+    loop: false,
+    controls: true,
+    preload: 'auto',
+    autoplay: false,
+    width: w2,
+    height: 0.5625*w2,
+    playbackRates: [0.5,1,1.5,2,3],
+    controlBar: {
+       children: [
+          'playToggle',
+          'progressControl',
+          'volumePanel',
+          'qualitySelector',
+          'playbackRateMenuButton',
+          'fullscreenToggle',
+        ],
+     },
+  })
+</script>
+
+<hr>
+<p>2014年的香港之旅，包含了一些<code>图片与录像</code>，还有一些<code>景点介绍</code></p>
+<hr>
+
+<video id="welcomeVideo3" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/150101-TripVids/hk/video.m3u8" type="application/x-mpegURL" label="线路1">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids/150101-TripVids/hk/video.m3u8" type="application/x-mpegURL" label="线路2" selected="true">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@latest/150101-TripVids/hk/video.m3u8" type="application/x-mpegURL" label="线路3">
+</video>
+
+<script>
+  var w3 = document.getElementById("welcomeVideo3").parentNode.offsetWidth;
+
+  var myVideo3 = videojs('welcomeVideo3', {
+    loop: false,
+    controls: true,
+    preload: 'auto',
+    autoplay: false,
+    width: w3,
+    height: 0.5625*w3,
+    playbackRates: [0.5,1,1.5,2,3],
+    controlBar: {
+       children: [
+          'playToggle',
+          'progressControl',
+          'volumePanel',
+          'qualitySelector',
+          'playbackRateMenuButton',
+          'fullscreenToggle',
+        ],
+     },
+  })
 </script>
 
 <hr>
@@ -852,9 +918,9 @@
                     <div class="card-image">
                         
                         
-                        <img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-res-photo@master/cover/01.webp" class="responsive-img" alt="Charlie Puth 所有专辑">
+                        <img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-res-photo@master/cover/51.webp" class="responsive-img" alt="Charlie Puth 歌曲精选">
                         
-                        <span class="card-title">Charlie Puth 所有专辑</span>
+                        <span class="card-title">Charlie Puth 歌曲精选</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
@@ -928,7 +994,7 @@
             <br>
             
             &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                class="white-color">33.4k</span>&nbsp;字
+                class="white-color">34.5k</span>&nbsp;字
             
             
             

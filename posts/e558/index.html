@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="keywords" content="洋域不定时新闻001, 一只CCJ">
+    <meta name="keywords" content="洋域EP1&amp;2：基建介绍&amp;南湾西区, 一只CCJ">
     <meta name="description" content="">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
@@ -16,7 +16,7 @@
     <!-- Global site tag (gtag.js) - Google Analytics -->
 
 
-    <title>洋域不定时新闻001 | 一只CCJ</title>
+    <title>洋域EP1&amp;2：基建介绍&amp;南湾西区 | 一只CCJ</title>
     <link rel="icon" type="image/png" href="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/favicon.png">
 
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/ccjfun/ccjfun.github.io@latest/libs/awesome/css/all.css">
@@ -278,7 +278,7 @@
         <div class="row">
             <div class="col s12 m12 l12">
                 <div class="brand">
-                    <h1 class="description center-align post-title">洋域不定时新闻001</h1>
+                    <h1 class="description center-align post-title">洋域EP1&amp;2：基建介绍&amp;南湾西区</h1>
                 </div>
             </div>
         </div>
@@ -334,7 +334,7 @@
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    0
+                    82
                 </div>
                 
 
@@ -364,7 +364,83 @@
 
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <p><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/210123-OceaNews/0019.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/210123-OceaNews/0020.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/210123-OceaNews/0021.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/210123-OceaNews/0022.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/210123-OceaNews/0023.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/210123-OceaNews/0024.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/210123-OceaNews/0025.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/210123-OceaNews/0026.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/210123-OceaNews/0027.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/210123-OceaNews/0028.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/210123-OceaNews/0029.webp"></p>
+                <hr>
+
+<link href="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist-ui.min.css" rel="stylesheet"></link>
+<link href="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/video-js.css" rel="stylesheet"></link>
+<link href="https://unpkg.com/@silvermine/videojs-quality-selector/dist/css/quality-selector.css" rel="stylesheet"></link>
+
+<script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/video.js'></script>
+<script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-http-streaming.min.js'></script>
+<script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist.js'></script>
+<script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist-ui.min.js'></script>
+<script src="https://unpkg.com/@silvermine/videojs-quality-selector/dist/js/silvermine-videojs-quality-selector.min.js"></script>
+
+<video id="welcomeVideo" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/210205-Ocea/ep1/video.m3u8" type="application/x-mpegURL" label="线路1">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids/210205-Ocea/ep1/video.m3u8" type="application/x-mpegURL" label="线路2" selected="true">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@latest/210205-Ocea/ep1/vid/video.m3u8" type="application/x-mpegURL" label="线路3">
+</video>
+
+<script>
+  var w = document.getElementById("welcomeVideo").parentNode.offsetWidth;
+
+  var myVideo = videojs('welcomeVideo', {
+    loop: false,
+    controls: true,
+    preload: 'auto',
+    autoplay: false,
+    width: w,
+    height: 0.5625*w,
+    playbackRates: [0.5,1,1.5,2,3],
+    controlBar: {
+       children: [
+          'playToggle',
+          'progressControl',
+          'volumePanel',
+          'qualitySelector',
+          'playbackRateMenuButton',
+          'fullscreenToggle',
+        ],
+     },
+  })
+</script>
+
+<hr>
+<hr>
+
+<video id="welcomeVideo2" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/210205-Ocea/ep2/video.m3u8" type="application/x-mpegURL" label="线路1">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids/210205-Ocea/ep2/video.m3u8" type="application/x-mpegURL" label="线路2" selected="true">
+   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@latest/210205-Ocea/ep2/vid/video.m3u8" type="application/x-mpegURL" label="线路3">
+</video>
+
+<script>
+  var w2 = document.getElementById("welcomeVideo2").parentNode.offsetWidth;
+
+  var myVideo2 = videojs('welcomeVideo2', {
+    loop: false,
+    controls: true,
+    preload: 'auto',
+    autoplay: false,
+    width: w2,
+    height: 0.5625*w2,
+    playbackRates: [0.5,1,1.5,2,3],
+    controlBar: {
+       children: [
+          'playToggle',
+          'progressControl',
+          'volumePanel',
+          'qualitySelector',
+          'playbackRateMenuButton',
+          'fullscreenToggle',
+        ],
+     },
+  })
+</script>
+
+<hr>
+<p><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/210123-OceaNews/0019.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/210123-OceaNews/0020.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/210123-OceaNews/0021.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/210123-OceaNews/0022.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/210123-OceaNews/0023.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/210123-OceaNews/0024.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/210123-OceaNews/0025.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/210123-OceaNews/0026.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/210123-OceaNews/0027.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/210123-OceaNews/0028.webp"><br><img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/210123-OceaNews/0029.webp"></p>
 
                 
             </div>
@@ -799,13 +875,13 @@
                 下一篇&nbsp;<i class="fas fa-chevron-right"></i>
             </div>
             <div class="card">
-                <a href="/posts/e773/">
+                <a href="/posts/d213/">
                     <div class="card-image">
                         
                         
-                        <img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-res-photo@master/cover/55.webp" class="responsive-img" alt="说走就走1">
+                        <img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-res-photo@master/cover/21.webp" class="responsive-img" alt="我的搞机日记③ 刷入Magisk面具与Xposed框架">
                         
-                        <span class="card-title">说走就走1</span>
+                        <span class="card-title">我的搞机日记③ 刷入Magisk面具与Xposed框架</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
@@ -816,14 +892,14 @@
                     </div>
                     <div class="publish-info">
                             <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2020-12-25
+                                <i class="far fa-clock fa-fw icon-date"></i>2021-01-22
                             </span>
                         <span class="publish-author">
                             
                             <i class="fas fa-bookmark fa-fw icon-category"></i>
                             
-                            <a href="/categories/%E6%97%A5%E8%AE%B0/" class="post-category">
-                                    日记
+                            <a href="/categories/%E6%95%99%E7%A8%8B/" class="post-category">
+                                    教程
                                 </a>
                             
                             
@@ -833,16 +909,8 @@
                 
                 <div class="card-action article-tags">
                     
-                    <a href="/tags/%E6%91%84%E5%BD%B1/">
-                        <span class="chip bg-color">摄影</span>
-                    </a>
-                    
-                    <a href="/tags/%E9%A3%9E%E6%9C%BA/">
-                        <span class="chip bg-color">飞机</span>
-                    </a>
-                    
-                    <a href="/tags/%E5%B9%BF%E5%B7%9E/">
-                        <span class="chip bg-color">广州</span>
+                    <a href="/tags/%E6%90%9E%E6%9C%BA/">
+                        <span class="chip bg-color">搞机</span>
                     </a>
                     
                 </div>
@@ -895,7 +963,7 @@
             <br>
             
             &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                class="white-color">33.4k</span>&nbsp;字
+                class="white-color">34.5k</span>&nbsp;字
             
             
             

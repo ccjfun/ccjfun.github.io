@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="keywords" content="旅行者的记录, 一只CCJ">
+    <meta name="keywords" content="朋友区, 一只CCJ">
     <meta name="description" content="">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
@@ -16,7 +16,7 @@
     <!-- Global site tag (gtag.js) - Google Analytics -->
 
 
-    <title>旅行者的记录 | 一只CCJ</title>
+    <title>朋友区 | 一只CCJ</title>
     <link rel="icon" type="image/png" href="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/favicon.png">
 
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/ccjfun/ccjfun.github.io@latest/libs/awesome/css/all.css">
@@ -260,7 +260,7 @@
 <script src="https://cdn.jsdelivr.net/gh/ccjfun/ccjfun.github.io@latest/libs/cryptojs/crypto-js.min.js"></script>
 <script>
     (function() {
-        let pwd = '';
+        let pwd = '20e9c64c05a54d199610fb7e38135361324b5ed5dcf39c23afe9b48926c07376';
         if (pwd && pwd.length > 0) {
             if (pwd !== CryptoJS.SHA256(prompt('请输入访问本文章的密码')).toString(CryptoJS.enc.Hex)) {
                 alert('密码错误，将返回主页！');
@@ -278,7 +278,7 @@
         <div class="row">
             <div class="col s12 m12 l12">
                 <div class="brand">
-                    <h1 class="description center-align post-title">旅行者的记录</h1>
+                    <h1 class="description center-align post-title">朋友区</h1>
                 </div>
             </div>
         </div>
@@ -300,12 +300,8 @@
                     
                     <div class="article-tag">
                         
-                            <a href="/tags/%E7%94%9F%E6%B4%BB/">
-                                <span class="chip bg-color">生活</span>
-                            </a>
-                        
-                            <a href="/tags/%E6%97%85%E8%A1%8C/">
-                                <span class="chip bg-color">旅行</span>
+                            <a href="/tags/%E9%AB%98%E4%B8%AD/">
+                                <span class="chip bg-color">高中</span>
                             </a>
                         
                     </div>
@@ -316,8 +312,8 @@
                     <div class="post-cate">
                         <i class="fas fa-bookmark fa-fw icon-category"></i>
                         
-                            <a href="/categories/%E8%A7%86%E9%A2%91/" class="post-category">
-                                视频
+                            <a href="/categories/%E6%97%A5%E8%AE%B0/" class="post-category">
+                                日记
                             </a>
                         
                     </div>
@@ -329,7 +325,7 @@
                 
                 <div class="post-date info-break-policy">
                     <i class="far fa-calendar-minus fa-fw"></i>发布日期:&nbsp;&nbsp;
-                    2015-01-01
+                    2021-02-17
                 </div>
                 
 
@@ -338,14 +334,14 @@
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    199
+                    1.9k
                 </div>
                 
 
                 
                 <div class="info-break-policy">
                     <i class="far fa-clock fa-fw"></i>阅读时长:&nbsp;&nbsp;
-                    1 分
+                    6 分
                 </div>
                 
 
@@ -368,118 +364,7 @@
 
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <p>2013年的新加坡之旅，包含了一些<code>图片与录像</code>，还有一些<code>旅行锦囊</code></p>
-<hr>
-
-<link href="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist-ui.min.css" rel="stylesheet"></link>
-<link href="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/video-js.css" rel="stylesheet"></link>
-<link href="https://unpkg.com/@silvermine/videojs-quality-selector/dist/css/quality-selector.css" rel="stylesheet"></link>
-
-<script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/video.js'></script>
-<script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-http-streaming.min.js'></script>
-<script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist.js'></script>
-<script src='https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-libs@master/videojs-playlist-ui.min.js'></script>
-<script src="https://unpkg.com/@silvermine/videojs-quality-selector/dist/js/silvermine-videojs-quality-selector.min.js"></script>
-
-<video id="welcomeVideo" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">
-   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/150101-TripVids/sg/video.m3u8" type="application/x-mpegURL" label="线路1">
-   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids/150101-TripVids/sg/video.m3u8" type="application/x-mpegURL" label="线路2" selected="true">
-   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@latest/150101-TripVids/sg/video.m3u8" type="application/x-mpegURL" label="线路3">
-</video>
-
-<script>
-  var w = document.getElementById("welcomeVideo").parentNode.offsetWidth;
-
-  var myVideo = videojs('welcomeVideo', {
-    loop: false,
-    controls: true,
-    preload: 'auto',
-    autoplay: false,
-    width: w,
-    height: 0.5625*w,
-    playbackRates: [0.5,1,1.5,2,3],
-    controlBar: {
-       children: [
-          'playToggle',
-          'progressControl',
-          'volumePanel',
-          'qualitySelector',
-          'playbackRateMenuButton',
-          'fullscreenToggle',
-        ],
-     },
-  })
-</script>
-
-<hr>
-<p>2014年的日本之旅，包含了一些<code>图片与录像</code>，还有一些<code>景点介绍</code></p>
-<hr>
-
-<video id="welcomeVideo2" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">
-   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/150101-TripVids/jp/video.m3u8" type="application/x-mpegURL" label="线路1">
-   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids/150101-TripVids/jp/video.m3u8" type="application/x-mpegURL" label="线路2" selected="true">
-   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@latest/150101-TripVids/jp/video.m3u8" type="application/x-mpegURL" label="线路3">
-</video>
-
-<script>
-  var w2 = document.getElementById("welcomeVideo2").parentNode.offsetWidth;
-
-  var myVideo2 = videojs('welcomeVideo2', {
-    loop: false,
-    controls: true,
-    preload: 'auto',
-    autoplay: false,
-    width: w2,
-    height: 0.5625*w2,
-    playbackRates: [0.5,1,1.5,2,3],
-    controlBar: {
-       children: [
-          'playToggle',
-          'progressControl',
-          'volumePanel',
-          'qualitySelector',
-          'playbackRateMenuButton',
-          'fullscreenToggle',
-        ],
-     },
-  })
-</script>
-
-<hr>
-<p>2014年的香港之旅，包含了一些<code>图片与录像</code>，还有一些<code>景点介绍</code></p>
-<hr>
-
-<video id="welcomeVideo3" class="video-js vjs-default-skin vjs-big-play-centered" width="100%">
-   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@master/150101-TripVids/hk/video.m3u8" type="application/x-mpegURL" label="线路1">
-   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids/150101-TripVids/hk/video.m3u8" type="application/x-mpegURL" label="线路2" selected="true">
-   <source src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-vids@latest/150101-TripVids/hk/video.m3u8" type="application/x-mpegURL" label="线路3">
-</video>
-
-<script>
-  var w3 = document.getElementById("welcomeVideo3").parentNode.offsetWidth;
-
-  var myVideo3 = videojs('welcomeVideo3', {
-    loop: false,
-    controls: true,
-    preload: 'auto',
-    autoplay: false,
-    width: w3,
-    height: 0.5625*w3,
-    playbackRates: [0.5,1,1.5,2,3],
-    controlBar: {
-       children: [
-          'playToggle',
-          'progressControl',
-          'volumePanel',
-          'qualitySelector',
-          'playbackRateMenuButton',
-          'fullscreenToggle',
-        ],
-     },
-  })
-</script>
-
-<hr>
+                <p>在高一，我结识了对我来说最重要的朋友之一，这是一件对我影响深远的事。其实，准确地来说，应该是我们两个之间发生的许多故事，这些事情，不断改变或修正我对“什么是朋友”的认识，也潜移默化地影响了我的价值观，接下来，请容我慢慢道来。<br>我自认为在与父母的日常生活中，其实没有很多愉快的时光。我的感受几乎没有被考虑过，小的时候经常被暴力或者变相冷暴力对待。尤其是我的妈妈，一直要将我置于她的控制之下，按着她的价值观来捏造我，伴随的是语言暴力、肢体暴力或者各种各样的冷暴力。所以，我希望能从友谊中找回我在家庭感受不到的理解、陪伴。<br>但另一方面，我又是怯生的人。我小的时候对于陌生人、新同学都有一种恐惧感。这一点随着年龄的增长有所改变，然而，我仍是一个不善交流的人，和别人在一起的时候总不知道开口聊什么。我的兴趣爱好十分小众，很难找到同好，而大部分人所喜好的运动、游戏等爱好我却又不感冒，这使我从幼儿园开始到初一，一直没能结交到真正意义上的朋友。<br>我对“朋友”也比较“挑剔”，我希望我的朋友与我志同道合、能彼此激励同时又能相互依靠。而令我庆幸的是，我终于在高一结识了符合这些期望的一位同班同学，并在下学期正式成为了朋友。不过，我们两个人之间的一系列波折，也由此开始，我的观念也逐步开始随着这些事情而改变。<br>在上高中之前，“生日”这件事在我的记忆里只有家人的影子，所以当我在高一下学期生日的那个下午，独自一人从宿舍走到教室，看到桌面上的那份生日礼物，心里真是说不出的开心和感动。从那天晚上起，我主动去找他晚自修下课后一起回宿舍（此时已经分班了）。每天晚上从教学楼到西校区这段路的聊天中，我发现我结识了一位可以无话不谈的朋友,而他对我来说也是学霸一般的存在，给了我一个努力的目标。<br>转眼到了高二开学，我本已做好每日三餐独自一人的准备，他主动来邀请我一起吃午餐更是令我惊喜。而在接下来的一个月中，我们的共进午餐晚餐，一起回宿舍、逛小卖部，更多的交流促进了彼此的了解，在周末回家时，也终于有人能陪我在微信上闲侃。这一段时间里，我们在学习上互帮互助，我也久违地有了学习的强大动力。此外，我也算是第一次受邀在假期外出一起玩和自习。这一个月，我确定了他就是与我志同道合、能彼此激励同时又能相互依靠的挚友，我甚至觉得，基于我对女朋友的期望也大概如此（志同道合、彼此激励、相互依靠），我其实一段时间内并不需要女朋友（差点被认为是男同）。<br>这一个月的时间，我感受到了有人理解和陪伴的快乐，似乎也进入了一个“舒适区”，没有再主动去与同班的同学接触。殊不知，这种依赖感，给我们未来发生的波折埋下了种子。由于他改变了作息，而我为了维持这种依赖感，也将作息改成了这种我不太喜欢的作息。此时，习惯于这种依赖感的我开始逐渐感觉到难受，然而我却又觉得提出来太矫情。现在想来，我本应该从那时起就意识到这种过度依赖感的错误，但受限于我当时对朋友的认识仍处在“无处不在的陪伴”这一阶段，这种过度依赖给我带来了诸多的难受。<br>不过接下来的月考，我破天荒地考进了全班第二和全级前100，这对于高一徘徊在全级数百名的我无疑是巨大的冲击。这巨大的喜悦暂时掩盖了我的烦恼，也让我庆幸遇到这样一位益友。接下来的一个多月，我们也发掘了更多的同好，在学业上也相互帮助，而在接下来的期中考中，我更是进一步来到了全级75的排名，仿佛，我开始了我理想——得到陪伴，有所成就——的高中生活。<br>而波折也恰恰在这时候到来。一方面，他这两次考试都不理想，想要投入更多的精力在自己的学业上；另一方面，他的令一位朋友（女性）觉得收到了他的冷落，他决定抽出时间陪陪她。综合起来，我们两个在一起的时间就少了，这对于那时的我来说是难以接受的。而我的性格也导致了我没有及时和他沟通我的想法，从而开始不断积累，终于在放假的前一天发作，进而导致了我们俩第一次绝交。那天晚上是我印象里最难过的一个夜晚，彻夜辗转难眠。<br>隔天下午我忍不住提出和好，并在接下来度过了一个关系还算融洽的寒假。现在想来，应该是得益于寒假所带来的物理上的隔离。而在这段时间里，他和那位女同学已经发展为男女朋友关系了。开学后，由于这个因素以及我仍旧过于敏感，他逐渐疏远了我，我们也开始了一段时好时坏的时期。经过了两个半月的发展，我们的关系还是来到了谷底，此时，我出于避免关系再度恶化到极点，提出了绝交。<br>这一举动，相当于一下子把我自己拽出了习惯了半年多的交往“舒适区”，也从另一方面逼使我自己去融入自己的班集体。我痛定思痛，从被动接受到主动明白了诸多道理，例如我曾经地这么把自己强行与另一个人绑定在一起，这种过度依赖的想法，是不稳定的，更是自私的；又例如朋友不是情侣，朋友不应该被作为替代对象的角色……<br>慢慢地我发现，其实结识朋友并不是很难，在我看来可以用一个词：“朋友区”来总结。首先和朋友要处在同一个“区”内，这个区可以是兴趣爱好，可以是目标追求，可以是互帮互助；其次，和朋友之间要有一个隔开的“区”，这个“区”是彼此的自由空间……<br>我很高兴在高三一年，能与班上许多兄弟共同度过，他们也让我明白了真正的友谊应该如何去构建。现在，我也与他重新和好，希望未来的大学生涯中，我能处理好友谊，为生活添上更多色彩。</p>
 
                 
             </div>
@@ -506,7 +391,7 @@
                     </i>
                 </span>
                 <span class="reprint-info">
-                    <a href="https://ccjfun.cf/posts/1d44/">https://ccjfun.cf/posts/1d44/</a>
+                    <a href="https://ccjfun.cf/posts/df4c/">https://ccjfun.cf/posts/df4c/</a>
                 </span>
             </div>
             <div class="reprint__notice">
@@ -544,12 +429,8 @@
                     
                         <div class="article-tag">
                             
-                                <a href="/tags/%E7%94%9F%E6%B4%BB/">
-                                    <span class="chip bg-color">生活</span>
-                                </a>
-                            
-                                <a href="/tags/%E6%97%85%E8%A1%8C/">
-                                    <span class="chip bg-color">旅行</span>
+                                <a href="/tags/%E9%AB%98%E4%B8%AD/">
+                                    <span class="chip bg-color">高中</span>
                                 </a>
                             
                         </div>
@@ -854,16 +735,18 @@
 <article id="prenext-posts" class="prev-next articles">
     <div class="row article-row">
         
-        <div class="article col s12 m6" data-aos="fade-up">
+        <div class="article col s12 m6" data-aos="fade-up" data-aos="fade-up">
             <div class="article-badge left-badge text-color">
-                <i class="fas fa-chevron-left"></i>&nbsp;上一篇</div>
+                <i class="far fa-dot-circle"></i>&nbsp;本篇
+            </div>
             <div class="card">
-                <a href="/posts/4447/">
+                <a href="/posts/df4c/">
                     <div class="card-image">
                         
-                        <img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-imgs@master/150101-JP-HKs/115.webp" class="responsive-img" alt="日本-香港之行（2014）">
                         
-                        <span class="card-title">日本-香港之行（2014）</span>
+                        <img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-res-photo@master/cover/47.webp" class="responsive-img" alt="朋友区">
+                        
+                        <span class="card-title">朋友区</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
@@ -873,9 +756,9 @@
                         
                     </div>
                     <div class="publish-info">
-                        <span class="publish-date">
-                            <i class="far fa-clock fa-fw icon-date"></i>2015-01-01
-                        </span>
+                            <span class="publish-date">
+                                <i class="far fa-clock fa-fw icon-date"></i>2021-02-17
+                            </span>
                         <span class="publish-author">
                             
                             <i class="fas fa-bookmark fa-fw icon-category"></i>
@@ -888,19 +771,12 @@
                         </span>
                     </div>
                 </div>
+
                 
                 <div class="card-action article-tags">
                     
-                    <a href="/tags/%E6%91%84%E5%BD%B1/">
-                        <span class="chip bg-color">摄影</span>
-                    </a>
-                    
-                    <a href="/tags/%E6%97%A5%E6%9C%AC/">
-                        <span class="chip bg-color">日本</span>
-                    </a>
-                    
-                    <a href="/tags/%E9%A6%99%E6%B8%AF/">
-                        <span class="chip bg-color">香港</span>
+                    <a href="/tags/%E9%AB%98%E4%B8%AD/">
+                        <span class="chip bg-color">高中</span>
                     </a>
                     
                 </div>
@@ -914,24 +790,24 @@
                 下一篇&nbsp;<i class="fas fa-chevron-right"></i>
             </div>
             <div class="card">
-                <a href="/posts/cf10/">
+                <a href="/posts/c5cb/">
                     <div class="card-image">
                         
                         
-                        <img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-res-photo@master/cover/51.webp" class="responsive-img" alt="Charlie Puth 歌曲精选">
+                        <img src="https://cdn.jsdelivr.net/gh/CCJohny/ccjfun-res-photo@master/cover/28.webp" class="responsive-img" alt="Taylor Swift 所有专辑">
                         
-                        <span class="card-title">Charlie Puth 歌曲精选</span>
+                        <span class="card-title">Taylor Swift 所有专辑</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            
+                            from Taylor Swift to evermore
                         
                     </div>
                     <div class="publish-info">
                             <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2000-01-01
+                                <i class="far fa-clock fa-fw icon-date"></i>2021-02-09
                             </span>
                         <span class="publish-author">
                             
@@ -944,6 +820,18 @@
                             
                         </span>
                     </div>
+                </div>
+                
+                <div class="card-action article-tags">
+                    
+                    <a href="/tags/%E9%9F%B3%E4%B9%90/">
+                        <span class="chip bg-color">音乐</span>
+                    </a>
+                    
+                    <a href="/tags/Taylor-Swift/">
+                        <span class="chip bg-color">Taylor Swift</span>
+                    </a>
+                    
                 </div>
                 
             </div>
